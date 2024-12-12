@@ -1,0 +1,406 @@
+[{
+  "_id": {
+    "$oid": "66cee140670f43addda56578"
+  },
+  "staffCode": "ANB-SA87",
+  "password": "$2b$10$13l6BHU/445bGfeFuHF0hObOPvGkoc8ULvFIfmUw8pVKopA7RIRb.",
+  "staffName": "Tran Ngoc Hieu",
+  "branchRef": {
+    "$oid": "66d5453ac1d981f682aee2a6"
+  },
+  "role": 2,
+  "isActive": true,
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NmNlZTE0MDY3MGY0M2FkZGRhNTY1NzgiLCJpc1JlZnJlc2hUb2tlbiI6dHJ1ZSwiaWF0IjoxNzMzOTc2MzM3LCJleHAiOjE3MzY1NjgzMzd9.dSmrXBA55kX1pmDLhTH2HpLukFsbe8-oXRGGPbkcbus",
+  "createdAt": {
+    "$date": "2024-08-28T08:35:12.062Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T04:05:37.527Z"
+  },
+  "__v": 0,
+  "workTime": {
+    "joinDate": {
+      "$date": "2024-10-04T07:21:48.145Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "672ee743c91a9dc421b11867"
+  },
+  "staffCode": "ANB-FE",
+  "password": "$2b$10$Llyw8lh48CtKjwewu/nxSe3EPP57TDHbg9JKntH6Nv06C5hCKQ5tG",
+  "staffName": "Đặng Hậu FE",
+  "workTime": {
+    "joinDate": {
+      "$date": "2024-11-09T04:34:41.858Z"
+    },
+    "outDate": null,
+    "_id": {
+      "$oid": "672ee743c91a9dc421b11866"
+    }
+  },
+  "branchRef": null,
+  "role": 2,
+  "isActive": true,
+  "refreshToken": null,
+  "createdAt": {
+    "$date": "2024-11-09T04:38:27.317Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-11T16:49:24.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672f167a8d2702050209b34d"
+  },
+  "staffCode": "ANB-NS",
+  "password": "$2b$10$gySKwoClyeZur2FZV8Hi8OGRwsgQPvtgTiryY3TFdCSvB3ohqm0Xq",
+  "staffName": "Nguyễn Sỹ Sơn",
+  "workTime": {
+    "joinDate": {
+      "$date": "2024-11-09T05:28:12.103Z"
+    },
+    "outDate": null,
+    "_id": {
+      "$oid": "672f167a8d2702050209b34c"
+    }
+  },
+  "branchRef": null,
+  "role": 2,
+  "isActive": true,
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzJmMTY3YThkMjcwMjA1MDIwOWIzNGQiLCJpc1JlZnJlc2hUb2tlbiI6dHJ1ZSwiaWF0IjoxNzMzNjU0MTU4LCJleHAiOjE3MzYyNDYxNTh9.sfpqtjYdyZjGboqiPNS1MjGp3TjvT25H8YIRKc_2P7I",
+  "createdAt": {
+    "$date": "2024-11-09T07:59:54.204Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-08T10:35:58.776Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67312adbb2eac3d249fd10fd"
+  },
+  "staffCode": "ANB-HIEU",
+  "password": "$2b$10$iRFSVh0X4J2MBnd0lrLlquXoQboEUE2bASQDzwmnC/vRObTSxdqXy",
+  "staffName": "Trần Ngọc Hiếu",
+  "workTime": {
+    "joinDate": {
+      "$date": "2024-11-10T12:41:50.042Z"
+    },
+    "outDate": null,
+    "_id": {
+      "$oid": "67312adbb2eac3d249fd10fc"
+    }
+  },
+  "branchRef": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "role": 1,
+  "isActive": true,
+  "refreshToken": null,
+  "createdAt": {
+    "$date": "2024-11-10T21:51:23.376Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-11T12:34:13.289Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731a34c048b7632fdd88ded"
+  },
+  "staffCode": "ANB-BAOBE",
+  "password": "$2b$10$4/DskTpWkXkB9uCP/ssqC.feATfbMSR6NbE5SnnlxPBm4.s8hrRui",
+  "staffName": "Hoang Nguyen Thai Bao",
+  "workTime": {
+    "joinDate": {
+      "$date": "2024-11-11T06:21:16.313Z"
+    },
+    "outDate": null,
+    "_id": {
+      "$oid": "6731a34c048b7632fdd88dec"
+    }
+  },
+  "branchRef": null,
+  "role": 2,
+  "isActive": true,
+  "refreshToken": null,
+  "createdAt": {
+    "$date": "2024-11-11T06:25:16.783Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-20T16:39:11.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731a3b9048b7632fdd8939c"
+  },
+  "staffCode": "ANB-TBH",
+  "password": "$2b$10$vyNk/NJCskF2HzrMpF0pC./fQP944Zw9dY4WYqSN7vdjXb6pkjUC.",
+  "staffName": "Thai Bao Hoang",
+  "workTime": {
+    "joinDate": {
+      "$date": "2024-11-11T06:21:16.313Z"
+    },
+    "outDate": null,
+    "_id": {
+      "$oid": "6731a3b9048b7632fdd8939b"
+    }
+  },
+  "branchRef": {
+    "$oid": "6731a435048b7632fdd89415"
+  },
+  "role": 1,
+  "isActive": true,
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzMxYTNiOTA0OGI3NjMyZmRkODkzOWMiLCJpc1JlZnJlc2hUb2tlbiI6dHJ1ZSwiaWF0IjoxNzMzOTg3NzI2LCJleHAiOjE3MzY1Nzk3MjZ9.hRdwCWw_Zun1D2l5gdCH0v1x3ATBgKi8b07UonzzEL0",
+  "createdAt": {
+    "$date": "2024-11-11T06:27:05.260Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T07:15:26.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6735bc857c30bb273d708b71"
+  },
+  "staffCode": "ANB-DVH",
+  "password": "$2b$10$bk8DmZXbJcBFkcnDi8zrjuEQnpjani9bHq9TMKZR78Kt/Uv5qvUgu",
+  "staffName": "DANG VAN HAU",
+  "workTime": {
+    "joinDate": {
+      "$date": "2024-11-14T08:49:17.714Z"
+    },
+    "outDate": null,
+    "_id": {
+      "$oid": "6735bc857c30bb273d708b70"
+    }
+  },
+  "branchRef": {
+    "$oid": "6731a435048b7632fdd89415"
+  },
+  "role": 1,
+  "isActive": true,
+  "refreshToken": null,
+  "createdAt": {
+    "$date": "2024-11-14T09:01:57.472Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-14T09:01:57.472Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6735bd587c30bb273d708d8e"
+  },
+  "staffCode": "ANB-DVH2",
+  "password": "$2b$10$HDo3zmrg21JYyJnOUBtatOMqImQHR4QmQUJEcko4W90egac5bnVBa",
+  "staffName": "ANB-DVH2",
+  "workTime": {
+    "joinDate": {
+      "$date": "2024-11-14T08:49:17.714Z"
+    },
+    "outDate": null,
+    "_id": {
+      "$oid": "6735bd587c30bb273d708d8d"
+    }
+  },
+  "branchRef": {
+    "$oid": "6731a435048b7632fdd89415"
+  },
+  "role": 1,
+  "isActive": true,
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzM1YmQ1ODdjMzBiYjI3M2Q3MDhkOGUiLCJpc1JlZnJlc2hUb2tlbiI6dHJ1ZSwiaWF0IjoxNzMzOTM1Nzc0LCJleHAiOjE3MzY1Mjc3NzR9.WNgPe-oEGfPTmeY2EKwEou3rEdj81QUbXxkk5dXlLMQ",
+  "createdAt": {
+    "$date": "2024-11-14T09:05:28.640Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-11T16:49:34.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6736318b0b09d630788bfc00"
+  },
+  "staffCode": "ANB-HUNG",
+  "password": "$2b$10$rxmyzVZC3l9oiHZp.YhfbOoQBOOgmZTBh4nBNCvE.J75SSfVRllyK",
+  "staffName": "ANB-HUNG",
+  "workTime": {
+    "joinDate": {
+      "$date": "2024-11-14T13:05:06.816Z"
+    },
+    "outDate": null,
+    "_id": {
+      "$oid": "6736318b0b09d630788bfbff"
+    }
+  },
+  "branchRef": null,
+  "role": 2,
+  "isActive": true,
+  "refreshToken": null,
+  "createdAt": {
+    "$date": "2024-11-14T17:21:15.825Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-14T17:21:15.825Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673723f8e08ab89bf7757b88"
+  },
+  "staffCode": "ANB-HUNGG",
+  "password": "$2b$10$oHdwLVRV10uRSCivRgCuaulP8s6e3sd7.5Kbb5069QMEGw1R5/oeK",
+  "staffName": "ANB-HUNGNG",
+  "workTime": {
+    "joinDate": {
+      "$date": "2024-11-15T10:29:10.032Z"
+    },
+    "outDate": null,
+    "_id": {
+      "$oid": "673723f8e08ab89bf7757b87"
+    }
+  },
+  "branchRef": null,
+  "role": 2,
+  "isActive": true,
+  "refreshToken": null,
+  "createdAt": {
+    "$date": "2024-11-15T10:35:36.187Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-15T10:35:36.187Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673ff8d447e9bfdd9efbd8b5"
+  },
+  "staffCode": "ANB-FETEST",
+  "password": "$2b$10$8tH/KtjolF8Jo704Gaox6uHeWDnOAQjgd3j.yX7khFO0XyMlVg0U.",
+  "staffName": "fe",
+  "workTime": {
+    "joinDate": {
+      "$date": "2024-11-22T02:00:34.488Z"
+    },
+    "outDate": null,
+    "_id": {
+      "$oid": "673ff8d447e9bfdd9efbd8b4"
+    }
+  },
+  "branchRef": {
+    "$oid": "6731a435048b7632fdd89415"
+  },
+  "role": 0,
+  "isActive": true,
+  "refreshToken": null,
+  "createdAt": {
+    "$date": "2024-11-22T03:21:56.760Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T12:46:51.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d778cee7f9fb896faedbd"
+  },
+  "staffCode": "ANB-DOMIC",
+  "password": "$2b$10$YVbonm1zFA3yHRJ7oc6AuOBclQoRI7Gcy.RmCLLjWcIhknMSK8mwS",
+  "staffName": "Dương DOMIC",
+  "workTime": {
+    "joinDate": {
+      "$date": "2024-12-02T08:28:39.999Z"
+    },
+    "outDate": null,
+    "_id": {
+      "$oid": "674d778cee7f9fb896faedbc"
+    }
+  },
+  "branchRef": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "role": 0,
+  "isActive": true,
+  "refreshToken": null,
+  "createdAt": {
+    "$date": "2024-12-02T09:02:04.861Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T09:55:54.884Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674dd5ec88dfeab11bfe1436"
+  },
+  "staffCode": "ANB-TEST",
+  "password": "$2b$10$QheoOED4sI02BpELq7d4DuJ2B4sLekTjJie2.c2qtJuw/TWyoKbDK",
+  "staffName": "fe",
+  "workTime": {
+    "joinDate": {
+      "$date": "2024-12-02T14:34:35.935Z"
+    },
+    "outDate": null,
+    "_id": {
+      "$oid": "674dd5ec88dfeab11bfe1435"
+    }
+  },
+  "branchRef": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "role": 0,
+  "isActive": true,
+  "refreshToken": null,
+  "createdAt": {
+    "$date": "2024-12-02T15:44:44.332Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T15:32:53.456Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675178c85627430a4e546427"
+  },
+  "staffCode": "ANB-NVT",
+  "password": "$2b$10$edOSNtgdV2AbGm9Vc4PHR.x6cbLJibP8dqKXwMoE/nh6x.CmLo1Z6",
+  "staffName": "nvientest",
+  "workTime": {
+    "joinDate": {
+      "$date": "2024-12-05T00:34:10.944Z"
+    },
+    "outDate": null,
+    "_id": {
+      "$oid": "675178c85627430a4e546426"
+    }
+  },
+  "branchRef": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "role": 0,
+  "isActive": true,
+  "refreshToken": null,
+  "createdAt": {
+    "$date": "2024-12-05T09:56:24.540Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-11T12:03:21.808Z"
+  },
+  "__v": 0
+}]

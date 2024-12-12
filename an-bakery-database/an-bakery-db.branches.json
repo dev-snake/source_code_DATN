@@ -1,0 +1,612 @@
+[{
+  "_id": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "branchInventory": {
+    "materials": [
+      {
+        "materialId": {
+          "$oid": "673d0a5ebd3e3d3e08c4a6ba"
+        },
+        "inventoryVolume": 60,
+        "historyChange": [
+          {
+            "weightChange": 20,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-11-21T08:30:35.369Z"
+            }
+          },
+          {
+            "weightChange": 20,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-03T03:19:18.799Z"
+            }
+          },
+          {
+            "weightChange": 20,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-06T04:42:45.445Z"
+            }
+          },
+          {
+            "weightChange": 20,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-06T04:43:37.594Z"
+            }
+          }
+        ]
+      },
+      {
+        "materialId": {
+          "$oid": "673d09f2bd3e3d3e08c4a6b4"
+        },
+        "inventoryVolume": 1152000,
+        "historyChange": [
+          {
+            "weightChange": 576000,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-11-21T08:30:35.371Z"
+            }
+          },
+          {
+            "weightChange": 576000,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-03T03:19:18.800Z"
+            }
+          },
+          {
+            "weightChange": 576000,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-06T04:43:43.357Z"
+            }
+          }
+        ]
+      },
+      {
+        "materialId": {
+          "$oid": "673998fa13ab31dfbe1e12fd"
+        },
+        "inventoryVolume": 92,
+        "historyChange": [
+          {
+            "weightChange": 100,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-03T14:00:17.857Z"
+            }
+          },
+          {
+            "weightChange": -8,
+            "type": "forOrder",
+            "createdAt": {
+              "$date": "2024-12-07T17:48:50.279Z"
+            }
+          }
+        ]
+      },
+      {
+        "materialId": {
+          "$oid": "673995f513ab31dfbe1e12d2"
+        },
+        "inventoryVolume": 4500,
+        "historyChange": [
+          {
+            "weightChange": 5000,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-03T14:00:17.857Z"
+            }
+          },
+          {
+            "weightChange": -500,
+            "type": "forOrder",
+            "createdAt": {
+              "$date": "2024-12-07T17:48:50.280Z"
+            }
+          }
+        ]
+      },
+      {
+        "materialId": {
+          "$oid": "674f1138110caf55f947d297"
+        },
+        "inventoryVolume": 100,
+        "historyChange": [
+          {
+            "weightChange": 1000,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-03T14:16:43.800Z"
+            }
+          },
+          {
+            "weightChange": -1000,
+            "type": "removeExpired",
+            "createdAt": {
+              "$date": "2024-12-05T06:35:01.651Z"
+            }
+          },
+          {
+            "weightChange": 100,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-06T04:58:12.900Z"
+            }
+          }
+        ]
+      },
+      {
+        "materialId": {
+          "$oid": "6739964513ab31dfbe1e12ef"
+        },
+        "inventoryVolume": 9960,
+        "historyChange": [
+          {
+            "weightChange": 10000,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-03T14:16:43.801Z"
+            }
+          },
+          {
+            "weightChange": -40,
+            "type": "forOrder",
+            "createdAt": {
+              "$date": "2024-12-07T17:48:50.281Z"
+            }
+          }
+        ]
+      },
+      {
+        "materialId": {
+          "$oid": "67399cdd13ab31dfbe1e133e"
+        },
+        "inventoryVolume": 9750,
+        "historyChange": [
+          {
+            "weightChange": 10000,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-03T14:16:43.801Z"
+            }
+          },
+          {
+            "weightChange": -250,
+            "type": "forOrder",
+            "createdAt": {
+              "$date": "2024-12-07T17:48:50.282Z"
+            }
+          }
+        ]
+      },
+      {
+        "materialId": {
+          "$oid": "67399fe513ab31dfbe1e1383"
+        },
+        "inventoryVolume": 9510,
+        "historyChange": [
+          {
+            "weightChange": 10000,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-03T14:16:43.801Z"
+            }
+          },
+          {
+            "weightChange": -490,
+            "type": "forOrder",
+            "createdAt": {
+              "$date": "2024-12-07T17:48:50.283Z"
+            }
+          }
+        ]
+      },
+      {
+        "materialId": {
+          "$oid": "6739990c13ab31dfbe1e130b"
+        },
+        "inventoryVolume": 25000,
+        "historyChange": [
+          {
+            "weightChange": 10000,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-03T14:16:43.801Z"
+            }
+          },
+          {
+            "weightChange": 15000,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-03T14:24:22.443Z"
+            }
+          }
+        ]
+      },
+      {
+        "materialId": {
+          "$oid": "6739f77313ab31dfbe1e377c"
+        },
+        "inventoryVolume": 10000,
+        "historyChange": [
+          {
+            "weightChange": 10000,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-03T14:16:43.801Z"
+            }
+          }
+        ]
+      },
+      {
+        "materialId": {
+          "$oid": "6739a2dd13ab31dfbe1e139c"
+        },
+        "inventoryVolume": 10000,
+        "historyChange": [
+          {
+            "weightChange": 10000,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-03T14:16:43.802Z"
+            }
+          }
+        ]
+      },
+      {
+        "materialId": {
+          "$oid": "6739b72e13ab31dfbe1e1557"
+        },
+        "inventoryVolume": 9750,
+        "historyChange": [
+          {
+            "weightChange": 10000,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-03T14:16:43.802Z"
+            }
+          },
+          {
+            "weightChange": -250,
+            "type": "forOrder",
+            "createdAt": {
+              "$date": "2024-12-07T17:48:50.284Z"
+            }
+          }
+        ]
+      },
+      {
+        "materialId": {
+          "$oid": "6739a12d13ab31dfbe1e1395"
+        },
+        "inventoryVolume": 10000,
+        "historyChange": [
+          {
+            "weightChange": 10000,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-03T14:16:43.802Z"
+            }
+          }
+        ]
+      },
+      {
+        "materialId": {
+          "$oid": "6739990313ab31dfbe1e1304"
+        },
+        "inventoryVolume": 14950,
+        "historyChange": [
+          {
+            "weightChange": 15000,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-03T14:24:22.444Z"
+            }
+          },
+          {
+            "weightChange": -50,
+            "type": "forOrder",
+            "createdAt": {
+              "$date": "2024-12-07T17:48:50.284Z"
+            }
+          }
+        ]
+      },
+      {
+        "materialId": {
+          "$oid": "6739b41113ab31dfbe1e1534"
+        },
+        "inventoryVolume": 149930,
+        "historyChange": [
+          {
+            "weightChange": 150000,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-03T14:25:54.381Z"
+            }
+          },
+          {
+            "weightChange": -70,
+            "type": "forOrder",
+            "createdAt": {
+              "$date": "2024-12-07T17:48:50.285Z"
+            }
+          }
+        ]
+      },
+      {
+        "materialId": {
+          "$oid": "6739aaf713ab31dfbe1e13b5"
+        },
+        "inventoryVolume": 1100,
+        "historyChange": [
+          {
+            "weightChange": 1100,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-03T14:28:14.477Z"
+            }
+          }
+        ]
+      },
+      {
+        "materialId": {
+          "$oid": "67399ce913ab31dfbe1e1345"
+        },
+        "inventoryVolume": 99995,
+        "historyChange": [
+          {
+            "weightChange": 100000,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-03T14:30:29.327Z"
+            }
+          },
+          {
+            "weightChange": -5,
+            "type": "forOrder",
+            "createdAt": {
+              "$date": "2024-12-07T17:48:50.285Z"
+            }
+          }
+        ]
+      },
+      {
+        "materialId": {
+          "$oid": "6739964b13ab31dfbe1e12f6"
+        },
+        "inventoryVolume": 3530,
+        "historyChange": [
+          {
+            "weightChange": 3600,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-06T04:58:04.899Z"
+            }
+          },
+          {
+            "weightChange": -70,
+            "type": "forOrder",
+            "createdAt": {
+              "$date": "2024-12-07T17:48:50.286Z"
+            }
+          }
+        ]
+      },
+      {
+        "materialId": {
+          "$oid": "6739bd9a13ab31dfbe1e164d"
+        },
+        "inventoryVolume": 9950,
+        "historyChange": [
+          {
+            "weightChange": 10000,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-06T04:58:04.900Z"
+            }
+          },
+          {
+            "weightChange": -50,
+            "type": "forOrder",
+            "createdAt": {
+              "$date": "2024-12-07T17:48:50.287Z"
+            }
+          }
+        ]
+      },
+      {
+        "materialId": {
+          "$oid": "6739ed2513ab31dfbe1e233d"
+        },
+        "inventoryVolume": 99,
+        "historyChange": [
+          {
+            "weightChange": 100,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-06T05:01:27.176Z"
+            }
+          },
+          {
+            "weightChange": -1,
+            "type": "forOrder",
+            "createdAt": {
+              "$date": "2024-12-07T17:48:50.288Z"
+            }
+          }
+        ]
+      }
+    ],
+    "cakes": [
+      {
+        "cakeId": {
+          "$oid": "6739f6bd13ab31dfbe1e3050"
+        },
+        "inventoryVolume": 1,
+        "selectedVariants": [],
+        "historyChange": [
+          {
+            "quantityChange": 1,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-07T17:49:41.447Z"
+            }
+          }
+        ]
+      },
+      {
+        "cakeId": {
+          "$oid": "6739ff1313ab31dfbe1e4661"
+        },
+        "inventoryVolume": 1,
+        "selectedVariants": [],
+        "historyChange": [
+          {
+            "quantityChange": 1,
+            "type": "newImport",
+            "createdAt": {
+              "$date": "2024-12-07T17:49:41.448Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "branchConfig": {
+    "branchDisplayName": "An Bakery Kha Vạn Cân",
+    "activeTime": {
+      "open": "07:00",
+      "close": "21:00"
+    },
+    "branchType": "online",
+    "branchAddress": "https://www.facebook.com/NgocHieu.Fish/",
+    "branchContact": {
+      "branchOwnerName": "Trần Ngọc Hiếu",
+      "branchPhoneNumber": "0388604092"
+    },
+    "mapLink": "https://www.facebook.com/NgocHieu.Fish/"
+  },
+  "businessProducts": [
+    {
+      "$oid": "673cd8c2bd3e3d3e08c401be"
+    },
+    {
+      "$oid": "673cd10fbd3e3d3e08c3eebf"
+    },
+    {
+      "$oid": "673c5b3d0ccc06a6d0221fd7"
+    },
+    {
+      "$oid": "673a376913ab31dfbe1e7e40"
+    },
+    {
+      "$oid": "6739ff1313ab31dfbe1e4661"
+    },
+    {
+      "$oid": "6739f6bd13ab31dfbe1e3050"
+    },
+    {
+      "$oid": "6740c0ca7c97727848cd4c6a"
+    },
+    {
+      "$oid": "6740c3147c97727848cd6ac5"
+    }
+  ],
+  "isActive": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-10T21:48:26.030Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T11:38:52.917Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6731a435048b7632fdd89415"
+  },
+  "branchInventory": {
+    "materials": [],
+    "cakes": []
+  },
+  "branchConfig": {
+    "branchDisplayName": "Chi nhanh Ho Chi Minh",
+    "activeTime": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "branchType": "direct",
+    "branchAddress": "Ho Chi Minh",
+    "branchContact": {
+      "branchOwnerName": "Hoang Nguyen Thai Bao",
+      "branchPhoneNumber": "0987678675"
+    },
+    "mapLink": "https://www.facebook.com/"
+  },
+  "businessProducts": [
+    {
+      "$oid": "6739b1df3f8dd039ac35840c"
+    },
+    {
+      "$oid": "673c5b3d0ccc06a6d0221fd7"
+    }
+  ],
+  "isActive": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-11T06:29:09.908Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T11:38:52.918Z"
+  },
+  "__v": 26
+},
+{
+  "_id": {
+    "$oid": "6749df007ea44b6091128ae0"
+  },
+  "branchInventory": {
+    "materials": [],
+    "cakes": []
+  },
+  "branchConfig": {
+    "branchDisplayName": "An Bakery Hóc Môn",
+    "activeTime": {
+      "open": "07:00",
+      "close": "23:00"
+    },
+    "branchType": "direct",
+    "branchAddress": "An Bakery Hóc Môn",
+    "branchContact": {
+      "branchOwnerName": "Đoàn Văn Hậu",
+      "branchPhoneNumber": "'0388430392"
+    },
+    "mapLink": "https://www.facebook.com/"
+  },
+  "businessProducts": [
+    {
+      "$oid": "673cd8c2bd3e3d3e08c401be"
+    },
+    {
+      "$oid": "673c5b3d0ccc06a6d0221fd7"
+    }
+  ],
+  "isActive": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-29T15:34:24.961Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T11:38:52.918Z"
+  },
+  "__v": 0
+}]

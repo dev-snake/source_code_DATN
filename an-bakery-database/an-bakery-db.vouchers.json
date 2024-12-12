@@ -1,0 +1,1046 @@
+[{
+  "_id": {
+    "$oid": "6735d02717cc23021b16007f"
+  },
+  "voucherCode": "FS100k",
+  "voucherDescription": "Giảm tối đa 100k phí vận chuyển",
+  "branchId": null,
+  "voucherConfig": {
+    "discountValue": 100000,
+    "maxValue": 100000,
+    "maxTotalUsage": null,
+    "maxUserUsage": null,
+    "validFrom": {
+      "$date": "2024-11-01T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2024-11-30T00:00:00.000Z"
+    },
+    "minimumOrderValues": null,
+    "type": "fixed",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "6735d02717cc23021b160080"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-SA87",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6736b57cd59b2f5c198a6e19"
+  },
+  "voucherCode": "whitelist100k",
+  "voucherDescription": "Giảm 100k cho đơn từ 500k, dành cho một số khách hàng đặc biệt.",
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "voucherConfig": {
+    "discountValue": 100000,
+    "maxValue": 100000,
+    "maxTotalUsage": null,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-11-01T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2024-11-30T00:00:00.000Z"
+    },
+    "minimumOrderValues": 500000,
+    "type": "fixed",
+    "isWhiteList": true,
+    "_id": {
+      "$oid": "6736b57cd59b2f5c198a6e1a"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [
+    {
+      "$oid": "67319742341c8f04a0acec4c"
+    }
+  ],
+  "creatorId": "ANB-HIEU",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737221d046032b4e81ea4f8"
+  },
+  "voucherCode": "freeship20k",
+  "voucherDescription": "",
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "voucherConfig": {
+    "discountValue": 100,
+    "maxValue": 20000,
+    "maxTotalUsage": 100,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-11-01T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2024-11-30T00:00:00.000Z"
+    },
+    "minimumOrderValues": null,
+    "type": "shipFee",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "6737221d046032b4e81ea4f9"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-HIEU",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67372255046032b4e81ea510"
+  },
+  "voucherCode": "dc10max20",
+  "voucherDescription": "",
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "voucherConfig": {
+    "discountValue": 10,
+    "maxValue": 20000,
+    "maxTotalUsage": 100,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-11-01T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2024-11-30T00:00:00.000Z"
+    },
+    "minimumOrderValues": null,
+    "type": "percentage",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "67372255046032b4e81ea511"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-HIEU",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673723a6046032b4e81ea55b"
+  },
+  "voucherCode": "freeshipextramax",
+  "voucherDescription": "",
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "voucherConfig": {
+    "discountValue": 100,
+    "maxValue": 0,
+    "maxTotalUsage": null,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-11-01T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2024-11-30T00:00:00.000Z"
+    },
+    "minimumOrderValues": null,
+    "type": "shipFee",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "673723a6046032b4e81ea55c"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-HIEU",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673729e818a9d74504c66e1e"
+  },
+  "voucherCode": "tkYRsP9UTkf",
+  "voucherDescription": "1",
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "voucherConfig": {
+    "discountValue": 100,
+    "maxValue": 200000,
+    "maxTotalUsage": 1,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-11-07T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2024-11-30T00:00:00.000Z"
+    },
+    "minimumOrderValues": 5000,
+    "type": "percentage",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "673729e818a9d74504c66e1f"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67372ca918a9d74504c66f7a"
+  },
+  "voucherCode": "M6dG6wbtGCbn",
+  "voucherDescription": "40000",
+  "branchId": null,
+  "voucherConfig": {
+    "discountValue": 40000,
+    "maxValue": 40000,
+    "maxTotalUsage": 1,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-11-13T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2024-11-30T00:00:00.000Z"
+    },
+    "minimumOrderValues": 1000,
+    "type": "fixed",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "67372ca918a9d74504c66f7b"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738195a2924ed899a22d926"
+  },
+  "voucherCode": "biEr9U410j",
+  "voucherDescription": "100k",
+  "branchId": {
+    "$oid": "6749df007ea44b6091128ae0"
+  },
+  "voucherConfig": {
+    "discountValue": 100000,
+    "maxValue": 100000,
+    "maxTotalUsage": 1,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-11-11T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2024-11-23T00:00:00.000Z"
+    },
+    "minimumOrderValues": 10000,
+    "type": "fixed",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "6738195a2924ed899a22d927"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739fb043f8dd039ac359d17"
+  },
+  "voucherCode": "SfgoJSb6oS7",
+  "voucherDescription": "100%",
+  "branchId": {
+    "$oid": "6731a435048b7632fdd89415"
+  },
+  "voucherConfig": {
+    "discountValue": 100,
+    "maxValue": 20000,
+    "maxTotalUsage": 1,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-11-09T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2024-11-22T00:00:00.000Z"
+    },
+    "minimumOrderValues": 5000,
+    "type": "shipFee",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "6739fb043f8dd039ac359d18"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674a9f861989a320f68eb19c"
+  },
+  "voucherCode": "DC10P",
+  "voucherDescription": "10",
+  "branchId": null,
+  "voucherConfig": {
+    "discountValue": 10,
+    "maxValue": 10000,
+    "maxTotalUsage": 100,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-11-29T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2024-12-18T00:00:00.000Z"
+    },
+    "minimumOrderValues": 10000,
+    "type": "percentage",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "674a9f861989a320f68eb19d"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674c321892561a19d764238f"
+  },
+  "voucherCode": "nLZ92pP46h",
+  "voucherDescription": "20000đ",
+  "branchId": null,
+  "voucherConfig": {
+    "discountValue": 100,
+    "maxValue": 20000,
+    "maxTotalUsage": 1,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-12-01T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2024-12-31T00:00:00.000Z"
+    },
+    "minimumOrderValues": 10000,
+    "type": "shipFee",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "674c321892561a19d7642390"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674c325192561a19d76423ef"
+  },
+  "voucherCode": "zmsJ3cEcGV7T",
+  "voucherDescription": "20000đ",
+  "branchId": {
+    "$oid": "6749df007ea44b6091128ae0"
+  },
+  "voucherConfig": {
+    "discountValue": 100,
+    "maxValue": 20000,
+    "maxTotalUsage": 1,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-12-31T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2025-01-24T00:00:00.000Z"
+    },
+    "minimumOrderValues": 10000,
+    "type": "shipFee",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "674c325192561a19d76423f0"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674dc75a88dfeab11bfe02a4"
+  },
+  "voucherCode": "V5F8MzMXkZi",
+  "voucherDescription": "g",
+  "branchId": null,
+  "voucherConfig": {
+    "discountValue": 100,
+    "maxValue": 0,
+    "maxTotalUsage": 2,
+    "maxUserUsage": 2,
+    "validFrom": {
+      "$date": "2024-12-01T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2024-12-31T00:00:00.000Z"
+    },
+    "minimumOrderValues": 10000,
+    "type": "percentage",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "674dc75a88dfeab11bfe02a5"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674dca5f88dfeab11bfe0386"
+  },
+  "voucherCode": "HONLI6Q0a4c",
+  "voucherDescription": "f",
+  "branchId": null,
+  "voucherConfig": {
+    "discountValue": 10,
+    "maxValue": 0,
+    "maxTotalUsage": 1,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-12-01T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2024-12-25T00:00:00.000Z"
+    },
+    "minimumOrderValues": 10000,
+    "type": "percentage",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "674dca5f88dfeab11bfe0387"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674dca8a88dfeab11bfe03bd"
+  },
+  "voucherCode": "z1mNOB91G5y6",
+  "voucherDescription": "v",
+  "branchId": null,
+  "voucherConfig": {
+    "discountValue": 10,
+    "maxValue": 0,
+    "maxTotalUsage": 1,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-12-01T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2024-12-18T00:00:00.000Z"
+    },
+    "minimumOrderValues": 10000,
+    "type": "percentage",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "674dca8a88dfeab11bfe03be"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674dcb3088dfeab11bfe03fe"
+  },
+  "voucherCode": "ftdhKPWxePOS",
+  "voucherDescription": "f",
+  "branchId": null,
+  "voucherConfig": {
+    "discountValue": 100000,
+    "maxValue": 0,
+    "maxTotalUsage": 1,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-12-01T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2024-12-28T00:00:00.000Z"
+    },
+    "minimumOrderValues": 10000,
+    "type": "fixed",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "674dcb3088dfeab11bfe03ff"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674dcbbd88dfeab11bfe0471"
+  },
+  "voucherCode": "nJwPPhQsGV0m",
+  "voucherDescription": "1",
+  "branchId": null,
+  "voucherConfig": {
+    "discountValue": 100000,
+    "maxValue": 0,
+    "maxTotalUsage": 1,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-12-01T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2024-12-28T00:00:00.000Z"
+    },
+    "minimumOrderValues": 10000,
+    "type": "fixed",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "674dcbbd88dfeab11bfe0472"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674dcc5b88dfeab11bfe04bb"
+  },
+  "voucherCode": "URqEi1uCSA",
+  "voucherDescription": "",
+  "branchId": null,
+  "voucherConfig": {
+    "discountValue": 100,
+    "maxValue": 0,
+    "maxTotalUsage": 1,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-12-01T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2024-12-28T00:00:00.000Z"
+    },
+    "minimumOrderValues": 10000,
+    "type": "shipFee",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "674dcc5b88dfeab11bfe04bc"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674dcd6b88dfeab11bfe051c"
+  },
+  "voucherCode": "fQ94zhuGr7kJ",
+  "voucherDescription": "1",
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "voucherConfig": {
+    "discountValue": 10,
+    "maxValue": 0,
+    "maxTotalUsage": 1,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-12-01T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2024-12-25T00:00:00.000Z"
+    },
+    "minimumOrderValues": 10000,
+    "type": "percentage",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "674dcd6b88dfeab11bfe051d"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674dce5288dfeab11bfe054a"
+  },
+  "voucherCode": "xVjXB6V5PJI",
+  "voucherDescription": "",
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "voucherConfig": {
+    "discountValue": 10000,
+    "maxValue": 0,
+    "maxTotalUsage": 1,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-12-01T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2024-12-24T00:00:00.000Z"
+    },
+    "minimumOrderValues": 10000,
+    "type": "fixed",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "674dce5288dfeab11bfe054b"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674dcf4588dfeab11bfe0592"
+  },
+  "voucherCode": "u26cUqjBvNb",
+  "voucherDescription": "1",
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "voucherConfig": {
+    "discountValue": 100,
+    "maxValue": 0,
+    "maxTotalUsage": 1,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-12-01T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2024-12-25T00:00:00.000Z"
+    },
+    "minimumOrderValues": 10000,
+    "type": "shipFee",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "674dcf4588dfeab11bfe0593"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674dcfe488dfeab11bfe05d9"
+  },
+  "voucherCode": "xCUjrC0RBx9",
+  "voucherDescription": "sadsa",
+  "branchId": null,
+  "voucherConfig": {
+    "discountValue": 100,
+    "maxValue": 20000,
+    "maxTotalUsage": 1,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-12-28T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2025-01-23T00:00:00.000Z"
+    },
+    "minimumOrderValues": 10000,
+    "type": "shipFee",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "674dcfe488dfeab11bfe05da"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674dd03588dfeab11bfe0634"
+  },
+  "voucherCode": "dBgQaB796Nn3",
+  "voucherDescription": "a",
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "voucherConfig": {
+    "discountValue": 100,
+    "maxValue": 20000,
+    "maxTotalUsage": 1,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-12-19T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2024-12-30T00:00:00.000Z"
+    },
+    "minimumOrderValues": 10000,
+    "type": "shipFee",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "674dd03588dfeab11bfe0635"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674dd0cd88dfeab11bfe0669"
+  },
+  "voucherCode": "m4YnAqyFOKwO",
+  "voucherDescription": "x",
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "voucherConfig": {
+    "discountValue": 100,
+    "maxValue": 0,
+    "maxTotalUsage": 1,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-12-01T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2024-12-27T00:00:00.000Z"
+    },
+    "minimumOrderValues": 10000,
+    "type": "shipFee",
+    "isWhiteList": true,
+    "_id": {
+      "$oid": "674dd0cd88dfeab11bfe066a"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [
+    {
+      "$oid": "6736b703d59b2f5c198a6e86"
+    }
+  ],
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674dd1a088dfeab11bfe0731"
+  },
+  "voucherCode": "vWcoaQ44882Z",
+  "voucherDescription": "f",
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "voucherConfig": {
+    "discountValue": 100,
+    "maxValue": 0,
+    "maxTotalUsage": 1,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-12-01T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2024-12-26T00:00:00.000Z"
+    },
+    "minimumOrderValues": 10000,
+    "type": "shipFee",
+    "isWhiteList": true,
+    "_id": {
+      "$oid": "674dd1a088dfeab11bfe0732"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [
+    {
+      "$oid": "672ee6b2c91a9dc421b11829"
+    }
+  ],
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674dd22288dfeab11bfe079b"
+  },
+  "voucherCode": "jOpb6FTRxs",
+  "voucherDescription": "",
+  "branchId": null,
+  "voucherConfig": {
+    "discountValue": 50000,
+    "maxValue": 50000,
+    "maxTotalUsage": 1,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-12-01T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2024-12-28T00:00:00.000Z"
+    },
+    "minimumOrderValues": 10000,
+    "type": "fixed",
+    "isWhiteList": true,
+    "_id": {
+      "$oid": "674dd22288dfeab11bfe079c"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [
+    {
+      "$oid": "672ee6b2c91a9dc421b11829"
+    }
+  ],
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675499732820ffd9e56f3d87"
+  },
+  "voucherCode": "e3eKz9kHUY",
+  "voucherDescription": "",
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "voucherConfig": {
+    "discountValue": 100,
+    "maxValue": 0,
+    "maxTotalUsage": 1000000,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2025-01-01T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2025-01-31T00:00:00.000Z"
+    },
+    "minimumOrderValues": null,
+    "type": "shipFee",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "675499732820ffd9e56f3d88"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-HIEU",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67551d9466e8453bedc5ecc8"
+  },
+  "voucherCode": "sgNjaEbDqzS",
+  "voucherDescription": "",
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "voucherConfig": {
+    "discountValue": 100,
+    "maxValue": 20000,
+    "maxTotalUsage": 1,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-12-28T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2025-01-06T00:00:00.000Z"
+    },
+    "minimumOrderValues": 10000,
+    "type": "shipFee",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "67551d9466e8453bedc5ecc9"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67551e3d66e8453bedc5ed82"
+  },
+  "voucherCode": "NtHhOsNn1g7",
+  "voucherDescription": "fdsffd",
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "voucherConfig": {
+    "discountValue": 100,
+    "maxValue": 0,
+    "maxTotalUsage": 1,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-12-01T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2024-12-31T00:00:00.000Z"
+    },
+    "minimumOrderValues": 10000,
+    "type": "shipFee",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "67551e3d66e8453bedc5ed83"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67551e8866e8453bedc5edec"
+  },
+  "voucherCode": "EhDBPBvTJnZ",
+  "voucherDescription": "d",
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "voucherConfig": {
+    "discountValue": 100,
+    "maxValue": 0,
+    "maxTotalUsage": 1,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-12-28T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2025-01-21T00:00:00.000Z"
+    },
+    "minimumOrderValues": 10000,
+    "type": "shipFee",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "67551e8866e8453bedc5eded"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6755233266e8453bedc5f066"
+  },
+  "voucherCode": "dGg5N006FWR",
+  "voucherDescription": "sdf",
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "voucherConfig": {
+    "discountValue": 100,
+    "maxValue": 0,
+    "maxTotalUsage": 1,
+    "maxUserUsage": 1,
+    "validFrom": {
+      "$date": "2024-12-02T00:00:00.000Z"
+    },
+    "validTo": {
+      "$date": "2024-12-28T00:00:00.000Z"
+    },
+    "minimumOrderValues": 10000,
+    "type": "shipFee",
+    "isWhiteList": false,
+    "_id": {
+      "$oid": "6755233266e8453bedc5f067"
+    }
+  },
+  "usedCount": 0,
+  "userUsed": [],
+  "whiteListUsers": [],
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "__v": 0
+}]

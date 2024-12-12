@@ -1,0 +1,787 @@
+[{
+  "_id": {
+    "$oid": "673ca9a17cdc5035c0bacf16"
+  },
+  "orderGroupId": {
+    "$oid": "673ca9a17cdc5035c0bacf14"
+  },
+  "customerId": {
+    "$oid": "672ee6b2c91a9dc421b11829"
+  },
+  "branchId": {
+    "$oid": "6731a435048b7632fdd89415"
+  },
+  "orderItems": [
+    {
+      "cakeId": {
+        "$oid": "673c5b3d0ccc06a6d0221fd7"
+      },
+      "selectedVariants": [],
+      "quantity": 1,
+      "priceAtBuy": 349600,
+      "isRated": false
+    }
+  ],
+  "orderSummary": {
+    "subTotalPrice": 349600,
+    "totalPrice": 369600,
+    "reducedFee": 0,
+    "shippingFee": 20000
+  },
+  "voucherCode": null,
+  "explainReason": null,
+  "orderStatus": "pending",
+  "orderType": "customerOrder",
+  "orderNote": null,
+  "orderPoint": 0,
+  "orderOptions": {
+    "deliveryTime": {
+      "$date": "2024-11-19T15:07:13.473Z"
+    },
+    "deliveryMethod": "toHouse"
+  },
+  "orderUrgent": {
+    "isUrgent": false
+  },
+  "createdAt": {
+    "$date": "2024-11-19T15:07:13.564Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T15:07:13.564Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673eec92c473c4f0c02afff8"
+  },
+  "orderGroupId": {
+    "$oid": "673eec92c473c4f0c02afff6"
+  },
+  "customerId": {
+    "$oid": "6736b703d59b2f5c198a6e86"
+  },
+  "branchId": {
+    "$oid": "6731a435048b7632fdd89415"
+  },
+  "orderItems": [
+    {
+      "cakeId": {
+        "$oid": "673c5b3d0ccc06a6d0221fd7"
+      },
+      "selectedVariants": [
+        {
+          "variantKey": {
+            "$oid": "673c5b3d0ccc06a6d0221fd8"
+          },
+          "itemKey": {
+            "$oid": "673c5b3d0ccc06a6d0221fd9"
+          }
+        }
+      ],
+      "quantity": 1,
+      "priceAtBuy": 349600,
+      "isRated": false
+    }
+  ],
+  "orderSummary": {
+    "subTotalPrice": 354600,
+    "totalPrice": 374600,
+    "reducedFee": 0,
+    "shippingFee": 20000
+  },
+  "voucherCode": null,
+  "explainReason": null,
+  "orderStatus": "pending",
+  "orderType": "customerOrder",
+  "orderNote": null,
+  "orderPoint": 0,
+  "orderOptions": {
+    "deliveryTime": {
+      "$date": "2024-11-21T08:17:22.066Z"
+    },
+    "deliveryMethod": "toHouse"
+  },
+  "orderUrgent": {
+    "isUrgent": false
+  },
+  "createdAt": {
+    "$date": "2024-11-21T08:17:22.133Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T08:17:22.133Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6742cefbc0203524e0a0fda5"
+  },
+  "orderGroupId": {
+    "$oid": "6742cefbc0203524e0a0fd9d"
+  },
+  "customerId": {
+    "$oid": "67319742341c8f04a0acec4c"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "orderItems": [
+    {
+      "cakeId": {
+        "$oid": "6739f6bd13ab31dfbe1e3050"
+      },
+      "selectedVariants": [
+        {
+          "variantKey": {
+            "$oid": "6739f6bd13ab31dfbe1e3051"
+          },
+          "itemKey": {
+            "$oid": "6739f6bd13ab31dfbe1e3052"
+          }
+        }
+      ],
+      "quantity": 1,
+      "priceAtBuy": 90000,
+      "isRated": false
+    }
+  ],
+  "orderSummary": {
+    "subTotalPrice": 95000,
+    "totalPrice": 115000,
+    "reducedFee": 0,
+    "shippingFee": 20000
+  },
+  "voucherCode": null,
+  "explainReason": "Huỷ do không thanh toán.",
+  "orderStatus": "cancelled",
+  "orderType": "customerOrder",
+  "orderNote": null,
+  "orderPoint": 12000,
+  "orderOptions": {
+    "deliveryTime": {
+      "$date": "2024-11-24T07:00:11.156Z"
+    },
+    "deliveryMethod": "toHouse"
+  },
+  "orderUrgent": {
+    "isUrgent": false
+  },
+  "createdAt": {
+    "$date": "2024-11-24T07:00:11.303Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-24T07:00:21.010Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674b0f3247036160e9a36a5a"
+  },
+  "orderGroupId": {
+    "$oid": "674b0f3247036160e9a36a58"
+  },
+  "customerId": {
+    "$oid": "672ee6b2c91a9dc421b11829"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "orderItems": [
+    {
+      "cakeId": {
+        "$oid": "6740c3147c97727848cd6ac5"
+      },
+      "selectedVariants": [],
+      "quantity": 1,
+      "priceAtBuy": 14700,
+      "isRated": false
+    }
+  ],
+  "orderSummary": {
+    "subTotalPrice": 14700,
+    "totalPrice": 34700,
+    "reducedFee": 0,
+    "shippingFee": 20000
+  },
+  "voucherCode": null,
+  "explainReason": null,
+  "orderStatus": "pending",
+  "orderType": "customerOrder",
+  "orderNote": null,
+  "orderPoint": 0,
+  "orderOptions": {
+    "deliveryTime": {
+      "$date": "2024-11-30T13:12:18.738Z"
+    },
+    "deliveryMethod": "toHouse"
+  },
+  "orderUrgent": {
+    "isUrgent": false
+  },
+  "createdAt": {
+    "$date": "2024-11-30T13:12:18.831Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-30T13:12:18.831Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674c3aa092561a19d7644cea"
+  },
+  "orderGroupId": {
+    "$oid": "674c3aa092561a19d7644ce8"
+  },
+  "customerId": {
+    "$oid": "672ee6b2c91a9dc421b11829"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "orderItems": [
+    {
+      "cakeId": {
+        "$oid": "6739f6bd13ab31dfbe1e3050"
+      },
+      "selectedVariants": [],
+      "quantity": 1,
+      "priceAtBuy": 90000,
+      "isRated": false
+    }
+  ],
+  "orderSummary": {
+    "subTotalPrice": 90000,
+    "totalPrice": 110000,
+    "reducedFee": 0,
+    "shippingFee": 20000
+  },
+  "voucherCode": null,
+  "explainReason": null,
+  "orderStatus": "pending",
+  "orderType": "customerOrder",
+  "orderNote": null,
+  "orderPoint": 0,
+  "orderOptions": {
+    "deliveryTime": {
+      "$date": "2024-12-01T10:29:52.367Z"
+    },
+    "deliveryMethod": "toHouse"
+  },
+  "orderUrgent": {
+    "isUrgent": false
+  },
+  "createdAt": {
+    "$date": "2024-12-01T10:29:52.448Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-01T10:29:52.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674dd39288dfeab11bfe080a"
+  },
+  "orderGroupId": {
+    "$oid": "674dd39288dfeab11bfe0808"
+  },
+  "customerId": {
+    "$oid": "672ee6b2c91a9dc421b11829"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "orderItems": [
+    {
+      "cakeId": {
+        "$oid": "673cd8c2bd3e3d3e08c401be"
+      },
+      "selectedVariants": [],
+      "quantity": 1,
+      "priceAtBuy": 247000,
+      "isRated": false
+    }
+  ],
+  "orderSummary": {
+    "subTotalPrice": 247000,
+    "totalPrice": 267000,
+    "reducedFee": 0,
+    "shippingFee": 20000
+  },
+  "voucherCode": null,
+  "explainReason": "Huỷ do không thanh toán.",
+  "orderStatus": "cancelled",
+  "orderType": "customerOrder",
+  "orderNote": null,
+  "orderPoint": 0,
+  "orderOptions": {
+    "deliveryTime": {
+      "$date": "2024-12-02T15:34:42.182Z"
+    },
+    "deliveryMethod": "toHouse"
+  },
+  "orderUrgent": {
+    "isUrgent": false
+  },
+  "createdAt": {
+    "$date": "2024-12-02T15:34:42.271Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T15:37:23.051Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f162c110caf55f948076a"
+  },
+  "orderGroupId": {
+    "$oid": "674f162c110caf55f9480768"
+  },
+  "customerId": {
+    "$oid": "672ee6b2c91a9dc421b11829"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "orderItems": [
+    {
+      "cakeId": {
+        "$oid": "6739f6bd13ab31dfbe1e3050"
+      },
+      "selectedVariants": [],
+      "quantity": 1,
+      "priceAtBuy": 90000,
+      "isRated": true
+    }
+  ],
+  "orderSummary": {
+    "subTotalPrice": 90000,
+    "totalPrice": 110000,
+    "reducedFee": 0,
+    "shippingFee": 20000
+  },
+  "voucherCode": null,
+  "explainReason": "i dont like",
+  "orderStatus": "returned",
+  "orderType": "customerOrder",
+  "orderNote": null,
+  "orderPoint": 0,
+  "orderOptions": {
+    "deliveryTime": {
+      "$date": "2024-12-03T14:31:08.447Z"
+    },
+    "deliveryMethod": "toHouse"
+  },
+  "orderUrgent": {
+    "isUrgent": false
+  },
+  "createdAt": {
+    "$date": "2024-12-03T14:31:08.529Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T15:12:44.186Z"
+  },
+  "__v": 0,
+  "staffHandlerId": {
+    "$oid": "674dd5ec88dfeab11bfe1436"
+  }
+},
+{
+  "_id": {
+    "$oid": "674f2204110caf55f94830b5"
+  },
+  "orderGroupId": {
+    "$oid": "674f2204110caf55f94830b3"
+  },
+  "customerId": {
+    "$oid": "672ee6b2c91a9dc421b11829"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "orderItems": [
+    {
+      "cakeId": {
+        "$oid": "6739f6bd13ab31dfbe1e3050"
+      },
+      "selectedVariants": [],
+      "quantity": 1,
+      "priceAtBuy": 90000,
+      "isRated": false
+    }
+  ],
+  "orderSummary": {
+    "subTotalPrice": 90000,
+    "totalPrice": 110000,
+    "reducedFee": 0,
+    "shippingFee": 20000
+  },
+  "voucherCode": null,
+  "explainReason": "fsdf",
+  "orderStatus": "ready",
+  "orderType": "customerOrder",
+  "orderNote": null,
+  "orderPoint": 0,
+  "orderOptions": {
+    "deliveryTime": {
+      "$date": "2024-12-03T15:21:40.048Z"
+    },
+    "deliveryMethod": "toHouse"
+  },
+  "orderUrgent": {
+    "isUrgent": false
+  },
+  "createdAt": {
+    "$date": "2024-12-03T15:21:40.128Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T15:39:10.623Z"
+  },
+  "__v": 0,
+  "staffHandlerId": {
+    "$oid": "674dd5ec88dfeab11bfe1436"
+  }
+},
+{
+  "_id": {
+    "$oid": "674f24fd110caf55f9483d70"
+  },
+  "orderGroupId": {
+    "$oid": "674f24fd110caf55f9483d6e"
+  },
+  "customerId": {
+    "$oid": "672ee6b2c91a9dc421b11829"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "orderItems": [
+    {
+      "cakeId": {
+        "$oid": "6739f6bd13ab31dfbe1e3050"
+      },
+      "selectedVariants": [],
+      "quantity": 1,
+      "priceAtBuy": 90000,
+      "isRated": false
+    }
+  ],
+  "orderSummary": {
+    "subTotalPrice": 90000,
+    "totalPrice": 110000,
+    "reducedFee": 0,
+    "shippingFee": 20000
+  },
+  "voucherCode": null,
+  "explainReason": null,
+  "orderStatus": "ready",
+  "orderType": "customerOrder",
+  "orderNote": null,
+  "orderPoint": 0,
+  "orderOptions": {
+    "deliveryTime": {
+      "$date": "2024-12-03T15:34:21.010Z"
+    },
+    "deliveryMethod": "toHouse"
+  },
+  "orderUrgent": {
+    "isUrgent": false
+  },
+  "createdAt": {
+    "$date": "2024-12-03T15:34:21.089Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T15:39:10.623Z"
+  },
+  "__v": 0,
+  "staffHandlerId": {
+    "$oid": "674dd5ec88dfeab11bfe1436"
+  }
+},
+{
+  "_id": {
+    "$oid": "674f264c110caf55f948480f"
+  },
+  "orderGroupId": {
+    "$oid": "674f264c110caf55f948480d"
+  },
+  "customerId": {
+    "$oid": "672ee6b2c91a9dc421b11829"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "orderItems": [
+    {
+      "cakeId": {
+        "$oid": "6739f6bd13ab31dfbe1e3050"
+      },
+      "selectedVariants": [],
+      "quantity": 1,
+      "priceAtBuy": 90000,
+      "isRated": false
+    }
+  ],
+  "orderSummary": {
+    "subTotalPrice": 90000,
+    "totalPrice": 110000,
+    "reducedFee": 0,
+    "shippingFee": 20000
+  },
+  "voucherCode": null,
+  "explainReason": null,
+  "orderStatus": "completed",
+  "orderType": "customerOrder",
+  "orderNote": null,
+  "orderPoint": 0,
+  "orderOptions": {
+    "deliveryTime": {
+      "$date": "2024-12-03T15:39:56.603Z"
+    },
+    "deliveryMethod": "toHouse"
+  },
+  "orderUrgent": {
+    "isUrgent": false
+  },
+  "createdAt": {
+    "$date": "2024-12-03T15:39:56.681Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T15:43:30.542Z"
+  },
+  "__v": 0,
+  "staffHandlerId": {
+    "$oid": "674dd5ec88dfeab11bfe1436"
+  }
+},
+{
+  "_id": {
+    "$oid": "674f2965110caf55f9485c35"
+  },
+  "orderGroupId": {
+    "$oid": "674f2965110caf55f9485c33"
+  },
+  "customerId": {
+    "$oid": "672ee6b2c91a9dc421b11829"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "orderItems": [
+    {
+      "cakeId": {
+        "$oid": "6739f6bd13ab31dfbe1e3050"
+      },
+      "selectedVariants": [],
+      "quantity": 1,
+      "priceAtBuy": 90000,
+      "isRated": true
+    }
+  ],
+  "orderSummary": {
+    "subTotalPrice": 90000,
+    "totalPrice": 110000,
+    "reducedFee": 0,
+    "shippingFee": 20000
+  },
+  "voucherCode": null,
+  "explainReason": null,
+  "orderStatus": "completed",
+  "orderType": "customerOrder",
+  "orderNote": null,
+  "orderPoint": 0,
+  "orderOptions": {
+    "deliveryTime": {
+      "$date": "2024-12-03T15:53:09.336Z"
+    },
+    "deliveryMethod": "toHouse"
+  },
+  "orderUrgent": {
+    "isUrgent": false
+  },
+  "createdAt": {
+    "$date": "2024-12-03T15:53:09.417Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-04T14:52:18.725Z"
+  },
+  "__v": 0,
+  "staffHandlerId": {
+    "$oid": "674dd5ec88dfeab11bfe1436"
+  }
+},
+{
+  "_id": {
+    "$oid": "67505a48c66376633a456468"
+  },
+  "orderGroupId": {
+    "$oid": "67505a48c66376633a456466"
+  },
+  "customerId": {
+    "$oid": "672ee6b2c91a9dc421b11829"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "orderItems": [
+    {
+      "cakeId": {
+        "$oid": "6739f6bd13ab31dfbe1e3050"
+      },
+      "selectedVariants": [],
+      "quantity": 1,
+      "priceAtBuy": 90000,
+      "isRated": true
+    }
+  ],
+  "orderSummary": {
+    "subTotalPrice": 90000,
+    "totalPrice": 110000,
+    "reducedFee": 0,
+    "shippingFee": 20000
+  },
+  "voucherCode": null,
+  "explainReason": "sdfdsf",
+  "orderStatus": "returned",
+  "orderType": "customerOrder",
+  "orderNote": null,
+  "orderPoint": 0,
+  "orderOptions": {
+    "deliveryTime": {
+      "$date": "2024-12-04T13:34:00.789Z"
+    },
+    "deliveryMethod": "toHouse"
+  },
+  "orderUrgent": {
+    "isUrgent": false
+  },
+  "createdAt": {
+    "$date": "2024-12-04T13:34:00.883Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-11T15:01:52.127Z"
+  },
+  "__v": 0,
+  "staffHandlerId": {
+    "$oid": "674dd5ec88dfeab11bfe1436"
+  }
+},
+{
+  "_id": {
+    "$oid": "67506c5bc66376633a459300"
+  },
+  "orderGroupId": {
+    "$oid": "67506c5bc66376633a4592fe"
+  },
+  "customerId": {
+    "$oid": "672ee6b2c91a9dc421b11829"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "orderItems": [
+    {
+      "cakeId": {
+        "$oid": "6739f6bd13ab31dfbe1e3050"
+      },
+      "selectedVariants": [],
+      "quantity": 1,
+      "priceAtBuy": 90000,
+      "isRated": false
+    }
+  ],
+  "orderSummary": {
+    "subTotalPrice": 90000,
+    "totalPrice": 110000,
+    "reducedFee": 0,
+    "shippingFee": 20000
+  },
+  "voucherCode": null,
+  "explainReason": null,
+  "orderStatus": "pending",
+  "orderType": "customerOrder",
+  "orderNote": null,
+  "orderPoint": 0,
+  "orderOptions": {
+    "deliveryTime": {
+      "$date": "2024-12-04T14:51:07.715Z"
+    },
+    "deliveryMethod": "toHouse"
+  },
+  "orderUrgent": {
+    "isUrgent": false
+  },
+  "createdAt": {
+    "$date": "2024-12-04T14:51:07.804Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-04T14:51:07.804Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675282f5752cdfa28c6d6c34"
+  },
+  "orderGroupId": {
+    "$oid": "675282f5752cdfa28c6d6c32"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "orderItems": [
+    {
+      "cakeId": {
+        "$oid": "6739f6bd13ab31dfbe1e3050"
+      },
+      "selectedVariants": [],
+      "quantity": 1,
+      "priceAtBuy": 90000,
+      "isRated": false
+    },
+    {
+      "cakeId": {
+        "$oid": "6739ff1313ab31dfbe1e4661"
+      },
+      "selectedVariants": [],
+      "quantity": 1,
+      "priceAtBuy": 160000,
+      "isRated": false
+    }
+  ],
+  "orderSummary": {
+    "subTotalPrice": 250000,
+    "totalPrice": 250000,
+    "reducedFee": 0,
+    "shippingFee": 0
+  },
+  "voucherCode": null,
+  "explainReason": null,
+  "orderStatus": "completed",
+  "orderType": "selfOrder",
+  "orderNote": null,
+  "orderPoint": 0,
+  "orderOptions": {
+    "deliveryTime": {
+      "$date": "2024-12-06T04:52:05.920Z"
+    },
+    "deliveryMethod": "atStore"
+  },
+  "orderUrgent": {
+    "isUrgent": false
+  },
+  "createdAt": {
+    "$date": "2024-12-06T04:52:06.001Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T17:49:41.522Z"
+  },
+  "__v": 0,
+  "staffHandlerId": {
+    "$oid": "67312adbb2eac3d249fd10fd"
+  }
+}]

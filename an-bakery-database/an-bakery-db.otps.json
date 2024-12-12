@@ -1,0 +1,266 @@
+[{
+  "_id": {
+    "$oid": "674aaea31989a320f68ed3ee"
+  },
+  "otpCode": "783078",
+  "customerId": "672ee6b2c91a9dc421b11829",
+  "expiredAt": {
+    "$date": "2024-11-30T06:30:19.377Z"
+  },
+  "isUsed": false,
+  "type": "password",
+  "createdAt": {
+    "$date": "2024-11-30T06:20:19.380Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-30T06:20:19.380Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674aaf3e1989a320f68ed3f0"
+  },
+  "otpCode": "720992",
+  "customerId": "672ee6b2c91a9dc421b11829",
+  "expiredAt": {
+    "$date": "2024-11-30T06:32:54.374Z"
+  },
+  "isUsed": false,
+  "type": "password",
+  "createdAt": {
+    "$date": "2024-11-30T06:22:54.375Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-30T06:22:54.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674aaf3f1989a320f68ed3f2"
+  },
+  "otpCode": "149048",
+  "customerId": "672ee6b2c91a9dc421b11829",
+  "expiredAt": {
+    "$date": "2024-11-30T06:32:55.702Z"
+  },
+  "isUsed": false,
+  "type": "password",
+  "createdAt": {
+    "$date": "2024-11-30T06:22:55.704Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-30T06:22:55.704Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674aaf401989a320f68ed3f4"
+  },
+  "otpCode": "372742",
+  "customerId": "672ee6b2c91a9dc421b11829",
+  "expiredAt": {
+    "$date": "2024-11-30T06:32:56.600Z"
+  },
+  "isUsed": false,
+  "type": "password",
+  "createdAt": {
+    "$date": "2024-11-30T06:22:56.602Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-30T06:22:56.602Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674ab0821989a320f68ed3f7"
+  },
+  "otpCode": "880355",
+  "customerId": "672ee6b2c91a9dc421b11829",
+  "expiredAt": {
+    "$date": "2024-11-30T06:38:18.217Z"
+  },
+  "isUsed": false,
+  "type": "password",
+  "createdAt": {
+    "$date": "2024-11-30T06:28:18.218Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-30T06:28:18.218Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674ab0831989a320f68ed3f9"
+  },
+  "otpCode": "647420",
+  "customerId": "672ee6b2c91a9dc421b11829",
+  "expiredAt": {
+    "$date": "2024-11-30T06:38:19.296Z"
+  },
+  "isUsed": false,
+  "type": "password",
+  "createdAt": {
+    "$date": "2024-11-30T06:28:19.297Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-30T06:28:19.297Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674ab0831989a320f68ed3fb"
+  },
+  "otpCode": "210905",
+  "customerId": "672ee6b2c91a9dc421b11829",
+  "expiredAt": {
+    "$date": "2024-11-30T06:38:19.585Z"
+  },
+  "isUsed": false,
+  "type": "password",
+  "createdAt": {
+    "$date": "2024-11-30T06:28:19.586Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-30T06:28:19.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674ab0841989a320f68ed3fd"
+  },
+  "otpCode": "570782",
+  "customerId": "672ee6b2c91a9dc421b11829",
+  "expiredAt": {
+    "$date": "2024-11-30T06:38:20.335Z"
+  },
+  "isUsed": false,
+  "type": "password",
+  "createdAt": {
+    "$date": "2024-11-30T06:28:20.336Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-30T06:28:20.336Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674ab0841989a320f68ed3ff"
+  },
+  "otpCode": "763475",
+  "customerId": "672ee6b2c91a9dc421b11829",
+  "expiredAt": {
+    "$date": "2024-11-30T06:38:20.769Z"
+  },
+  "isUsed": false,
+  "type": "password",
+  "createdAt": {
+    "$date": "2024-11-30T06:28:20.771Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-30T06:28:20.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674ab0851989a320f68ed401"
+  },
+  "otpCode": "490643",
+  "customerId": "672ee6b2c91a9dc421b11829",
+  "expiredAt": {
+    "$date": "2024-11-30T06:38:21.151Z"
+  },
+  "isUsed": false,
+  "type": "password",
+  "createdAt": {
+    "$date": "2024-11-30T06:28:21.153Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-30T06:28:21.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674ab0c11989a320f68ed407"
+  },
+  "otpCode": "670631",
+  "customerId": "672ee6b2c91a9dc421b11829",
+  "expiredAt": {
+    "$date": "2024-11-30T06:39:21.224Z"
+  },
+  "isUsed": false,
+  "type": "password",
+  "createdAt": {
+    "$date": "2024-11-30T06:29:21.225Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-30T06:29:21.225Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674ab0e51989a320f68ed40d"
+  },
+  "otpCode": "732423",
+  "customerId": "672ee6b2c91a9dc421b11829",
+  "expiredAt": {
+    "$date": "2024-11-30T06:39:57.689Z"
+  },
+  "isUsed": false,
+  "type": "password",
+  "createdAt": {
+    "$date": "2024-11-30T06:29:57.690Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-30T06:29:57.690Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674ab131cb4636bd88acf0f1"
+  },
+  "otpCode": "547989",
+  "customerId": "672ee6b2c91a9dc421b11829",
+  "expiredAt": {
+    "$date": "2024-11-30T06:41:13.121Z"
+  },
+  "isUsed": false,
+  "type": "password",
+  "createdAt": {
+    "$date": "2024-11-30T06:31:13.130Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-30T06:31:13.130Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6752ff20d011e22fc174bbbe"
+  },
+  "otpCode": "991019",
+  "customerId": "672ee6b2c91a9dc421b11829",
+  "expiredAt": {
+    "$date": "2024-12-06T13:51:52.402Z"
+  },
+  "isUsed": false,
+  "type": "recover",
+  "createdAt": {
+    "$date": "2024-12-06T13:41:52.411Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-06T13:41:52.411Z"
+  },
+  "__v": 0
+}]

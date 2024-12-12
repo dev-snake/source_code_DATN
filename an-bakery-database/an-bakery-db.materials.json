@@ -1,0 +1,2261 @@
+[{
+  "_id": {
+    "$oid": "673995f513ab31dfbe1e12d2"
+  },
+  "materialName": "Bột mì đa dụng",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T07:06:29.307Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T07:06:29.307Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739964513ab31dfbe1e12ef"
+  },
+  "materialName": "Bột nở",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T07:07:49.063Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T07:07:49.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739964b13ab31dfbe1e12f6"
+  },
+  "materialName": "Bột cacao",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T07:07:55.780Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T07:07:55.780Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673998fa13ab31dfbe1e12fd"
+  },
+  "materialName": "Trứng gà",
+  "materialType": "baking-ingredient",
+  "calUnit": "quả",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T07:19:22.026Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T07:19:22.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739990313ab31dfbe1e1304"
+  },
+  "materialName": "Sữa tươi",
+  "materialType": "baking-ingredient",
+  "calUnit": "ml",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T07:19:31.551Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T07:19:31.551Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739990c13ab31dfbe1e130b"
+  },
+  "materialName": "Sữa tươi không đường",
+  "materialType": "baking-ingredient",
+  "calUnit": "ml",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T07:19:40.935Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T07:19:40.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67399cdd13ab31dfbe1e133e"
+  },
+  "materialName": "Bơ nhạt",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T07:35:57.860Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T07:35:57.860Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67399ce913ab31dfbe1e1345"
+  },
+  "materialName": "Muối",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T07:36:09.761Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T07:36:09.761Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67399fae13ab31dfbe1e1375"
+  },
+  "materialName": "Cacao nguyên chất",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T07:47:58.918Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T07:47:58.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67399fc313ab31dfbe1e137c"
+  },
+  "materialName": "Rượu rum",
+  "materialType": "baking-ingredient",
+  "calUnit": "ml",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T07:48:19.614Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T07:48:19.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67399fe513ab31dfbe1e1383"
+  },
+  "materialName": "Đường trắng",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T07:48:54.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T07:48:54.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739a02e13ab31dfbe1e138e"
+  },
+  "materialName": "Đường bột",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T07:50:06.933Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T07:50:06.933Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739a12d13ab31dfbe1e1395"
+  },
+  "materialName": "Đường cát trắng",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T07:54:21.270Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T07:54:21.270Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739a2dd13ab31dfbe1e139c"
+  },
+  "materialName": "Gelatin",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T08:01:33.026Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T08:01:33.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739aac513ab31dfbe1e13a7"
+  },
+  "materialName": "Hạt hạnh nhân",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T08:35:17.495Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T08:35:17.495Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739aaca13ab31dfbe1e13ae"
+  },
+  "materialName": "Hạt chia",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T08:35:22.516Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T08:35:22.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739aaf713ab31dfbe1e13b5"
+  },
+  "materialName": "Trái táo",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T08:36:07.467Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T08:36:07.467Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739aafc13ab31dfbe1e13bc"
+  },
+  "materialName": "Trái lê",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T08:36:12.223Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T08:36:12.223Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739ab0113ab31dfbe1e13c3"
+  },
+  "materialName": "Trái kiwi",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T08:36:17.988Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T08:36:17.988Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739ab0c13ab31dfbe1e13ca"
+  },
+  "materialName": "Trái nho",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T08:36:28.072Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T08:36:28.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739ab1313ab31dfbe1e13d1"
+  },
+  "materialName": "Trái đào",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T08:36:35.802Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T08:36:35.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739aba313ab31dfbe1e13d8"
+  },
+  "materialName": "Bột vani",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T08:38:59.718Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T09:00:55.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739adb613ab31dfbe1e13f5"
+  },
+  "materialName": "Mứt dâu",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T08:47:50.440Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T08:50:36.895Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739ae6413ab31dfbe1e143a"
+  },
+  "materialName": "Mứt mâm xôi",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T08:50:44.382Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T08:50:44.382Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739ae6a13ab31dfbe1e1441"
+  },
+  "materialName": "Mứt cam",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T08:50:50.423Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T08:50:50.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739ae7413ab31dfbe1e1448"
+  },
+  "materialName": "Mứt Việt quất",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T08:51:00.669Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T08:51:00.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739ae7a13ab31dfbe1e144f"
+  },
+  "materialName": "Mứt chanh",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T08:51:06.008Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T08:51:06.008Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739b41113ab31dfbe1e1534"
+  },
+  "materialName": "Socola trắng",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T09:14:57.575Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T09:14:57.575Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739b41713ab31dfbe1e153b"
+  },
+  "materialName": "Socola đen",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T09:15:03.798Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T09:15:03.798Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739b72e13ab31dfbe1e1557"
+  },
+  "materialName": "Kem whipping cream ( kem tươi )",
+  "materialType": "baking-ingredient",
+  "calUnit": "ml",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T09:28:14.406Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T09:28:14.406Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739bd9a13ab31dfbe1e164d"
+  },
+  "materialName": "Dầu ăn",
+  "materialType": "baking-ingredient",
+  "calUnit": "ml",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T09:55:38.147Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T09:55:38.147Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739ec0313ab31dfbe1e1b10"
+  },
+  "materialName": "Hạt dẻ",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T13:13:39.347Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T13:13:39.347Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739ec0f13ab31dfbe1e1b17"
+  },
+  "materialName": "Hạt điều",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T13:13:51.520Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T13:13:51.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739ec1b13ab31dfbe1e1b1e"
+  },
+  "materialName": "Hạt dẻ rang muối",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T13:14:03.367Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T13:14:03.367Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739ec2413ab31dfbe1e1b25"
+  },
+  "materialName": "Hạt macca",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T13:14:12.324Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T13:14:12.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739ec3213ab31dfbe1e1b2c"
+  },
+  "materialName": "Rượu vang",
+  "materialType": "baking-ingredient",
+  "calUnit": "ml",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T13:14:26.781Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T13:14:26.781Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739ec9d13ab31dfbe1e1db3"
+  },
+  "materialName": "Caramel",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T13:16:13.931Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T13:16:13.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739ecb313ab31dfbe1e1dba"
+  },
+  "materialName": "Trái dừa",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T13:16:35.826Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T13:16:35.826Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739ed2513ab31dfbe1e233d"
+  },
+  "materialName": "Tinh chất Vani",
+  "materialType": "baking-ingredient",
+  "calUnit": "ống",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T13:18:29.540Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T13:18:29.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739f24313ab31dfbe1e2769"
+  },
+  "materialName": "Trái cây nhiệt đới",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T13:40:19.620Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T13:40:19.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739f24d13ab31dfbe1e2770"
+  },
+  "materialName": "Trái cây khô",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T13:40:29.036Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T13:40:29.036Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739f26613ab31dfbe1e2777"
+  },
+  "materialName": "Trái việt quất",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T13:40:54.187Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T13:40:54.187Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739f26e13ab31dfbe1e277e"
+  },
+  "materialName": "Trái mâm xôi",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T13:41:02.436Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T13:41:02.436Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739f31313ab31dfbe1e2c74"
+  },
+  "materialName": "Trái cam",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T13:43:47.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T13:43:47.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739f77313ab31dfbe1e377c"
+  },
+  "materialName": "Trái dâu tây",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T14:02:27.256Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T14:02:27.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739f7bd13ab31dfbe1e3af3"
+  },
+  "materialName": "Bột matcha",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T14:03:41.754Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T14:03:41.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673a39db13ab31dfbe1e9c25"
+  },
+  "materialName": "Trái chuối",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T18:45:47.427Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T18:45:47.427Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673a39e413ab31dfbe1e9c2c"
+  },
+  "materialName": "Trái đu đủ",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T18:45:56.435Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T18:45:56.435Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673a39ef13ab31dfbe1e9c33"
+  },
+  "materialName": "Trái dưa hấu",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T18:46:07.313Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T18:46:07.313Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673a39f813ab31dfbe1e9c3a"
+  },
+  "materialName": "Trái mít",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T18:46:16.145Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T18:46:16.145Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673a3a0313ab31dfbe1e9c41"
+  },
+  "materialName": "Táo khô",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T18:46:27.573Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T18:46:27.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673a3a0a13ab31dfbe1e9c48"
+  },
+  "materialName": "Lê khô",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T18:46:34.639Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T18:46:34.639Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673a3a1613ab31dfbe1e9c4f"
+  },
+  "materialName": "Nho khô",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T18:46:46.324Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T18:46:46.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673a3b5313ab31dfbe1eabd0"
+  },
+  "materialName": "Dâu tây khô",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T18:52:03.927Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T18:52:03.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c3e150ccc06a6d02204f7"
+  },
+  "materialName": "Lá bạc hà tươi",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T07:28:21.842Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T07:28:21.842Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c3e390ccc06a6d02205d0"
+  },
+  "materialName": "Hoa Pansy",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T07:28:57.538Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T07:28:57.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c3e750ccc06a6d02205d7"
+  },
+  "materialName": "Kem dâu tây",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T07:29:57.674Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T07:29:57.674Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c3e7d0ccc06a6d02205de"
+  },
+  "materialName": "Kem mâm xôi",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T07:30:05.421Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T07:30:05.421Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c3e920ccc06a6d02205e5"
+  },
+  "materialName": "Kem cam",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T07:30:26.801Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T07:30:26.801Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c3e980ccc06a6d02205ec"
+  },
+  "materialName": "Kem việt quất",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T07:30:32.744Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T07:30:32.744Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c3e9f0ccc06a6d02205f3"
+  },
+  "materialName": "Kem chanh dây",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T07:30:39.019Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T07:30:39.019Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c3ecd0ccc06a6d02205fe"
+  },
+  "materialName": "Kẹo đường",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T07:31:25.139Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T13:38:03.705Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c474b0ccc06a6d0220b2a"
+  },
+  "materialName": "Hạnh nhân lát",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T08:07:39.453Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T14:12:29.544Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c9df60ccc06a6d02254d6"
+  },
+  "materialName": "Nước sốt vị việt quất",
+  "materialType": "baking-ingredient",
+  "calUnit": "ml",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T14:17:26.750Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T14:17:26.750Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c9e030ccc06a6d02254dc"
+  },
+  "materialName": "Nước sốt vị mâm xôi",
+  "materialType": "baking-ingredient",
+  "calUnit": "ml",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T14:17:39.952Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T14:17:39.952Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c9e0b0ccc06a6d02254e2"
+  },
+  "materialName": "Nước sốt vị cam",
+  "materialType": "baking-ingredient",
+  "calUnit": "ml",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T14:17:47.562Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T14:17:47.562Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c9e180ccc06a6d02254e8"
+  },
+  "materialName": "Nước sốt vị táo",
+  "materialType": "baking-ingredient",
+  "calUnit": "ml",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T14:18:00.298Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T14:18:00.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c9e210ccc06a6d02254ee"
+  },
+  "materialName": "Nước sốt vị đào",
+  "materialType": "baking-ingredient",
+  "calUnit": "ml",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T14:18:09.673Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T14:44:08.475Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673cb034b5a55c1d3061c076"
+  },
+  "materialName": "Trái xoài",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T15:35:16.797Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T15:35:16.797Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673cb050b5a55c1d3061c07c"
+  },
+  "materialName": "Nước xoài",
+  "materialType": "baking-ingredient",
+  "calUnit": "ml",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T15:35:44.129Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T15:35:44.129Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673cd84ebd3e3d3e08c3fc5b"
+  },
+  "materialName": "Nước",
+  "materialType": "baking-ingredient",
+  "calUnit": "ml",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T18:26:22.208Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T18:26:22.208Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673d0418bd3e3d3e08c4a071"
+  },
+  "materialName": "Dưa leo",
+  "materialType": "baking-ingredient",
+  "calUnit": "quả",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T21:33:12.612Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T21:33:12.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673d045dbd3e3d3e08c4a077"
+  },
+  "materialName": "Cà chua",
+  "materialType": "baking-ingredient",
+  "calUnit": "quả",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T21:34:21.005Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T21:34:21.005Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673d04a3bd3e3d3e08c4a37c"
+  },
+  "materialName": "Hành tây",
+  "materialType": "baking-ingredient",
+  "calUnit": "củ",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T21:35:31.046Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T21:35:31.046Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673d04b9bd3e3d3e08c4a382"
+  },
+  "materialName": "Ớt tươi",
+  "materialType": "baking-ingredient",
+  "calUnit": "quả",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T21:35:53.116Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T21:35:53.116Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673d055fbd3e3d3e08c4a388"
+  },
+  "materialName": "Mayonnaise",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T21:38:39.029Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T21:38:39.029Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673d0565bd3e3d3e08c4a38e"
+  },
+  "materialName": "Tương ớt",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T21:38:45.525Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T21:38:45.525Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673d05a0bd3e3d3e08c4a394"
+  },
+  "materialName": "Rau xà lách",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T21:39:44.101Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T21:39:44.101Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673d0962bd3e3d3e08c4a3a2"
+  },
+  "materialName": "Cà rốt muối",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T21:55:46.412Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T21:55:46.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673d0969bd3e3d3e08c4a3a8"
+  },
+  "materialName": "Củ cải muối",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T21:55:53.355Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T21:55:53.355Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673d09aabd3e3d3e08c4a6a8"
+  },
+  "materialName": "Ngò rí (rau mùi)",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T21:56:58.181Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T21:56:58.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673d09e9bd3e3d3e08c4a6ae"
+  },
+  "materialName": "Chả lụa",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T21:58:01.546Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T21:58:01.546Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673d09f2bd3e3d3e08c4a6b4"
+  },
+  "materialName": "Pate gan",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T21:58:10.428Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T21:58:10.428Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673d0a5ebd3e3d3e08c4a6ba"
+  },
+  "materialName": "Bánh mì baguette",
+  "materialType": "baking-ingredient",
+  "calUnit": "ổ",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T21:59:58.974Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T22:00:26.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6740c2157c97727848cd6367"
+  },
+  "materialName": "Giấm",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-22T17:40:37.911Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T17:40:37.911Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6740c2627c97727848cd655b"
+  },
+  "materialName": "Nước lạnh",
+  "materialType": "baking-ingredient",
+  "calUnit": "ml",
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-22T17:41:54.009Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T17:41:54.009Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d83b8349340624f10731a"
+  },
+  "materialName": "Heo nướng",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-02T09:54:00.827Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T09:54:00.827Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d83c1349340624f107320"
+  },
+  "materialName": "Bò nướng",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-02T09:54:09.983Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T09:54:09.983Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d83c9349340624f107326"
+  },
+  "materialName": "Gà nướng",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-02T09:54:17.645Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T09:54:17.645Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d8463349340624f10732c"
+  },
+  "materialName": "Heo nướng sả",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-02T09:56:51.974Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T10:05:10.292Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d846e349340624f107332"
+  },
+  "materialName": "Bò nướng sả",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-02T09:57:02.889Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T10:05:03.733Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d847e349340624f107338"
+  },
+  "materialName": "Heo xông khói",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-02T09:57:18.198Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T09:57:18.198Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d8484349340624f10733e"
+  },
+  "materialName": "Bò hầm",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-02T09:57:24.478Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T09:57:24.478Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d848e349340624f107344"
+  },
+  "materialName": "Gà nướng mật ong",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-02T09:57:34.973Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T09:57:34.973Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d85c7349340624f10734a"
+  },
+  "materialName": "Xíu mại",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-02T10:02:47.343Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T10:02:47.343Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d860b349340624f107350"
+  },
+  "materialName": "Heo nướng BBQ",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-02T10:03:55.636Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T10:03:55.636Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d862a349340624f107356"
+  },
+  "materialName": "Bò xào hành tây",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-02T10:04:26.622Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T10:04:26.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d8647349340624f10735c"
+  },
+  "materialName": "Heo xào sả ớt",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-02T10:04:55.378Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T10:04:55.378Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d86f1349340624f107372"
+  },
+  "materialName": "Gà xào tỏi",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-02T10:07:45.134Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T10:07:45.134Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d86fc349340624f107378"
+  },
+  "materialName": "Bò xào",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-02T10:07:56.108Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T10:07:56.108Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d8708349340624f10737e"
+  },
+  "materialName": "Heo xào tỏi",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-02T10:08:08.165Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T10:08:08.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d8716349340624f107384"
+  },
+  "materialName": "Heo nướng tiêu",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-02T10:08:22.670Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T10:08:22.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d8757349340624f10738a"
+  },
+  "materialName": "Bò nướng mật ong",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-02T10:09:27.700Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T10:09:27.700Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d8765349340624f107390"
+  },
+  "materialName": "Gà nướng tỏi",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-02T10:09:41.524Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T10:09:41.524Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d876b349340624f107396"
+  },
+  "materialName": "Heo quay mắc mật",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-02T10:09:47.972Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T07:50:08.436Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d8776349340624f10739c"
+  },
+  "materialName": "Bò hâm rượu vang",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-02T10:09:58.507Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T10:09:58.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d8999349340624f1075c0"
+  },
+  "materialName": "Tỏi",
+  "materialType": "baking-ingredient",
+  "calUnit": "Củ",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-02T10:19:05.452Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T10:21:50.447Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d899f349340624f1075c6"
+  },
+  "materialName": "Hành tím",
+  "materialType": "baking-ingredient",
+  "calUnit": "Củ",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-02T10:19:11.794Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T10:21:44.522Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d89cb349340624f1075cc"
+  },
+  "materialName": "Tiêu",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-02T10:19:55.027Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T10:19:55.027Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674eb2558965e0fc37bdd557"
+  },
+  "materialName": "Nước mắm",
+  "materialType": "baking-ingredient",
+  "calUnit": "ml",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-03T07:25:09.533Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T07:25:09.533Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674eb25a8965e0fc37bdd55d"
+  },
+  "materialName": "Thịt heo",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-03T07:25:14.876Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T07:25:14.876Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f1138110caf55f947d297"
+  },
+  "materialName": "Tính chất Vani",
+  "materialType": "baking-ingredient",
+  "calUnit": "Ống",
+  "creatorId": "ANB-FE",
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2024-12-03T14:10:00.817Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T08:26:05.636Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751d6e0d0a71e436709d291"
+  },
+  "materialName": "Nguội bò",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-05T16:37:52.030Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T16:37:52.030Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751d6e6d0a71e436709d297"
+  },
+  "materialName": "Nguội heo",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-05T16:37:58.077Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T16:37:58.077Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751d6ebd0a71e436709d29d"
+  },
+  "materialName": "Nguội gà",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-05T16:38:03.649Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T16:38:03.649Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751d6fcd0a71e436709d2a3"
+  },
+  "materialName": "Heo tiêu đen",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-05T16:38:20.083Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T16:38:20.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751d804d0a71e436709d2a9"
+  },
+  "materialName": "Heo xào hành tây",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-05T16:42:44.355Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T16:42:44.355Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751d80dd0a71e436709d2af"
+  },
+  "materialName": "Bò xào cần tây",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-05T16:42:53.773Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T16:42:53.773Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751d818d0a71e436709d2b9"
+  },
+  "materialName": "Gà xào nấm",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-05T16:43:04.176Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T16:43:04.176Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751d829d0a71e436709d2c3"
+  },
+  "materialName": "Bò xào sả ớt",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-05T16:43:21.709Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T16:43:21.709Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751d83dd0a71e436709d2c9"
+  },
+  "materialName": "Gà nướng sả",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-05T16:43:41.594Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T16:43:41.594Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751d87dd0a71e436709d2ff"
+  },
+  "materialName": "Bò nướng tiêu",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-05T16:44:45.521Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T16:44:45.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751d8fcd0a71e436709d305"
+  },
+  "materialName": "Heo sốt BBQ",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-05T16:46:52.999Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T16:46:52.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751d909d0a71e436709d30b"
+  },
+  "materialName": "Bò nướng tiêu xanh",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-05T16:47:05.771Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T16:47:10.408Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751d91cd0a71e436709d319"
+  },
+  "materialName": "Gà kẹp tỏi",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-05T16:47:24.562Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T16:47:24.562Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751d924d0a71e436709d31f"
+  },
+  "materialName": "Heo kẹp sốt mật ong",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-05T16:47:32.936Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T16:47:32.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751da32d0a71e436709d325"
+  },
+  "materialName": "Bò kẹp sốt phô mai",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-05T16:52:02.162Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T16:52:02.162Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751da3ad0a71e436709d32b"
+  },
+  "materialName": "Heo tẩm mật ong",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-05T16:52:10.468Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T16:52:10.468Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751da43d0a71e436709d331"
+  },
+  "materialName": "Bò tẩm mật ong",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-05T16:52:19.428Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T16:52:19.428Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751db48d0a71e436709d33b"
+  },
+  "materialName": "Gà tắm chanh",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-05T16:56:40.811Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T16:56:40.811Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751db5dd0a71e436709d341"
+  },
+  "materialName": "Heo nướng mọi",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-05T16:57:01.660Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T16:57:01.660Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6759be0570ec1f07a00a0850"
+  },
+  "materialName": "NGUYEN LIEU DEMO 1",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-11T16:29:57.292Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-11T16:29:57.292Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6759be1c70ec1f07a00a0856"
+  },
+  "materialName": "NGUYÊN LIỆU DEMO 2",
+  "materialType": "baking-ingredient",
+  "calUnit": "g",
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-11T16:30:20.915Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-11T16:30:20.915Z"
+  },
+  "__v": 0
+}]

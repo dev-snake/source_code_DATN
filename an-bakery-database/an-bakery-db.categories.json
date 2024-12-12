@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "672f44ae8d2702050209bde5"
+  },
+  "categoryName": "Bánh sinh nhật",
+  "categoryDescription": "Bánh sinh nhật là dòng bánh đặc biệt, được thiết kế để chúc mừng  dịp sinh nhật với nhiều kiểu dáng và hương vị đa dạng. Bánh có thể được tùy chỉnh theo sở thích với các lớp kem, trang trí hoa văn và thông điệp cá nhân hóa. Phù hợp với nhiều lứa tuổi và phong cách bánh sinh nhật của chúng tôi luôn là sự lựa chọn hoàn hảo để tạo  nên những khoảnh khắc đáng nhớ.",
+  "categoryKey": "banh-sinh-nhat",
+  "isActive": true,
+  "creatorId": "ANB-NS",
+  "createdAt": {
+    "$date": "2024-11-09T11:17:02.360Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-09T11:17:02.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672f44ca8d2702050209be73"
+  },
+  "categoryName": "Bánh mì",
+  "categoryDescription": "Bánh mì của chúng tôi là sự kết hợp hoàn hảo giữa vỏ bánh giòn rụm và nhân bánh đa dạng, từ thịt nguội, xúc xích, pate đến các loại rau tươi ngon. Được chế biến thủ công với nguyên liệu tươi mới mỗi ngày, bánh mì không chỉ là lựa chọn hoàn hảo cho bữa sáng nhanh gọn mà còn mang lại trải nghiệm ẩm thực tuyệt vời cho những bữa ăn nhẹ. Mỗi chiếc bánh mì đều mang đến hương vị đặc trưng và đậm đà, phù hợp cho mọi lứa tuổi và sở thích.",
+  "categoryKey": "banh-mi",
+  "isActive": true,
+  "creatorId": "ANB-NS",
+  "createdAt": {
+    "$date": "2024-11-09T11:17:30.866Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-09T11:17:30.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672f44d68d2702050209be7d"
+  },
+  "categoryName": "Bánh Sandwich",
+  "categoryDescription": "Sandwich tiện lợi, đa dạng với nhiều loại nhân khác nhau chế biến từ nguyên liệu tươi ngon và phong phú.Mỗi chiếc sandwich đều mang đến sự tiện lợi và hương vị đặc trưng từ nhân thịt nướng  thơm phức đến các loại rau sống giòn giòn. Dù là bữa sáng nhanh  chóng hay bữa trưa nhẹ nhàng, các món sandwich trong danh mục này chắc chắn sẽ làm hài lòng mọi thực khách với sự kết hợp hoàn  hảo giữa hương vị và dinh dưỡng.",
+  "categoryKey": "banh-sandwich",
+  "isActive": true,
+  "creatorId": "ANB-NS",
+  "createdAt": {
+    "$date": "2024-11-09T11:17:42.826Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-09T11:17:53.122Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672f44f58d2702050209be96"
+  },
+  "categoryName": "Bánh Cupcake",
+  "categoryDescription": "Bánh cupcake là loại bánh nhỏ xinh, thường có hình chóp và được nướng trong các khuôn nhỏ. Với đa dạng hương vị như vani, dâu, chocolate. Tạo sự hấp dẫn thích hợp cho các bữa tiệc như sinh nhật, tiệc cưới, các bữa tiệc sinh nhật bạn bè. Sự trang trí vui tươi và sáng tạo làm cho mỗi chiếc bánh trở nên như một tác phẩm nghệ thuật, sự nhỏ gọn dễ dàng mang theo và thưởng thức, cupcake là một món ăn nhẹ lý tưởng cho những ai yêu thích sự ngọt ngào và độc đáo.",
+  "categoryKey": "banh-cupcake",
+  "isActive": true,
+  "creatorId": "ANB-NS",
+  "createdAt": {
+    "$date": "2024-11-09T11:18:13.542Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T02:57:38.281Z"
+  },
+  "__v": 0,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "67497ba4ba43351f351df07c"
+  },
+  "categoryName": "Test Quản trị",
+  "categoryDescription": "",
+  "categoryKey": "test-quan-tri",
+  "isActive": false,
+  "isDeleted": false,
+  "creatorId": "ANB-SA87",
+  "createdAt": {
+    "$date": "2024-11-29T08:30:28.513Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-29T08:30:33.344Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6759bdd870ec1f07a00a0846"
+  },
+  "categoryName": "DANH MUC DEMO",
+  "categoryDescription": "DANH MUC DEMO",
+  "categoryKey": "danh-muc-demo",
+  "isActive": true,
+  "isDeleted": false,
+  "creatorId": "ANB-FE",
+  "createdAt": {
+    "$date": "2024-12-11T16:29:12.896Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-11T16:29:12.896Z"
+  },
+  "__v": 0
+}]

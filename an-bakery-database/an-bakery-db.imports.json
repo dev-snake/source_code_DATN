@@ -1,0 +1,2307 @@
+[{
+  "_id": {
+    "$oid": "67312eb9b2eac3d249fd14b9"
+  },
+  "supplierId": {
+    "$oid": "67312e96b2eac3d249fd1437"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "requestItems": [
+    {
+      "materialId": {
+        "$oid": "672f9a518d2702050209df64"
+      },
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd1438"
+      },
+      "importPrice": 150000,
+      "importQuantity": 1,
+      "importStatus": true
+    },
+    {
+      "materialId": {
+        "$oid": "672f2c638d2702050209b717"
+      },
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd1439"
+      },
+      "importPrice": 1500000,
+      "importQuantity": 1,
+      "importStatus": true
+    },
+    {
+      "materialId": {
+        "$oid": "672f2c238d2702050209b6fb"
+      },
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd143a"
+      },
+      "importPrice": 950000,
+      "importQuantity": 1,
+      "importStatus": true
+    },
+    {
+      "materialId": {
+        "$oid": "672f2c028d2702050209b6ed"
+      },
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd143b"
+      },
+      "importPrice": 950000,
+      "importQuantity": 1,
+      "importStatus": true
+    },
+    {
+      "materialId": {
+        "$oid": "672f2bf98d2702050209b6e6"
+      },
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd143c"
+      },
+      "importPrice": 1250000,
+      "importQuantity": 1,
+      "importStatus": true
+    },
+    {
+      "materialId": {
+        "$oid": "672f2bf28d2702050209b6df"
+      },
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd143d"
+      },
+      "importPrice": 650000,
+      "importQuantity": 1,
+      "importStatus": true
+    },
+    {
+      "materialId": {
+        "$oid": "672f2be68d2702050209b6d8"
+      },
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd143e"
+      },
+      "importPrice": 800000,
+      "importQuantity": 1,
+      "importStatus": true
+    },
+    {
+      "materialId": {
+        "$oid": "672f2bd88d2702050209b6d1"
+      },
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd143f"
+      },
+      "importPrice": 900000,
+      "importQuantity": 1,
+      "importStatus": true
+    },
+    {
+      "materialId": {
+        "$oid": "672f2bc08d2702050209b6c3"
+      },
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd1440"
+      },
+      "importPrice": 450000,
+      "importQuantity": 1,
+      "importStatus": true
+    },
+    {
+      "materialId": {
+        "$oid": "672f2a8f8d2702050209b6a0"
+      },
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd1441"
+      },
+      "importPrice": 1000000,
+      "importQuantity": 1,
+      "importStatus": true
+    }
+  ],
+  "requestStatus": "completed",
+  "requestTotalPrice": 8600000,
+  "isCancelled": false,
+  "cancelledReason": null,
+  "creatorId": "ANB-HIEU",
+  "importDate": {
+    "$date": "2024-11-10T22:07:53.235Z"
+  },
+  "requestItemsSnapshot": [
+    {
+      "materialId": {
+        "$oid": "672f9a518d2702050209df64"
+      },
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd1438"
+      },
+      "importPrice": 150000,
+      "importQuantity": 1,
+      "importStatus": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f2c638d2702050209b717"
+      },
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd1439"
+      },
+      "importPrice": 1500000,
+      "importQuantity": 1,
+      "importStatus": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f2c238d2702050209b6fb"
+      },
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd143a"
+      },
+      "importPrice": 950000,
+      "importQuantity": 1,
+      "importStatus": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f2c028d2702050209b6ed"
+      },
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd143b"
+      },
+      "importPrice": 950000,
+      "importQuantity": 1,
+      "importStatus": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f2bf98d2702050209b6e6"
+      },
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd143c"
+      },
+      "importPrice": 1250000,
+      "importQuantity": 1,
+      "importStatus": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f2bf28d2702050209b6df"
+      },
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd143d"
+      },
+      "importPrice": 650000,
+      "importQuantity": 1,
+      "importStatus": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f2be68d2702050209b6d8"
+      },
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd143e"
+      },
+      "importPrice": 800000,
+      "importQuantity": 1,
+      "importStatus": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f2bd88d2702050209b6d1"
+      },
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd143f"
+      },
+      "importPrice": 900000,
+      "importQuantity": 1,
+      "importStatus": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f2bc08d2702050209b6c3"
+      },
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd1440"
+      },
+      "importPrice": 450000,
+      "importQuantity": 1,
+      "importStatus": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f2a8f8d2702050209b6a0"
+      },
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd1441"
+      },
+      "importPrice": 1000000,
+      "importQuantity": 1,
+      "importStatus": false
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-11-10T22:07:53.239Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-10T22:08:08.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673206ded91340a5784a85ae"
+  },
+  "supplierId": {
+    "$oid": "6731ab49aa2c39972d7545ca"
+  },
+  "branchId": {
+    "$oid": "6731a435048b7632fdd89415"
+  },
+  "requestItems": [
+    {
+      "materialId": {
+        "$oid": "672f19358d2702050209b3da"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545cb"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f1d3f8d2702050209b438"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545cc"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f1edb8d2702050209b46c"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545cd"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f19f88d2702050209b3e8"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545ce"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f1ebd8d2702050209b45b"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545cf"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f1a188d2702050209b3ef"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545d0"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f1ee18d2702050209b473"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545d1"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f1eeb8d2702050209b47a"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545d2"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f22a28d2702050209b537"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545d3"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f22c58d2702050209b553"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545d4"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "requestStatus": "completed",
+  "requestTotalPrice": 2000000,
+  "isCancelled": false,
+  "cancelledReason": null,
+  "creatorId": "ANB-TBH",
+  "importDate": {
+    "$date": "2024-11-11T13:30:06.681Z"
+  },
+  "requestItemsSnapshot": [
+    {
+      "materialId": {
+        "$oid": "672f19358d2702050209b3da"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545cb"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f1d3f8d2702050209b438"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545cc"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f1edb8d2702050209b46c"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545cd"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f19f88d2702050209b3e8"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545ce"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f1ebd8d2702050209b45b"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545cf"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f1a188d2702050209b3ef"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545d0"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f1ee18d2702050209b473"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545d1"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f1eeb8d2702050209b47a"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545d2"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f22a28d2702050209b537"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545d3"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f22c58d2702050209b553"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545d4"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-11-11T13:30:06.695Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T13:30:33.101Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673211dacd2d4189e12a4601"
+  },
+  "supplierId": {
+    "$oid": "6731ab49aa2c39972d7545ca"
+  },
+  "branchId": {
+    "$oid": "6731a435048b7632fdd89415"
+  },
+  "requestItems": [
+    {
+      "materialId": {
+        "$oid": "672f256a8d2702050209b5ce"
+      },
+      "packageType": {
+        "$oid": "673211cdcd2d4189e12a45a5"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f25b98d2702050209b606"
+      },
+      "packageType": {
+        "$oid": "673211cdcd2d4189e12a45a6"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "requestStatus": "completed",
+  "requestTotalPrice": 400000,
+  "isCancelled": false,
+  "cancelledReason": null,
+  "creatorId": "ANB-TBH",
+  "importDate": {
+    "$date": "2024-11-11T14:16:58.605Z"
+  },
+  "requestItemsSnapshot": [
+    {
+      "materialId": {
+        "$oid": "672f256a8d2702050209b5ce"
+      },
+      "packageType": {
+        "$oid": "673211cdcd2d4189e12a45a5"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f25b98d2702050209b606"
+      },
+      "packageType": {
+        "$oid": "673211cdcd2d4189e12a45a6"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-11-11T14:16:58.606Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T14:17:07.363Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733634b23d15df91b17ee30"
+  },
+  "supplierId": {
+    "$oid": "6731ab49aa2c39972d7545ca"
+  },
+  "branchId": {
+    "$oid": "6731a435048b7632fdd89415"
+  },
+  "requestItems": [
+    {
+      "materialId": {
+        "$oid": "672f19358d2702050209b3da"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545cb"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f1d3f8d2702050209b438"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545cc"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f1edb8d2702050209b46c"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545cd"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f19f88d2702050209b3e8"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545ce"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f1ebd8d2702050209b45b"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545cf"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f1a188d2702050209b3ef"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545d0"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f1ee18d2702050209b473"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545d1"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f1eeb8d2702050209b47a"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545d2"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f22a28d2702050209b537"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545d3"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f22c58d2702050209b553"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545d4"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f256a8d2702050209b5ce"
+      },
+      "packageType": {
+        "$oid": "673211cdcd2d4189e12a45a5"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f25b98d2702050209b606"
+      },
+      "packageType": {
+        "$oid": "673211cdcd2d4189e12a45a6"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "requestStatus": "completed",
+  "requestTotalPrice": 2400000,
+  "isCancelled": false,
+  "cancelledReason": null,
+  "creatorId": "ANB-TBH",
+  "importDate": {
+    "$date": "2024-11-12T14:16:43.633Z"
+  },
+  "requestItemsSnapshot": [
+    {
+      "materialId": {
+        "$oid": "672f19358d2702050209b3da"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545cb"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f1d3f8d2702050209b438"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545cc"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f1edb8d2702050209b46c"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545cd"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f19f88d2702050209b3e8"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545ce"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f1ebd8d2702050209b45b"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545cf"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f1a188d2702050209b3ef"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545d0"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f1ee18d2702050209b473"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545d1"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f1eeb8d2702050209b47a"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545d2"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f22a28d2702050209b537"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545d3"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f22c58d2702050209b553"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545d4"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f256a8d2702050209b5ce"
+      },
+      "packageType": {
+        "$oid": "673211cdcd2d4189e12a45a5"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f25b98d2702050209b606"
+      },
+      "packageType": {
+        "$oid": "673211cdcd2d4189e12a45a6"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-11-12T14:16:43.636Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T14:17:09.607Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67338a24bd68a53525d139d4"
+  },
+  "supplierId": {
+    "$oid": "6731ab49aa2c39972d7545ca"
+  },
+  "branchId": {
+    "$oid": "6731a435048b7632fdd89415"
+  },
+  "requestItems": [
+    {
+      "materialId": {
+        "$oid": "672f1edb8d2702050209b46c"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545cd"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "requestStatus": "completed",
+  "requestTotalPrice": 200000,
+  "isCancelled": false,
+  "cancelledReason": null,
+  "creatorId": "ANB-TBH",
+  "importDate": {
+    "$date": "2024-11-12T17:02:28.110Z"
+  },
+  "requestItemsSnapshot": [
+    {
+      "materialId": {
+        "$oid": "672f1edb8d2702050209b46c"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545cd"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-11-12T17:02:28.110Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T17:02:43.052Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67338b52bd68a53525d1562b"
+  },
+  "supplierId": {
+    "$oid": "6731ab49aa2c39972d7545ca"
+  },
+  "branchId": {
+    "$oid": "6731a435048b7632fdd89415"
+  },
+  "requestItems": [
+    {
+      "materialId": {
+        "$oid": "672f19358d2702050209b3da"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545cb"
+      },
+      "importPrice": 200000,
+      "importQuantity": 10,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f1d3f8d2702050209b438"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545cc"
+      },
+      "importPrice": 200000,
+      "importQuantity": 10,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f19f88d2702050209b3e8"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545ce"
+      },
+      "importPrice": 200000,
+      "importQuantity": 10,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "requestStatus": "completed",
+  "requestTotalPrice": 6000000,
+  "isCancelled": false,
+  "cancelledReason": null,
+  "creatorId": "ANB-TBH",
+  "importDate": {
+    "$date": "2024-11-12T17:07:30.313Z"
+  },
+  "requestItemsSnapshot": [
+    {
+      "materialId": {
+        "$oid": "672f19358d2702050209b3da"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545cb"
+      },
+      "importPrice": 200000,
+      "importQuantity": 10,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f1d3f8d2702050209b438"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545cc"
+      },
+      "importPrice": 200000,
+      "importQuantity": 10,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "672f19f88d2702050209b3e8"
+      },
+      "packageType": {
+        "$oid": "6731ab49aa2c39972d7545ce"
+      },
+      "importPrice": 200000,
+      "importQuantity": 10,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-11-12T17:07:30.314Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T17:07:38.933Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673e7537c473c4f0c02af744"
+  },
+  "supplierId": {
+    "$oid": "673e752cc473c4f0c02af728"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "requestItems": [
+    {
+      "materialId": {
+        "$oid": "673d0a5ebd3e3d3e08c4a6ba"
+      },
+      "packageType": {
+        "$oid": "673e752cc473c4f0c02af729"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "673d09f2bd3e3d3e08c4a6b4"
+      },
+      "packageType": {
+        "$oid": "673e752cc473c4f0c02af72a"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "requestStatus": "completed",
+  "requestTotalPrice": 300000,
+  "isCancelled": false,
+  "cancelledReason": null,
+  "creatorId": "ANB-HIEU",
+  "importDate": {
+    "$date": "2024-11-20T23:48:07.170Z"
+  },
+  "requestItemsSnapshot": [
+    {
+      "materialId": {
+        "$oid": "673d0a5ebd3e3d3e08c4a6ba"
+      },
+      "packageType": {
+        "$oid": "673e752cc473c4f0c02af729"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "673d09f2bd3e3d3e08c4a6b4"
+      },
+      "packageType": {
+        "$oid": "673e752cc473c4f0c02af72a"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-11-20T23:48:07.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T08:30:35.321Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673ef1bfc473c4f0c02b22d3"
+  },
+  "supplierId": {
+    "$oid": "673e752cc473c4f0c02af728"
+  },
+  "branchId": {
+    "$oid": "6731a435048b7632fdd89415"
+  },
+  "requestItems": [
+    {
+      "materialId": {
+        "$oid": "673d0a5ebd3e3d3e08c4a6ba"
+      },
+      "packageType": {
+        "$oid": "673e752cc473c4f0c02af729"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": false,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "673d09f2bd3e3d3e08c4a6b4"
+      },
+      "packageType": {
+        "$oid": "673e752cc473c4f0c02af72a"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": false,
+      "isSingle": false
+    }
+  ],
+  "requestStatus": "waiting",
+  "requestTotalPrice": 300000,
+  "isCancelled": false,
+  "cancelledReason": null,
+  "creatorId": "ANB-SA87",
+  "importDate": {
+    "$date": "2024-11-21T08:39:27.247Z"
+  },
+  "requestItemsSnapshot": [
+    {
+      "materialId": {
+        "$oid": "673d0a5ebd3e3d3e08c4a6ba"
+      },
+      "packageType": {
+        "$oid": "673e752cc473c4f0c02af729"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": false,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "673d09f2bd3e3d3e08c4a6b4"
+      },
+      "packageType": {
+        "$oid": "673e752cc473c4f0c02af72a"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": false,
+      "isSingle": false
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-11-21T08:39:27.250Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T05:19:42.637Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674e77d6d02b8e72d01b9cbb"
+  },
+  "supplierId": {
+    "$oid": "67312e96b2eac3d249fd1437"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "requestItems": [
+    {
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd1438"
+      },
+      "importPrice": 150000,
+      "importQuantity": 1,
+      "importStatus": false,
+      "isSingle": false
+    },
+    {
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd1439"
+      },
+      "importPrice": 1500000,
+      "importQuantity": 1,
+      "importStatus": false,
+      "isSingle": false
+    },
+    {
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd143a"
+      },
+      "importPrice": 950000,
+      "importQuantity": 1,
+      "importStatus": false,
+      "isSingle": false
+    },
+    {
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd143b"
+      },
+      "importPrice": 950000,
+      "importQuantity": 1,
+      "importStatus": false,
+      "isSingle": false
+    },
+    {
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd143c"
+      },
+      "importPrice": 1250000,
+      "importQuantity": 1,
+      "importStatus": false,
+      "isSingle": false
+    },
+    {
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd143d"
+      },
+      "importPrice": 650000,
+      "importQuantity": 1,
+      "importStatus": false,
+      "isSingle": false
+    },
+    {
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd143e"
+      },
+      "importPrice": 800000,
+      "importQuantity": 1,
+      "importStatus": false,
+      "isSingle": false
+    },
+    {
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd143f"
+      },
+      "importPrice": 900000,
+      "importQuantity": 1,
+      "importStatus": false,
+      "isSingle": false
+    },
+    {
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd1440"
+      },
+      "importPrice": 450000,
+      "importQuantity": 1,
+      "importStatus": false,
+      "isSingle": false
+    },
+    {
+      "packageType": {
+        "$oid": "67312e96b2eac3d249fd1441"
+      },
+      "importPrice": 1000000,
+      "importQuantity": 1,
+      "importStatus": false,
+      "isSingle": false
+    }
+  ],
+  "requestStatus": "pending",
+  "requestTotalPrice": 8600000,
+  "isCancelled": false,
+  "cancelledReason": null,
+  "creatorId": "ANB-HIEU",
+  "importDate": {
+    "$date": "2024-12-03T03:15:34.056Z"
+  },
+  "requestItemsSnapshot": [],
+  "createdAt": {
+    "$date": "2024-12-03T03:15:34.062Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T03:15:34.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674e7800d02b8e72d01b9d6f"
+  },
+  "supplierId": {
+    "$oid": "673e752cc473c4f0c02af728"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "requestItems": [
+    {
+      "materialId": {
+        "$oid": "673d0a5ebd3e3d3e08c4a6ba"
+      },
+      "packageType": {
+        "$oid": "673e752cc473c4f0c02af729"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "673d09f2bd3e3d3e08c4a6b4"
+      },
+      "packageType": {
+        "$oid": "673e752cc473c4f0c02af72a"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "requestStatus": "completed",
+  "requestTotalPrice": 300000,
+  "isCancelled": false,
+  "cancelledReason": null,
+  "creatorId": "ANB-HIEU",
+  "importDate": {
+    "$date": "2024-12-03T03:16:16.132Z"
+  },
+  "requestItemsSnapshot": [
+    {
+      "materialId": {
+        "$oid": "673d0a5ebd3e3d3e08c4a6ba"
+      },
+      "packageType": {
+        "$oid": "673e752cc473c4f0c02af729"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "673d09f2bd3e3d3e08c4a6b4"
+      },
+      "packageType": {
+        "$oid": "673e752cc473c4f0c02af72a"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-03T03:16:16.134Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T03:19:18.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f0ec8110caf55f947ca7e"
+  },
+  "supplierId": {
+    "$oid": "674f0eae110caf55f947c9db"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "requestItems": [
+    {
+      "materialId": {
+        "$oid": "673998fa13ab31dfbe1e12fd"
+      },
+      "packageType": {
+        "$oid": "674f0eae110caf55f947c9dc"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "673995f513ab31dfbe1e12d2"
+      },
+      "packageType": {
+        "$oid": "674f0eae110caf55f947c9dd"
+      },
+      "importPrice": 50000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "requestStatus": "completed",
+  "requestTotalPrice": 150000,
+  "isCancelled": false,
+  "cancelledReason": null,
+  "creatorId": "ANB-TEST",
+  "importDate": {
+    "$date": "2024-12-03T13:59:36.114Z"
+  },
+  "requestItemsSnapshot": [
+    {
+      "materialId": {
+        "$oid": "673998fa13ab31dfbe1e12fd"
+      },
+      "packageType": {
+        "$oid": "674f0eae110caf55f947c9dc"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "673995f513ab31dfbe1e12d2"
+      },
+      "packageType": {
+        "$oid": "674f0eae110caf55f947c9dd"
+      },
+      "importPrice": 50000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-03T13:59:36.116Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T14:00:17.777Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f12ba110caf55f947de93"
+  },
+  "supplierId": {
+    "$oid": "674f1257110caf55f947da0d"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "requestItems": [
+    {
+      "materialId": {
+        "$oid": "674f1138110caf55f947d297"
+      },
+      "packageType": {
+        "$oid": "674f1257110caf55f947da0e"
+      },
+      "importPrice": 100000,
+      "importQuantity": 10,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "6739964513ab31dfbe1e12ef"
+      },
+      "packageType": {
+        "$oid": "674f1257110caf55f947da0f"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "67399cdd13ab31dfbe1e133e"
+      },
+      "packageType": {
+        "$oid": "674f1257110caf55f947da10"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "67399fe513ab31dfbe1e1383"
+      },
+      "packageType": {
+        "$oid": "674f1257110caf55f947da11"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "6739990c13ab31dfbe1e130b"
+      },
+      "packageType": {
+        "$oid": "674f1257110caf55f947da12"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "6739f77313ab31dfbe1e377c"
+      },
+      "packageType": {
+        "$oid": "674f1257110caf55f947da13"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "6739a2dd13ab31dfbe1e139c"
+      },
+      "packageType": {
+        "$oid": "674f1257110caf55f947da14"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "6739b72e13ab31dfbe1e1557"
+      },
+      "packageType": {
+        "$oid": "674f1257110caf55f947da15"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "6739a12d13ab31dfbe1e1395"
+      },
+      "packageType": {
+        "$oid": "674f1257110caf55f947da16"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "requestStatus": "completed",
+  "requestTotalPrice": 1800000,
+  "isCancelled": false,
+  "cancelledReason": null,
+  "creatorId": "ANB-FE",
+  "importDate": {
+    "$date": "2024-12-03T14:16:26.679Z"
+  },
+  "requestItemsSnapshot": [
+    {
+      "materialId": {
+        "$oid": "674f1138110caf55f947d297"
+      },
+      "packageType": {
+        "$oid": "674f1257110caf55f947da0e"
+      },
+      "importPrice": 100000,
+      "importQuantity": 10,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "6739964513ab31dfbe1e12ef"
+      },
+      "packageType": {
+        "$oid": "674f1257110caf55f947da0f"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "67399cdd13ab31dfbe1e133e"
+      },
+      "packageType": {
+        "$oid": "674f1257110caf55f947da10"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "67399fe513ab31dfbe1e1383"
+      },
+      "packageType": {
+        "$oid": "674f1257110caf55f947da11"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "6739990c13ab31dfbe1e130b"
+      },
+      "packageType": {
+        "$oid": "674f1257110caf55f947da12"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "6739f77313ab31dfbe1e377c"
+      },
+      "packageType": {
+        "$oid": "674f1257110caf55f947da13"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "6739a2dd13ab31dfbe1e139c"
+      },
+      "packageType": {
+        "$oid": "674f1257110caf55f947da14"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "6739b72e13ab31dfbe1e1557"
+      },
+      "packageType": {
+        "$oid": "674f1257110caf55f947da15"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "6739a12d13ab31dfbe1e1395"
+      },
+      "packageType": {
+        "$oid": "674f1257110caf55f947da16"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-03T14:16:26.681Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T14:16:43.726Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f148a110caf55f947f435"
+  },
+  "supplierId": {
+    "$oid": "674f141e110caf55f947ee12"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "requestItems": [
+    {
+      "materialId": {
+        "$oid": "6739990c13ab31dfbe1e130b"
+      },
+      "packageType": {
+        "$oid": "674f141e110caf55f947ee13"
+      },
+      "importPrice": 150000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "6739990313ab31dfbe1e1304"
+      },
+      "packageType": {
+        "$oid": "674f141e110caf55f947ee14"
+      },
+      "importPrice": 150000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "requestStatus": "completed",
+  "requestTotalPrice": 300000,
+  "isCancelled": false,
+  "cancelledReason": null,
+  "creatorId": "ANB-FE",
+  "importDate": {
+    "$date": "2024-12-03T14:24:10.411Z"
+  },
+  "requestItemsSnapshot": [
+    {
+      "materialId": {
+        "$oid": "6739990c13ab31dfbe1e130b"
+      },
+      "packageType": {
+        "$oid": "674f141e110caf55f947ee13"
+      },
+      "importPrice": 150000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "6739990313ab31dfbe1e1304"
+      },
+      "packageType": {
+        "$oid": "674f141e110caf55f947ee14"
+      },
+      "importPrice": 150000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-03T14:24:10.413Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T14:24:22.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f14ea110caf55f947f996"
+  },
+  "supplierId": {
+    "$oid": "674f141e110caf55f947ee12"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "requestItems": [
+    {
+      "materialId": {
+        "$oid": "6739b41113ab31dfbe1e1534"
+      },
+      "packageType": {
+        "$oid": "674f14d5110caf55f947f883"
+      },
+      "importPrice": 150000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "requestStatus": "completed",
+  "requestTotalPrice": 150000,
+  "isCancelled": false,
+  "cancelledReason": null,
+  "creatorId": "ANB-FE",
+  "importDate": {
+    "$date": "2024-12-03T14:25:46.576Z"
+  },
+  "requestItemsSnapshot": [
+    {
+      "materialId": {
+        "$oid": "6739b41113ab31dfbe1e1534"
+      },
+      "packageType": {
+        "$oid": "674f14d5110caf55f947f883"
+      },
+      "importPrice": 150000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-03T14:25:46.578Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T14:25:54.307Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f1577110caf55f947fc3e"
+  },
+  "supplierId": {
+    "$oid": "674f1561110caf55f947fb34"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "requestItems": [
+    {
+      "materialId": {
+        "$oid": "6739aaf713ab31dfbe1e13b5"
+      },
+      "packageType": {
+        "$oid": "674f1561110caf55f947fb35"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "requestStatus": "completed",
+  "requestTotalPrice": 100000,
+  "isCancelled": false,
+  "cancelledReason": null,
+  "creatorId": "ANB-FE",
+  "importDate": {
+    "$date": "2024-12-03T14:28:07.524Z"
+  },
+  "requestItemsSnapshot": [
+    {
+      "materialId": {
+        "$oid": "6739aaf713ab31dfbe1e13b5"
+      },
+      "packageType": {
+        "$oid": "674f1561110caf55f947fb35"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-03T14:28:07.525Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T14:28:14.401Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f15fe110caf55f947fee7"
+  },
+  "supplierId": {
+    "$oid": "674f15ef110caf55f947fddc"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "requestItems": [
+    {
+      "materialId": {
+        "$oid": "67399ce913ab31dfbe1e1345"
+      },
+      "packageType": {
+        "$oid": "674f15ef110caf55f947fddd"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "requestStatus": "completed",
+  "requestTotalPrice": 100000,
+  "isCancelled": false,
+  "cancelledReason": null,
+  "creatorId": "ANB-FE",
+  "importDate": {
+    "$date": "2024-12-03T14:30:22.272Z"
+  },
+  "requestItemsSnapshot": [
+    {
+      "materialId": {
+        "$oid": "67399ce913ab31dfbe1e1345"
+      },
+      "packageType": {
+        "$oid": "674f15ef110caf55f947fddd"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-03T14:30:22.273Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T14:30:29.254Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675280be752cdfa28c6d6135"
+  },
+  "supplierId": {
+    "$oid": "673e752cc473c4f0c02af728"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "requestItems": [
+    {
+      "materialId": {
+        "$oid": "673d0a5ebd3e3d3e08c4a6ba"
+      },
+      "packageType": {
+        "$oid": "673e752cc473c4f0c02af729"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "requestStatus": "completed",
+  "requestTotalPrice": 100000,
+  "isCancelled": false,
+  "cancelledReason": null,
+  "creatorId": "ANB-SA87",
+  "importDate": {
+    "$date": "2024-12-06T04:42:38.307Z"
+  },
+  "requestItemsSnapshot": [
+    {
+      "materialId": {
+        "$oid": "673d0a5ebd3e3d3e08c4a6ba"
+      },
+      "packageType": {
+        "$oid": "673e752cc473c4f0c02af729"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-06T04:42:38.310Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-06T04:42:45.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675280f0752cdfa28c6d6300"
+  },
+  "supplierId": {
+    "$oid": "673e752cc473c4f0c02af728"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "requestItems": [
+    {
+      "materialId": {
+        "$oid": "673d0a5ebd3e3d3e08c4a6ba"
+      },
+      "packageType": {
+        "$oid": "673e752cc473c4f0c02af729"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": true
+    },
+    {
+      "materialId": {
+        "$oid": "673d09f2bd3e3d3e08c4a6b4"
+      },
+      "packageType": {
+        "$oid": "673e752cc473c4f0c02af72a"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": true
+    }
+  ],
+  "requestStatus": "completed",
+  "requestTotalPrice": 300000,
+  "isCancelled": false,
+  "cancelledReason": null,
+  "creatorId": "ANB-SA87",
+  "importDate": {
+    "$date": "2024-12-06T04:43:28.926Z"
+  },
+  "requestItemsSnapshot": [
+    {
+      "materialId": {
+        "$oid": "673d0a5ebd3e3d3e08c4a6ba"
+      },
+      "packageType": {
+        "$oid": "673e752cc473c4f0c02af729"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": true
+    },
+    {
+      "materialId": {
+        "$oid": "673d09f2bd3e3d3e08c4a6b4"
+      },
+      "packageType": {
+        "$oid": "673e752cc473c4f0c02af72a"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": true
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-06T04:43:28.929Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-06T04:43:52.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67528329752cdfa28c6d6fef"
+  },
+  "supplierId": {
+    "$oid": "674f1257110caf55f947da0d"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "requestItems": [
+    {
+      "materialId": {
+        "$oid": "674f1138110caf55f947d297"
+      },
+      "packageType": {
+        "$oid": "674f1257110caf55f947da0e"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "requestStatus": "completed",
+  "requestTotalPrice": 100000,
+  "isCancelled": false,
+  "cancelledReason": null,
+  "creatorId": "ANB-HIEU",
+  "importDate": {
+    "$date": "2024-12-06T04:52:57.056Z"
+  },
+  "requestItemsSnapshot": [
+    {
+      "materialId": {
+        "$oid": "674f1138110caf55f947d297"
+      },
+      "packageType": {
+        "$oid": "674f1257110caf55f947da0e"
+      },
+      "importPrice": 100000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-06T04:52:57.057Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-06T04:58:12.846Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67528404752cdfa28c6d7a65"
+  },
+  "supplierId": {
+    "$oid": "673e752cc473c4f0c02af728"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "requestItems": [
+    {
+      "materialId": {
+        "$oid": "6739964b13ab31dfbe1e12f6"
+      },
+      "packageType": {
+        "$oid": "6752838b752cdfa28c6d7739"
+      },
+      "importPrice": 180000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "6739bd9a13ab31dfbe1e164d"
+      },
+      "packageType": {
+        "$oid": "6752838b752cdfa28c6d773a"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "requestStatus": "completed",
+  "requestTotalPrice": 380000,
+  "isCancelled": false,
+  "cancelledReason": null,
+  "creatorId": "ANB-HIEU",
+  "importDate": {
+    "$date": "2024-12-06T04:56:36.908Z"
+  },
+  "requestItemsSnapshot": [
+    {
+      "materialId": {
+        "$oid": "6739964b13ab31dfbe1e12f6"
+      },
+      "packageType": {
+        "$oid": "6752838b752cdfa28c6d7739"
+      },
+      "importPrice": 180000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    },
+    {
+      "materialId": {
+        "$oid": "6739bd9a13ab31dfbe1e164d"
+      },
+      "packageType": {
+        "$oid": "6752838b752cdfa28c6d773a"
+      },
+      "importPrice": 200000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-06T04:56:36.909Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-06T04:58:04.842Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67528521752cdfa28c6d82d5"
+  },
+  "supplierId": {
+    "$oid": "673e752cc473c4f0c02af728"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "requestItems": [
+    {
+      "materialId": {
+        "$oid": "6739ed2513ab31dfbe1e233d"
+      },
+      "packageType": {
+        "$oid": "67528513752cdfa28c6d81aa"
+      },
+      "importPrice": 90000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "requestStatus": "completed",
+  "requestTotalPrice": 90000,
+  "isCancelled": false,
+  "cancelledReason": null,
+  "creatorId": "ANB-SA87",
+  "importDate": {
+    "$date": "2024-12-06T05:01:21.623Z"
+  },
+  "requestItemsSnapshot": [
+    {
+      "materialId": {
+        "$oid": "6739ed2513ab31dfbe1e233d"
+      },
+      "packageType": {
+        "$oid": "67528513752cdfa28c6d81aa"
+      },
+      "importPrice": 90000,
+      "importQuantity": 1,
+      "importStatus": true,
+      "isSingle": false
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-06T05:01:21.626Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-06T05:01:27.113Z"
+  },
+  "__v": 0
+}]

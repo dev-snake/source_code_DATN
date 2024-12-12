@@ -1,0 +1,889 @@
+[{
+  "_id": {
+    "$oid": "67312e96b2eac3d249fd1437"
+  },
+  "supplierName": "NPP Nguyên liệu bánh chicago",
+  "supplierContact": {
+    "email": "chicago.npp@gmail.com",
+    "phone": "0389994380",
+    "address": "330 Phạm Văn Đồng, Quận Gò Vấp, Thành phố Hồ Chí Minh"
+  },
+  "supplierContactPerson": {
+    "name": "Nguyễn Văn Thanh",
+    "email": "chicago.npp@gmail.com",
+    "phone": "0389994380"
+  },
+  "supplierPriority": 3,
+  "supplyItems": [
+    {
+      "materialId": {
+        "$oid": "672f9a518d2702050209df64"
+      },
+      "materialSpecs": {
+        "baseUnit": "Túi",
+        "pricePerUnit": 150000,
+        "packsPerUnit": 1,
+        "quantityPerPack": 500,
+        "_id": {
+          "$oid": "67312e96b2eac3d249fd1438"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "672f2c638d2702050209b717"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 1500000,
+        "packsPerUnit": 10,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "67312e96b2eac3d249fd1439"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "672f2c238d2702050209b6fb"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 950000,
+        "packsPerUnit": 10,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "67312e96b2eac3d249fd143a"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "672f2c028d2702050209b6ed"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 950000,
+        "packsPerUnit": 10,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "67312e96b2eac3d249fd143b"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "672f2bf98d2702050209b6e6"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 1250000,
+        "packsPerUnit": 10,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "67312e96b2eac3d249fd143c"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "672f2bf28d2702050209b6df"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 650000,
+        "packsPerUnit": 5,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "67312e96b2eac3d249fd143d"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "672f2be68d2702050209b6d8"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 800000,
+        "packsPerUnit": 10,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "67312e96b2eac3d249fd143e"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "672f2bd88d2702050209b6d1"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 900000,
+        "packsPerUnit": 10,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "67312e96b2eac3d249fd143f"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "672f2bc08d2702050209b6c3"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 450000,
+        "packsPerUnit": 10,
+        "quantityPerPack": 300,
+        "_id": {
+          "$oid": "67312e96b2eac3d249fd1440"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "672f2a8f8d2702050209b6a0"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 1000000,
+        "packsPerUnit": 10,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "67312e96b2eac3d249fd1441"
+        }
+      }
+    }
+  ],
+  "supplierDescription": "",
+  "creatorId": "ANB-HIEU",
+  "branchId": [
+    {
+      "$oid": "67312a2ab2eac3d249fd0b4e"
+    }
+  ],
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-10T22:07:18.824Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-10T22:07:18.824Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731ab49aa2c39972d7545ca"
+  },
+  "supplierName": "Nha cung cap 2",
+  "supplierContact": {
+    "email": "ncc2@gmail.com",
+    "phone": "0989789765",
+    "address": "Dia chi ncc2"
+  },
+  "supplierContactPerson": {
+    "name": "TBH",
+    "email": "tbhd@gmail.com",
+    "phone": "0989789765"
+  },
+  "supplierPriority": 2,
+  "supplyItems": [
+    {
+      "materialId": {
+        "$oid": "672f19358d2702050209b3da"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 200000,
+        "packsPerUnit": 24,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "6731ab49aa2c39972d7545cb"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "672f1d3f8d2702050209b438"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 200000,
+        "packsPerUnit": 24,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "6731ab49aa2c39972d7545cc"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "672f1edb8d2702050209b46c"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 200000,
+        "packsPerUnit": 24,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "6731ab49aa2c39972d7545cd"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "672f19f88d2702050209b3e8"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 200000,
+        "packsPerUnit": 24,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "6731ab49aa2c39972d7545ce"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "672f1ebd8d2702050209b45b"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 200000,
+        "packsPerUnit": 24,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "6731ab49aa2c39972d7545cf"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "672f1a188d2702050209b3ef"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 200000,
+        "packsPerUnit": 24,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "6731ab49aa2c39972d7545d0"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "672f1ee18d2702050209b473"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 200000,
+        "packsPerUnit": 24,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "6731ab49aa2c39972d7545d1"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "672f1eeb8d2702050209b47a"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 200000,
+        "packsPerUnit": 24,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "6731ab49aa2c39972d7545d2"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "672f22a28d2702050209b537"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 200000,
+        "packsPerUnit": 24,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "6731ab49aa2c39972d7545d3"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "672f22c58d2702050209b553"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 200000,
+        "packsPerUnit": 24,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "6731ab49aa2c39972d7545d4"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "672f256a8d2702050209b5ce"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 200000,
+        "packsPerUnit": 24,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "673211cdcd2d4189e12a45a5"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "672f25b98d2702050209b606"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 200000,
+        "packsPerUnit": 24,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "673211cdcd2d4189e12a45a6"
+        }
+      }
+    }
+  ],
+  "supplierDescription": "",
+  "creatorId": "ANB-BAOBE",
+  "branchId": [
+    {
+      "$oid": "6731a435048b7632fdd89415"
+    }
+  ],
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-11T06:59:21.124Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T14:16:45.950Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673e752cc473c4f0c02af728"
+  },
+  "supplierName": "NCC foir test",
+  "supplierContact": {
+    "email": "nccfortest@gmail.com",
+    "phone": "0394488332",
+    "address": "123213"
+  },
+  "supplierContactPerson": {
+    "name": "NCC foir test",
+    "email": "nccfortest@gmail.com",
+    "phone": "0394488332"
+  },
+  "supplierPriority": 3,
+  "supplyItems": [
+    {
+      "materialId": {
+        "$oid": "673d0a5ebd3e3d3e08c4a6ba"
+      },
+      "materialSpecs": {
+        "baseUnit": "Giỏ",
+        "pricePerUnit": 100000,
+        "packsPerUnit": 1,
+        "quantityPerPack": 20,
+        "_id": {
+          "$oid": "673e752cc473c4f0c02af729"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "673d09f2bd3e3d3e08c4a6b4"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 200000,
+        "packsPerUnit": 24,
+        "quantityPerPack": 24000,
+        "_id": {
+          "$oid": "673e752cc473c4f0c02af72a"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "6739964b13ab31dfbe1e12f6"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 180000,
+        "packsPerUnit": 6,
+        "quantityPerPack": 600,
+        "_id": {
+          "$oid": "6752838b752cdfa28c6d7739"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "6739bd9a13ab31dfbe1e164d"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 200000,
+        "packsPerUnit": 10,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "6752838b752cdfa28c6d773a"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "6739ed2513ab31dfbe1e233d"
+      },
+      "materialSpecs": {
+        "baseUnit": "Hộp",
+        "pricePerUnit": 90000,
+        "packsPerUnit": 1,
+        "quantityPerPack": 100,
+        "_id": {
+          "$oid": "67528513752cdfa28c6d81aa"
+        }
+      }
+    }
+  ],
+  "supplierDescription": "",
+  "creatorId": "ANB-SA87",
+  "branchId": [
+    {
+      "$oid": "6731a435048b7632fdd89415"
+    },
+    {
+      "$oid": "67312a2ab2eac3d249fd0b4e"
+    }
+  ],
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-20T23:47:56.373Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-06T05:01:07.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f0eae110caf55f947c9db"
+  },
+  "supplierName": "Cung cấp tinh Bột",
+  "supplierContact": {
+    "email": "dangvanhaufpt2019@gmail.com",
+    "phone": "0337171563",
+    "address": "HCM"
+  },
+  "supplierContactPerson": {
+    "name": "Đặng văn Hậu",
+    "email": "dangvanhaufpt2019@gmail.com",
+    "phone": "0337171563"
+  },
+  "supplierPriority": 2,
+  "supplyItems": [
+    {
+      "materialId": {
+        "$oid": "673998fa13ab31dfbe1e12fd"
+      },
+      "materialSpecs": {
+        "baseUnit": "thùng",
+        "pricePerUnit": 100000,
+        "packsPerUnit": 5,
+        "quantityPerPack": 20,
+        "_id": {
+          "$oid": "674f0eae110caf55f947c9dc"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "673995f513ab31dfbe1e12d2"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 50000,
+        "packsPerUnit": 5,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "674f0eae110caf55f947c9dd"
+        }
+      }
+    }
+  ],
+  "supplierDescription": "",
+  "creatorId": "ANB-TEST",
+  "branchId": [
+    {
+      "$oid": "67312a2ab2eac3d249fd0b4e"
+    }
+  ],
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-03T13:59:10.849Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T13:59:10.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f1257110caf55f947da0d"
+  },
+  "supplierName": "Nhà cung cấp Proterin",
+  "supplierContact": {
+    "email": "dangvanhaufpt2019@gmail.com",
+    "phone": "0337171563",
+    "address": "Thành Phố Hồ Chí Minh"
+  },
+  "supplierContactPerson": {
+    "name": "Đặng văn Hậu",
+    "email": "dangvanhaufpt2019@gmail.com",
+    "phone": "0337171563"
+  },
+  "supplierPriority": 2,
+  "supplyItems": [
+    {
+      "materialId": {
+        "$oid": "674f1138110caf55f947d297"
+      },
+      "materialSpecs": {
+        "baseUnit": "thùng",
+        "pricePerUnit": 100000,
+        "packsPerUnit": 10,
+        "quantityPerPack": 10,
+        "_id": {
+          "$oid": "674f1257110caf55f947da0e"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "6739964513ab31dfbe1e12ef"
+      },
+      "materialSpecs": {
+        "baseUnit": "thùng",
+        "pricePerUnit": 100000,
+        "packsPerUnit": 10,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "674f1257110caf55f947da0f"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "67399cdd13ab31dfbe1e133e"
+      },
+      "materialSpecs": {
+        "baseUnit": "thùng",
+        "pricePerUnit": 100000,
+        "packsPerUnit": 10,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "674f1257110caf55f947da10"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "67399fe513ab31dfbe1e1383"
+      },
+      "materialSpecs": {
+        "baseUnit": "thùng",
+        "pricePerUnit": 100000,
+        "packsPerUnit": 10,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "674f1257110caf55f947da11"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "6739990c13ab31dfbe1e130b"
+      },
+      "materialSpecs": {
+        "baseUnit": "thùng",
+        "pricePerUnit": 100000,
+        "packsPerUnit": 10,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "674f1257110caf55f947da12"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "6739f77313ab31dfbe1e377c"
+      },
+      "materialSpecs": {
+        "baseUnit": "thùng",
+        "pricePerUnit": 100000,
+        "packsPerUnit": 10,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "674f1257110caf55f947da13"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "6739a2dd13ab31dfbe1e139c"
+      },
+      "materialSpecs": {
+        "baseUnit": "thùng",
+        "pricePerUnit": 100000,
+        "packsPerUnit": 10,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "674f1257110caf55f947da14"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "6739b72e13ab31dfbe1e1557"
+      },
+      "materialSpecs": {
+        "baseUnit": "thùng",
+        "pricePerUnit": 100000,
+        "packsPerUnit": 10,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "674f1257110caf55f947da15"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "6739a12d13ab31dfbe1e1395"
+      },
+      "materialSpecs": {
+        "baseUnit": "thùng",
+        "pricePerUnit": 100000,
+        "packsPerUnit": 10,
+        "quantityPerPack": 1000,
+        "_id": {
+          "$oid": "674f1257110caf55f947da16"
+        }
+      }
+    }
+  ],
+  "supplierDescription": "",
+  "creatorId": "ANB-FE",
+  "branchId": [
+    {
+      "$oid": "6731a435048b7632fdd89415"
+    },
+    {
+      "$oid": "67312a2ab2eac3d249fd0b4e"
+    }
+  ],
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-03T14:14:47.857Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T14:14:47.857Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f141e110caf55f947ee12"
+  },
+  "supplierName": "Nhà cung cấp đồ ngọt",
+  "supplierContact": {
+    "email": "dangvanhaupfpt2019@gmail.com",
+    "phone": "0337171563",
+    "address": "Thành phố Hồ Chí  Minh"
+  },
+  "supplierContactPerson": {
+    "name": "Đặng Văn Hậu",
+    "email": "dangvanhaupfpt2019@gmail.com",
+    "phone": "0337171563"
+  },
+  "supplierPriority": 1,
+  "supplyItems": [
+    {
+      "materialId": {
+        "$oid": "6739990c13ab31dfbe1e130b"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 150000,
+        "packsPerUnit": 100,
+        "quantityPerPack": 150,
+        "_id": {
+          "$oid": "674f141e110caf55f947ee13"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "6739990313ab31dfbe1e1304"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 150000,
+        "packsPerUnit": 100,
+        "quantityPerPack": 150,
+        "_id": {
+          "$oid": "674f141e110caf55f947ee14"
+        }
+      }
+    },
+    {
+      "materialId": {
+        "$oid": "6739b41113ab31dfbe1e1534"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 150000,
+        "packsPerUnit": 100,
+        "quantityPerPack": 1500,
+        "_id": {
+          "$oid": "674f14d5110caf55f947f883"
+        }
+      }
+    }
+  ],
+  "supplierDescription": "",
+  "creatorId": "ANB-FE",
+  "branchId": [
+    {
+      "$oid": "6731a435048b7632fdd89415"
+    },
+    {
+      "$oid": "67312a2ab2eac3d249fd0b4e"
+    }
+  ],
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-03T14:22:22.537Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T14:25:25.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f1561110caf55f947fb34"
+  },
+  "supplierName": "Nhà cung cấp Trái cây",
+  "supplierContact": {
+    "email": "dangvanhaufpt2019@gmail.com",
+    "phone": "0337171563",
+    "address": "Thành phố Hồ Chí Minh"
+  },
+  "supplierContactPerson": {
+    "name": "Đặng Văn hậu",
+    "email": "dangvanhaufpt2019@gmail.com",
+    "phone": "0337171563"
+  },
+  "supplierPriority": 2,
+  "supplyItems": [
+    {
+      "materialId": {
+        "$oid": "6739aaf713ab31dfbe1e13b5"
+      },
+      "materialSpecs": {
+        "baseUnit": "Thùng",
+        "pricePerUnit": 100000,
+        "packsPerUnit": 11,
+        "quantityPerPack": 100,
+        "_id": {
+          "$oid": "674f1561110caf55f947fb35"
+        }
+      }
+    }
+  ],
+  "supplierDescription": "",
+  "creatorId": "ANB-FE",
+  "branchId": [
+    {
+      "$oid": "67312a2ab2eac3d249fd0b4e"
+    },
+    {
+      "$oid": "6731a435048b7632fdd89415"
+    }
+  ],
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-03T14:27:45.744Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T14:27:45.744Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f15ef110caf55f947fddc"
+  },
+  "supplierName": "Nhà cung cấp Gia Vị",
+  "supplierContact": {
+    "email": "dangvanhaufpt2019@gmail.com",
+    "phone": "0337171563",
+    "address": "Thành phố Hồ Chí Minh , "
+  },
+  "supplierContactPerson": {
+    "name": "Đặng Văn hậu",
+    "email": "dangvanhaufpt2019@gmail.com",
+    "phone": "0337171563"
+  },
+  "supplierPriority": 2,
+  "supplyItems": [
+    {
+      "materialId": {
+        "$oid": "67399ce913ab31dfbe1e1345"
+      },
+      "materialSpecs": {
+        "baseUnit": "thùng",
+        "pricePerUnit": 100000,
+        "packsPerUnit": 10,
+        "quantityPerPack": 10000,
+        "_id": {
+          "$oid": "674f15ef110caf55f947fddd"
+        }
+      }
+    }
+  ],
+  "supplierDescription": "",
+  "creatorId": "ANB-FE",
+  "branchId": [
+    {
+      "$oid": "6731a435048b7632fdd89415"
+    },
+    {
+      "$oid": "67312a2ab2eac3d249fd0b4e"
+    }
+  ],
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-03T14:30:07.651Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T14:30:07.651Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,2127 @@
+[{
+  "_id": {
+    "$oid": "6739f6bd13ab31dfbe1e3050"
+  },
+  "cakeName": "Bánh kem Sữa",
+  "cakeCategory": "banh-sinh-nhat",
+  "cakeDescription": "Bánh kem sữa là một loại bánh ngọt có lớp vỏ ngoài mịn màng, được phủ lớp kem sữa thơm ngon, béo ngậy. Lớp kem sữa này thường được làm từ sữa tươi, kem tươi và đường, mang lại hương vị ngọt thanh và cảm giác mịn màng khi ăn. Bên trong bánh có thể là cốt bánh bông lan mềm, xốp, có vị ngọt nhẹ và hương thơm của vani hoặc sữa. Một số phiên bản có thể thêm các lớp kem hoặc nhân khác như dâu tây socola hoặc trái cây để tăng thêm hương vị.\t\t\nBánh kem sữa thường được trang trí đơn giản với kem và một số chi tiết nhỏ như trái cây, socola hoặc hạt tạo nên một vể ngoài thanh lịch và hấp dẫn.\t\t",
+  "cakeThumbnail": "1731851965402-0.png",
+  "cakeMedias": [
+    "1731851965402-0.png",
+    "1731851965402-1.png",
+    "1731851965402-2.png",
+    "1731851965403-3.png",
+    "1731851965403-4.png",
+    "1731851965402.png"
+  ],
+  "cakeDefaultPrice": 100000,
+  "cakeVariants": [
+    {
+      "variantLabel": "Trái cây",
+      "variantItems": [
+        {
+          "itemLabel": "Táo",
+          "itemPrice": 5000,
+          "itemRecipe": {
+            "$oid": "6739bd6813ab31dfbe1e15a6"
+          },
+          "_id": {
+            "$oid": "6739f6bd13ab31dfbe1e3052"
+          }
+        },
+        {
+          "itemLabel": "Lê",
+          "itemPrice": 2000,
+          "itemRecipe": {
+            "$oid": "6739bd6813ab31dfbe1e15a7"
+          },
+          "_id": {
+            "$oid": "6739f6bd13ab31dfbe1e3053"
+          }
+        },
+        {
+          "itemLabel": "Nho",
+          "itemPrice": 3000,
+          "itemRecipe": {
+            "$oid": "6739bd6813ab31dfbe1e15a8"
+          },
+          "_id": {
+            "$oid": "6739f6bd13ab31dfbe1e3054"
+          }
+        },
+        {
+          "itemLabel": "Kiwi",
+          "itemPrice": 3000,
+          "itemRecipe": {
+            "$oid": "6739bd6813ab31dfbe1e15a9"
+          },
+          "_id": {
+            "$oid": "6739f6bd13ab31dfbe1e3055"
+          }
+        },
+        {
+          "itemLabel": "Đào",
+          "itemPrice": 4000,
+          "itemRecipe": {
+            "$oid": "6739bd6813ab31dfbe1e15aa"
+          },
+          "_id": {
+            "$oid": "6739f6bd13ab31dfbe1e3056"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6739f6bd13ab31dfbe1e3051"
+      }
+    },
+    {
+      "variantLabel": "Vani",
+      "variantItems": [
+        {
+          "itemLabel": "Nguyên chất",
+          "itemPrice": 10000,
+          "itemRecipe": {
+            "$oid": "6739bd6813ab31dfbe1e15ac"
+          },
+          "_id": {
+            "$oid": "6739f6bd13ab31dfbe1e3058"
+          }
+        },
+        {
+          "itemLabel": "Madagascar",
+          "itemPrice": 2000,
+          "itemRecipe": {
+            "$oid": "6739bd6813ab31dfbe1e15ad"
+          },
+          "_id": {
+            "$oid": "6739f6bd13ab31dfbe1e3059"
+          }
+        },
+        {
+          "itemLabel": "Bột vanila",
+          "itemPrice": 3000,
+          "itemRecipe": {
+            "$oid": "6739bd6813ab31dfbe1e15ae"
+          },
+          "_id": {
+            "$oid": "6739f6bd13ab31dfbe1e305a"
+          }
+        },
+        {
+          "itemLabel": "Tổng hợp",
+          "itemPrice": 7000,
+          "itemRecipe": {
+            "$oid": "6739bd6813ab31dfbe1e15af"
+          },
+          "_id": {
+            "$oid": "6739f6bd13ab31dfbe1e305b"
+          }
+        },
+        {
+          "itemLabel": "Vani trà xanh",
+          "itemPrice": 15000,
+          "itemRecipe": {
+            "$oid": "6739bd6813ab31dfbe1e15bf"
+          },
+          "_id": {
+            "$oid": "6739f6bd13ab31dfbe1e305c"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6739f6bd13ab31dfbe1e3057"
+      }
+    },
+    {
+      "variantLabel": "Trang trí Fondant",
+      "variantItems": [
+        {
+          "itemLabel": "Hình hoa",
+          "itemPrice": 3000,
+          "itemRecipe": {
+            "$oid": "6739bd6813ab31dfbe1e15b2"
+          },
+          "_id": {
+            "$oid": "6739f6bd13ab31dfbe1e305e"
+          }
+        },
+        {
+          "itemLabel": "Hình thú",
+          "itemPrice": 20000,
+          "itemRecipe": {
+            "$oid": "6739bd6813ab31dfbe1e15b3"
+          },
+          "_id": {
+            "$oid": "6739f6bd13ab31dfbe1e305f"
+          }
+        },
+        {
+          "itemLabel": "Họa tiết",
+          "itemPrice": 10000,
+          "itemRecipe": {
+            "$oid": "6739bd6813ab31dfbe1e15b4"
+          },
+          "_id": {
+            "$oid": "6739f6bd13ab31dfbe1e3060"
+          }
+        },
+        {
+          "itemLabel": "Chữ viết",
+          "itemPrice": 8000,
+          "itemRecipe": {
+            "$oid": "6739bd6813ab31dfbe1e15b5"
+          },
+          "_id": {
+            "$oid": "6739f6bd13ab31dfbe1e3061"
+          }
+        },
+        {
+          "itemLabel": "Nhân vật hoạt hình",
+          "itemPrice": 6000,
+          "itemRecipe": {
+            "$oid": "6739bd6813ab31dfbe1e15b6"
+          },
+          "_id": {
+            "$oid": "6739f6bd13ab31dfbe1e3062"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6739f6bd13ab31dfbe1e305d"
+      }
+    },
+    {
+      "variantLabel": "Mứt trái cây",
+      "variantItems": [
+        {
+          "itemLabel": "Mứt dâu",
+          "itemPrice": 8000,
+          "itemRecipe": {
+            "$oid": "6739bd6813ab31dfbe1e15b8"
+          },
+          "_id": {
+            "$oid": "6739f6bd13ab31dfbe1e3064"
+          }
+        },
+        {
+          "itemLabel": "Mứt mâm xôi",
+          "itemPrice": 3000,
+          "itemRecipe": {
+            "$oid": "6739bd6813ab31dfbe1e15b9"
+          },
+          "_id": {
+            "$oid": "6739f6bd13ab31dfbe1e3065"
+          }
+        },
+        {
+          "itemLabel": "Mứt cam",
+          "itemPrice": 4000,
+          "itemRecipe": {
+            "$oid": "6739bd6813ab31dfbe1e15ba"
+          },
+          "_id": {
+            "$oid": "6739f6bd13ab31dfbe1e3066"
+          }
+        },
+        {
+          "itemLabel": "Mứt việt quất",
+          "itemPrice": 3000,
+          "itemRecipe": {
+            "$oid": "6739bd6813ab31dfbe1e15bb"
+          },
+          "_id": {
+            "$oid": "6739f6bd13ab31dfbe1e3067"
+          }
+        },
+        {
+          "itemLabel": "Mứt chanh",
+          "itemPrice": 5000,
+          "itemRecipe": {
+            "$oid": "6739bd6813ab31dfbe1e15bc"
+          },
+          "_id": {
+            "$oid": "6739f6bd13ab31dfbe1e3068"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6739f6bd13ab31dfbe1e3063"
+      }
+    },
+    {
+      "variantLabel": "Kem tươi ",
+      "variantItems": [
+        {
+          "itemLabel": "Vị caramel",
+          "itemPrice": 9000,
+          "itemRecipe": {
+            "$oid": "6739bd6813ab31dfbe1e15be"
+          },
+          "_id": {
+            "$oid": "6739f6bd13ab31dfbe1e306a"
+          }
+        },
+        {
+          "itemLabel": "Vị trà xanh",
+          "itemPrice": 3000,
+          "itemRecipe": {
+            "$oid": "6739bd6813ab31dfbe1e15bf"
+          },
+          "_id": {
+            "$oid": "6739f6bd13ab31dfbe1e306b"
+          }
+        },
+        {
+          "itemLabel": "Vị dâu tây",
+          "itemPrice": 4000,
+          "itemRecipe": {
+            "$oid": "6739bd6813ab31dfbe1e15c0"
+          },
+          "_id": {
+            "$oid": "6739f6bd13ab31dfbe1e306c"
+          }
+        },
+        {
+          "itemLabel": "Vị socola đen",
+          "itemPrice": 9000,
+          "itemRecipe": {
+            "$oid": "6739bd6813ab31dfbe1e15c1"
+          },
+          "_id": {
+            "$oid": "6739f6bd13ab31dfbe1e306d"
+          }
+        },
+        {
+          "itemLabel": "Vị mocha",
+          "itemPrice": 5000,
+          "itemRecipe": {
+            "$oid": "6739bd6813ab31dfbe1e15c2"
+          },
+          "_id": {
+            "$oid": "6739f6bd13ab31dfbe1e306e"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6739f6bd13ab31dfbe1e3069"
+      }
+    }
+  ],
+  "cakeProperties": [
+    {
+      "propertyKey": "Hướng dẫn",
+      "propertyValue": "Ăn cùng với các loại trái cây hoặc trà",
+      "_id": {
+        "$oid": "6739f6bd13ab31dfbe1e306f"
+      }
+    },
+    {
+      "propertyKey": "Hạn sử dụng",
+      "propertyValue": "48 tiếng sau khi mở hộp",
+      "_id": {
+        "$oid": "6739f6bd13ab31dfbe1e3070"
+      }
+    }
+  ],
+  "cakeRecipe": {
+    "$oid": "6739bd6813ab31dfbe1e15a4"
+  },
+  "discountPercents": 10,
+  "views": 131,
+  "soldCount": 5,
+  "isHide": false,
+  "creatorId": "ANB-NS",
+  "rates": [
+    {
+      "customerId": "672ee6b2c91a9dc421b11829",
+      "rateContent": "sản phẩm ok",
+      "rateStars": 4,
+      "isHide": false,
+      "isDeleted": true,
+      "_id": {
+        "$oid": "674f17ed110caf55f9480eca"
+      },
+      "createdAt": {
+        "$date": "2024-12-11T15:29:28.944Z"
+      },
+      "updatedAt": {
+        "$date": "2024-12-11T15:29:28.944Z"
+      }
+    },
+    {
+      "customerId": "672ee6b2c91a9dc421b11829",
+      "rateContent": "oke ngon",
+      "rateStars": 5,
+      "isHide": false,
+      "isDeleted": true,
+      "_id": {
+        "$oid": "67505af2c66376633a456bff"
+      },
+      "createdAt": {
+        "$date": "2024-12-11T15:29:28.944Z"
+      },
+      "updatedAt": {
+        "$date": "2024-12-11T15:29:28.944Z"
+      }
+    },
+    {
+      "customerId": "672ee6b2c91a9dc421b11829",
+      "rateContent": "Very good 🚀",
+      "rateStars": 4,
+      "isHide": false,
+      "isDeleted": true,
+      "_id": {
+        "$oid": "67506ca2c66376633a4598be"
+      },
+      "createdAt": {
+        "$date": "2024-12-11T15:29:28.944Z"
+      },
+      "updatedAt": {
+        "$date": "2024-12-11T15:29:28.944Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-11-17T13:59:25.417Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T06:50:56.490Z"
+  },
+  "__v": 0,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "6739ff1313ab31dfbe1e4661"
+  },
+  "cakeName": "Bánh kem Socola",
+  "cakeCategory": "banh-sinh-nhat",
+  "cakeDescription": "Bánh kem socola là một loại bánh ngọt đậm đà, có hương vị đặc trưng từ socola. Bánh thường được làm từ bột mì, đường, trứng, bơ và cacao hoặc socola đen, tạo nên một kết cấu mềm mịn và ẩm ướt. Hương vị của bánh socola phong phú, đậm đà với môt chút đắng nhẹ của cacao, hóa quyện với vị ngọt của đường, tạo nên một sự cân bằng hoàn hảo\t\t\nBên trong bánh có thể là cốt bánh bông lan socola mềm, xốp và đôi khi có thể thêm nhân kem socola hoặc socola chảy bên trong để tăng thêm độ béo ngậy và hấp dẫn. Bên ngoài, bánh có thể được phủ lớp ganache socola bóng bẩy hoặc kem socola, làm tăng thêm sự lôi cuốn.\t\t",
+  "cakeThumbnail": "1731854099647-0.png",
+  "cakeMedias": [
+    "1731854099647-0.png",
+    "1731854099647-1.png",
+    "1731854099647-2.png",
+    "1731854099647-3.png",
+    "1731854099647-4.png",
+    "1731854099647.png"
+  ],
+  "cakeDefaultPrice": 200000,
+  "cakeVariants": [
+    {
+      "variantLabel": "Socola đen ",
+      "variantItems": [
+        {
+          "itemLabel": "70% cacao",
+          "itemPrice": 10000,
+          "itemRecipe": {
+            "$oid": "6739ebe713ab31dfbe1e1873"
+          },
+          "_id": {
+            "$oid": "6739ff1313ab31dfbe1e4663"
+          }
+        },
+        {
+          "itemLabel": " 80% cacao",
+          "itemPrice": 14000,
+          "itemRecipe": {
+            "$oid": "6739ebe713ab31dfbe1e1874"
+          },
+          "_id": {
+            "$oid": "6739ff1313ab31dfbe1e4664"
+          }
+        },
+        {
+          "itemLabel": " 90% cacao",
+          "itemPrice": 16000,
+          "itemRecipe": {
+            "$oid": "6739ebe713ab31dfbe1e1875"
+          },
+          "_id": {
+            "$oid": "6739ff1313ab31dfbe1e4665"
+          }
+        },
+        {
+          "itemLabel": " 60% cacao",
+          "itemPrice": 10000,
+          "itemRecipe": {
+            "$oid": "6739ebe713ab31dfbe1e1876"
+          },
+          "_id": {
+            "$oid": "6739ff1313ab31dfbe1e4666"
+          }
+        },
+        {
+          "itemLabel": " 50% cacao",
+          "itemPrice": 18000,
+          "itemRecipe": {
+            "$oid": "6739ebe713ab31dfbe1e1877"
+          },
+          "_id": {
+            "$oid": "6739ff1313ab31dfbe1e4667"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6739ff1313ab31dfbe1e4662"
+      }
+    },
+    {
+      "variantLabel": "Socola sữa",
+      "variantItems": [
+        {
+          "itemLabel": " 50% cacao",
+          "itemPrice": 20000,
+          "itemRecipe": {
+            "$oid": "6739ebe713ab31dfbe1e1879"
+          },
+          "_id": {
+            "$oid": "6739ff1313ab31dfbe1e4669"
+          }
+        },
+        {
+          "itemLabel": "Caramel",
+          "itemPrice": 25000,
+          "itemRecipe": {
+            "$oid": "6739ebe713ab31dfbe1e187a"
+          },
+          "_id": {
+            "$oid": "6739ff1313ab31dfbe1e466a"
+          }
+        },
+        {
+          "itemLabel": "Hạt dẻ ",
+          "itemPrice": 27000,
+          "itemRecipe": {
+            "$oid": "6739ebe713ab31dfbe1e187b"
+          },
+          "_id": {
+            "$oid": "6739ff1313ab31dfbe1e466b"
+          }
+        },
+        {
+          "itemLabel": "Hạt hạnh nhân",
+          "itemPrice": 28000,
+          "itemRecipe": {
+            "$oid": "6739ebe713ab31dfbe1e187c"
+          },
+          "_id": {
+            "$oid": "6739ff1313ab31dfbe1e466c"
+          }
+        },
+        {
+          "itemLabel": "Dừa",
+          "itemPrice": 24000,
+          "itemRecipe": {
+            "$oid": "6739ebe713ab31dfbe1e187d"
+          },
+          "_id": {
+            "$oid": "6739ff1313ab31dfbe1e466d"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6739ff1313ab31dfbe1e4668"
+      }
+    },
+    {
+      "variantLabel": "Socola Trắng",
+      "variantItems": [
+        {
+          "itemLabel": "Nguyên chất",
+          "itemPrice": 25000,
+          "itemRecipe": {
+            "$oid": "6739ebe713ab31dfbe1e187f"
+          },
+          "_id": {
+            "$oid": "6739ff1313ab31dfbe1e466f"
+          }
+        },
+        {
+          "itemLabel": "Hạt chia",
+          "itemPrice": 28000,
+          "itemRecipe": {
+            "$oid": "6739ebe713ab31dfbe1e1880"
+          },
+          "_id": {
+            "$oid": "6739ff1313ab31dfbe1e4670"
+          }
+        },
+        {
+          "itemLabel": "Với táo",
+          "itemPrice": 30000,
+          "itemRecipe": {
+            "$oid": "6739ebe713ab31dfbe1e1881"
+          },
+          "_id": {
+            "$oid": "6739ff1313ab31dfbe1e4671"
+          }
+        },
+        {
+          "itemLabel": "Với lê",
+          "itemPrice": 32000,
+          "itemRecipe": {
+            "$oid": "6739ebe713ab31dfbe1e1882"
+          },
+          "_id": {
+            "$oid": "6739ff1313ab31dfbe1e4672"
+          }
+        },
+        {
+          "itemLabel": "Với hạt dẻ",
+          "itemPrice": 27000,
+          "itemRecipe": {
+            "$oid": "6739ebe713ab31dfbe1e1883"
+          },
+          "_id": {
+            "$oid": "6739ff1313ab31dfbe1e4673"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6739ff1313ab31dfbe1e466e"
+      }
+    },
+    {
+      "variantLabel": "Hạt",
+      "variantItems": [
+        {
+          "itemLabel": "Hạnh nhân",
+          "itemPrice": 15000,
+          "itemRecipe": {
+            "$oid": "6739ebe713ab31dfbe1e1885"
+          },
+          "_id": {
+            "$oid": "6739ff1313ab31dfbe1e4675"
+          }
+        },
+        {
+          "itemLabel": "Hạt dẻ",
+          "itemPrice": 18000,
+          "itemRecipe": {
+            "$oid": "6739ebe713ab31dfbe1e1886"
+          },
+          "_id": {
+            "$oid": "6739ff1313ab31dfbe1e4676"
+          }
+        },
+        {
+          "itemLabel": "Hạt điều",
+          "itemPrice": 22000,
+          "itemRecipe": {
+            "$oid": "6739ebe713ab31dfbe1e1887"
+          },
+          "_id": {
+            "$oid": "6739ff1313ab31dfbe1e4677"
+          }
+        },
+        {
+          "itemLabel": "Hạt dẻ rang muối",
+          "itemPrice": 21000,
+          "itemRecipe": {
+            "$oid": "6739ebe713ab31dfbe1e1888"
+          },
+          "_id": {
+            "$oid": "6739ff1313ab31dfbe1e4678"
+          }
+        },
+        {
+          "itemLabel": "Hạt macca",
+          "itemPrice": 25000,
+          "itemRecipe": {
+            "$oid": "6739ebe713ab31dfbe1e1889"
+          },
+          "_id": {
+            "$oid": "6739ff1313ab31dfbe1e4679"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6739ff1313ab31dfbe1e4674"
+      }
+    },
+    {
+      "variantLabel": "Socola đặc biệt",
+      "variantItems": [
+        {
+          "itemLabel": "Với rượu rum",
+          "itemPrice": 7000,
+          "itemRecipe": {
+            "$oid": "6739ebe713ab31dfbe1e188b"
+          },
+          "_id": {
+            "$oid": "6739ff1313ab31dfbe1e467b"
+          }
+        },
+        {
+          "itemLabel": "Với rượu vang",
+          "itemPrice": 5000,
+          "itemRecipe": {
+            "$oid": "6739ebe713ab31dfbe1e188c"
+          },
+          "_id": {
+            "$oid": "6739ff1313ab31dfbe1e467c"
+          }
+        },
+        {
+          "itemLabel": "Với mứt cam",
+          "itemPrice": 22000,
+          "itemRecipe": {
+            "$oid": "6739ebe713ab31dfbe1e188d"
+          },
+          "_id": {
+            "$oid": "6739ff1313ab31dfbe1e467d"
+          }
+        },
+        {
+          "itemLabel": "Với mứt mâm xôi",
+          "itemPrice": 10000,
+          "itemRecipe": {
+            "$oid": "6739ebe713ab31dfbe1e188e"
+          },
+          "_id": {
+            "$oid": "6739ff1313ab31dfbe1e467e"
+          }
+        },
+        {
+          "itemLabel": "Với mứt chanh",
+          "itemPrice": 15000,
+          "itemRecipe": {
+            "$oid": "6739ebe713ab31dfbe1e188f"
+          },
+          "_id": {
+            "$oid": "6739ff1313ab31dfbe1e467f"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6739ff1313ab31dfbe1e467a"
+      }
+    }
+  ],
+  "cakeProperties": [
+    {
+      "propertyKey": "Hướng dẫn",
+      "propertyValue": "Bảo quản nơi thoáng mát",
+      "_id": {
+        "$oid": "6739ff1313ab31dfbe1e4680"
+      }
+    },
+    {
+      "propertyKey": "Hạn sử dụng",
+      "propertyValue": "3 ngày kể từ ngày sản xuất",
+      "_id": {
+        "$oid": "6739ff1313ab31dfbe1e4681"
+      }
+    }
+  ],
+  "cakeRecipe": {
+    "$oid": "6739ebe713ab31dfbe1e1871"
+  },
+  "discountPercents": 20,
+  "views": 21,
+  "soldCount": 1,
+  "isHide": false,
+  "creatorId": "ANB-NS",
+  "rates": [],
+  "createdAt": {
+    "$date": "2024-11-17T14:34:59.654Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-11T15:57:02.010Z"
+  },
+  "__v": 0,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "673a376913ab31dfbe1e7e40"
+  },
+  "cakeName": "Bánh kem Trái cây",
+  "cakeCategory": "banh-sinh-nhat",
+  "cakeDescription": "Bánh kem trái cây là một là một loại bánh kem mềm và hấp dẫn kết giữa lớp kem mềm mịn và vị ngọt tự nhiên của trái cây tươi. Bánh thường có cốt bánh bông lan\tmềm, xốp với vị ngọt nhẹ và hương thơm của vani hoặc sữa. Bên ngoài, bánh được phủ lớp kem tươi mịn màng, tạo nên cảm giác béo ngậy nhưng vẫn nhẹ nhàng.\t\t\t\nĐiểm đặc biệt của bánh kem trái cây là chính là sự đa dạng của các loại trái cây được trang trí để tạo ra một vẻ ngoài rực rỡ và đầy màu sắc. Những lát trái cây tươi ngon không chỉ làm bánh thêm bắt mắt mà còn mang lại hương vị tươi mát, chua ngọt làm cân bằng với lớp kem béo ngậy.\t\t\t\nBánh kem trái cây thường được ưa chuộng trong các dịp sinh nhật, tiệc tùng, hay những bữa tiệc nhẹ nhờ sự kết hợp hài hòa giữa hương vị ngọt ngào của bánh và vị tươi mới của trái cây, tạo nên một món ăn tráng miệng hoàn hảo cho mọi lừa tuổi.\t\t\t",
+  "cakeThumbnail": "1731868521639-0.png",
+  "cakeMedias": [
+    "1731868521639-0.png",
+    "1731868521639-1.png",
+    "1731868521639-2.png",
+    "1731868521639-3.png",
+    "1731868521639-4.png",
+    "1731868521639.png"
+  ],
+  "cakeDefaultPrice": 250000,
+  "cakeVariants": [
+    {
+      "variantLabel": "Trái cây tươi",
+      "variantItems": [
+        {
+          "itemLabel": "Táo",
+          "itemPrice": 20000,
+          "itemRecipe": {
+            "$oid": "6739f23713ab31dfbe1e25d2"
+          },
+          "_id": {
+            "$oid": "673a376913ab31dfbe1e7e42"
+          }
+        },
+        {
+          "itemLabel": "Lê",
+          "itemPrice": 22000,
+          "itemRecipe": {
+            "$oid": "6739f23713ab31dfbe1e25d3"
+          },
+          "_id": {
+            "$oid": "673a376913ab31dfbe1e7e43"
+          }
+        },
+        {
+          "itemLabel": "Nho",
+          "itemPrice": 24000,
+          "itemRecipe": {
+            "$oid": "6739f23713ab31dfbe1e25d4"
+          },
+          "_id": {
+            "$oid": "673a376913ab31dfbe1e7e44"
+          }
+        },
+        {
+          "itemLabel": "Kiwi",
+          "itemPrice": 24000,
+          "itemRecipe": {
+            "$oid": "6739f23713ab31dfbe1e25d5"
+          },
+          "_id": {
+            "$oid": "673a376913ab31dfbe1e7e45"
+          }
+        },
+        {
+          "itemLabel": "Đào",
+          "itemPrice": 28000,
+          "itemRecipe": {
+            "$oid": "6739f23713ab31dfbe1e25d6"
+          },
+          "_id": {
+            "$oid": "673a376913ab31dfbe1e7e46"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "673a376913ab31dfbe1e7e41"
+      }
+    },
+    {
+      "variantLabel": "Trái cây nhiệt đới",
+      "variantItems": [
+        {
+          "itemLabel": "Dừa",
+          "itemPrice": 10000,
+          "itemRecipe": {
+            "$oid": "6739f23713ab31dfbe1e25d8"
+          },
+          "_id": {
+            "$oid": "673a376913ab31dfbe1e7e48"
+          }
+        },
+        {
+          "itemLabel": "Chuối",
+          "itemPrice": 12000,
+          "itemRecipe": {
+            "$oid": "6739f23713ab31dfbe1e25d9"
+          },
+          "_id": {
+            "$oid": "673a376913ab31dfbe1e7e49"
+          }
+        },
+        {
+          "itemLabel": "Đu đủ",
+          "itemPrice": 14000,
+          "itemRecipe": {
+            "$oid": "6739f23713ab31dfbe1e25da"
+          },
+          "_id": {
+            "$oid": "673a376913ab31dfbe1e7e4a"
+          }
+        },
+        {
+          "itemLabel": "Dưa hấu",
+          "itemPrice": 15000,
+          "itemRecipe": {
+            "$oid": "6739f23713ab31dfbe1e25db"
+          },
+          "_id": {
+            "$oid": "673a376913ab31dfbe1e7e4b"
+          }
+        },
+        {
+          "itemLabel": "Mít",
+          "itemPrice": 13000,
+          "itemRecipe": {
+            "$oid": "6739f23713ab31dfbe1e25dc"
+          },
+          "_id": {
+            "$oid": "673a376913ab31dfbe1e7e4c"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "673a376913ab31dfbe1e7e47"
+      }
+    },
+    {
+      "variantLabel": "Mứt trái cây",
+      "variantItems": [
+        {
+          "itemLabel": "Mứt dâu",
+          "itemPrice": 30000,
+          "itemRecipe": {
+            "$oid": "6739f23713ab31dfbe1e25de"
+          },
+          "_id": {
+            "$oid": "673a376913ab31dfbe1e7e4e"
+          }
+        },
+        {
+          "itemLabel": "Mứt mâm xôi",
+          "itemPrice": 35000,
+          "itemRecipe": {
+            "$oid": "6739f23713ab31dfbe1e25df"
+          },
+          "_id": {
+            "$oid": "673a376913ab31dfbe1e7e4f"
+          }
+        },
+        {
+          "itemLabel": "Mứt cam",
+          "itemPrice": 30000,
+          "itemRecipe": {
+            "$oid": "6739f23713ab31dfbe1e25e0"
+          },
+          "_id": {
+            "$oid": "673a376913ab31dfbe1e7e50"
+          }
+        },
+        {
+          "itemLabel": "Mứt việt quất",
+          "itemPrice": 38000,
+          "itemRecipe": {
+            "$oid": "6739f23713ab31dfbe1e25e1"
+          },
+          "_id": {
+            "$oid": "673a376913ab31dfbe1e7e51"
+          }
+        },
+        {
+          "itemLabel": "Mứt chanh",
+          "itemPrice": 31000,
+          "itemRecipe": {
+            "$oid": "6739f23713ab31dfbe1e25e2"
+          },
+          "_id": {
+            "$oid": "673a376913ab31dfbe1e7e52"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "673a376913ab31dfbe1e7e4d"
+      }
+    },
+    {
+      "variantLabel": "Trái cây khô",
+      "variantItems": [
+        {
+          "itemLabel": "Táo khô",
+          "itemPrice": 35000,
+          "itemRecipe": {
+            "$oid": "6739f23713ab31dfbe1e25e4"
+          },
+          "_id": {
+            "$oid": "673a376913ab31dfbe1e7e54"
+          }
+        },
+        {
+          "itemLabel": "Lê khô",
+          "itemPrice": 35000,
+          "itemRecipe": {
+            "$oid": "6739f23713ab31dfbe1e25e5"
+          },
+          "_id": {
+            "$oid": "673a376913ab31dfbe1e7e55"
+          }
+        },
+        {
+          "itemLabel": "Nho khô",
+          "itemPrice": 38000,
+          "itemRecipe": {
+            "$oid": "6739f23713ab31dfbe1e25e6"
+          },
+          "_id": {
+            "$oid": "673a376913ab31dfbe1e7e56"
+          }
+        },
+        {
+          "itemLabel": "Kiwi khô",
+          "itemPrice": 40000,
+          "itemRecipe": {
+            "$oid": "6739f23713ab31dfbe1e25e7"
+          },
+          "_id": {
+            "$oid": "673a376913ab31dfbe1e7e57"
+          }
+        },
+        {
+          "itemLabel": "Dâu tây khô",
+          "itemPrice": 42000,
+          "itemRecipe": {
+            "$oid": "6739f23713ab31dfbe1e25e8"
+          },
+          "_id": {
+            "$oid": "673a376913ab31dfbe1e7e58"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "673a376913ab31dfbe1e7e53"
+      }
+    },
+    {
+      "variantLabel": "Nước sốt trái cây",
+      "variantItems": [
+        {
+          "itemLabel": "Vị mâm xôi",
+          "itemPrice": 27000,
+          "itemRecipe": {
+            "$oid": "6739f23713ab31dfbe1e25ea"
+          },
+          "_id": {
+            "$oid": "673a376913ab31dfbe1e7e5a"
+          }
+        },
+        {
+          "itemLabel": "Vị cam",
+          "itemPrice": 30000,
+          "itemRecipe": {
+            "$oid": "6739f23713ab31dfbe1e25eb"
+          },
+          "_id": {
+            "$oid": "673a376913ab31dfbe1e7e5b"
+          }
+        },
+        {
+          "itemLabel": "Vị việt quất",
+          "itemPrice": 28000,
+          "itemRecipe": {
+            "$oid": "6739f23713ab31dfbe1e25ec"
+          },
+          "_id": {
+            "$oid": "673a376913ab31dfbe1e7e5c"
+          }
+        },
+        {
+          "itemLabel": "Vị táo",
+          "itemPrice": 32000,
+          "itemRecipe": {
+            "$oid": "6739f23713ab31dfbe1e25ed"
+          },
+          "_id": {
+            "$oid": "673a376913ab31dfbe1e7e5d"
+          }
+        },
+        {
+          "itemLabel": "Vị đào",
+          "itemPrice": 26000,
+          "itemRecipe": {
+            "$oid": "6739f23713ab31dfbe1e25ee"
+          },
+          "_id": {
+            "$oid": "673a376913ab31dfbe1e7e5e"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "673a376913ab31dfbe1e7e59"
+      }
+    }
+  ],
+  "cakeProperties": [
+    {
+      "propertyKey": "Hướng dẫn",
+      "propertyValue": "Ăn kèm trái cây để cân bằng hương vị",
+      "_id": {
+        "$oid": "673a376913ab31dfbe1e7e5f"
+      }
+    },
+    {
+      "propertyKey": "Hạn sử dụng",
+      "propertyValue": "48 tiếng sau khi mua",
+      "_id": {
+        "$oid": "673a376913ab31dfbe1e7e60"
+      }
+    }
+  ],
+  "cakeRecipe": {
+    "$oid": "6739f23713ab31dfbe1e25d0"
+  },
+  "discountPercents": 10,
+  "views": 24,
+  "soldCount": 0,
+  "isHide": false,
+  "creatorId": "ANB-NS",
+  "rates": [],
+  "createdAt": {
+    "$date": "2024-11-17T18:35:21.648Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-11T15:53:32.839Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c5b3d0ccc06a6d0221fd7"
+  },
+  "cakeName": "Bánh kem Dâu",
+  "cakeCategory": "banh-sinh-nhat",
+  "cakeDescription": "Mousse dâu là một loại bánh kem mềm mịn, mang hương vị tươi mát của dâu tây, thường được kết hợp với lớp bánh bông lan mềm mại hoặc lớp đế bánh quy giòn tan. Đây là một món tráng miệng nhẹ nhàng, hấp dẫn và rất được yêu thích trong các dịp lễ, sinh nhật hoặc tiệc trà.\n\n",
+  "cakeThumbnail": "1732008765402-0.png",
+  "cakeMedias": [
+    "1732008765402-0.png",
+    "1732008765403-1.png",
+    "1732008765403-2.png",
+    "1732008765403-3.png",
+    "1732008765403-4.png",
+    "1732008765402.png"
+  ],
+  "cakeDefaultPrice": 380000,
+  "cakeVariants": [
+    {
+      "variantLabel": "Kem vị trái cây",
+      "variantItems": [
+        {
+          "itemLabel": "Dâu tây",
+          "itemPrice": 5000,
+          "itemRecipe": {
+            "$oid": "673c473e0ccc06a6d022091b"
+          },
+          "_id": {
+            "$oid": "673c5b3d0ccc06a6d0221fd9"
+          }
+        },
+        {
+          "itemLabel": "Mâm xôi",
+          "itemPrice": 8000,
+          "itemRecipe": {
+            "$oid": "673c473e0ccc06a6d022091c"
+          },
+          "_id": {
+            "$oid": "673c5b3d0ccc06a6d0221fda"
+          }
+        },
+        {
+          "itemLabel": "Cam",
+          "itemPrice": 6000,
+          "itemRecipe": {
+            "$oid": "673c473e0ccc06a6d022091d"
+          },
+          "_id": {
+            "$oid": "673c5b3d0ccc06a6d0221fdb"
+          }
+        },
+        {
+          "itemLabel": "Việt quất ",
+          "itemPrice": 9000,
+          "itemRecipe": {
+            "$oid": "673c473e0ccc06a6d022091e"
+          },
+          "_id": {
+            "$oid": "673c5b3d0ccc06a6d0221fdc"
+          }
+        },
+        {
+          "itemLabel": "Chanh dây",
+          "itemPrice": 7000,
+          "itemRecipe": {
+            "$oid": "673c473e0ccc06a6d022091f"
+          },
+          "_id": {
+            "$oid": "673c5b3d0ccc06a6d0221fdd"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "673c5b3d0ccc06a6d0221fd8"
+      }
+    },
+    {
+      "variantLabel": "Topping",
+      "variantItems": [
+        {
+          "itemLabel": "Hạnh nhân lát",
+          "itemPrice": 12000,
+          "itemRecipe": {
+            "$oid": "673c473e0ccc06a6d0220921"
+          },
+          "_id": {
+            "$oid": "673c5b3d0ccc06a6d0221fdf"
+          }
+        },
+        {
+          "itemLabel": "Sốt trái cây vị táo",
+          "itemPrice": 13000,
+          "itemRecipe": {
+            "$oid": "673c473e0ccc06a6d0220922"
+          },
+          "_id": {
+            "$oid": "673c5b3d0ccc06a6d0221fe0"
+          }
+        },
+        {
+          "itemLabel": "Kẹo đường",
+          "itemPrice": 15000,
+          "itemRecipe": {
+            "$oid": "673c473e0ccc06a6d0220923"
+          },
+          "_id": {
+            "$oid": "673c5b3d0ccc06a6d0221fe1"
+          }
+        },
+        {
+          "itemLabel": "Mứt dâu",
+          "itemPrice": 16000,
+          "itemRecipe": {
+            "$oid": "673c473e0ccc06a6d0220924"
+          },
+          "_id": {
+            "$oid": "673c5b3d0ccc06a6d0221fe2"
+          }
+        },
+        {
+          "itemLabel": "Mứt cam",
+          "itemPrice": 17000,
+          "itemRecipe": {
+            "$oid": "673c473e0ccc06a6d0220925"
+          },
+          "_id": {
+            "$oid": "673c5b3d0ccc06a6d0221fe3"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "673c5b3d0ccc06a6d0221fde"
+      }
+    },
+    {
+      "variantLabel": "Trang trí",
+      "variantItems": [
+        {
+          "itemLabel": "Lá bạc hà tươi",
+          "itemPrice": 5000,
+          "itemRecipe": {
+            "$oid": "673c473e0ccc06a6d0220927"
+          },
+          "_id": {
+            "$oid": "673c5b3d0ccc06a6d0221fe5"
+          }
+        },
+        {
+          "itemLabel": "Hoa Pansy",
+          "itemPrice": 10000,
+          "itemRecipe": {
+            "$oid": "673c473e0ccc06a6d0220928"
+          },
+          "_id": {
+            "$oid": "673c5b3d0ccc06a6d0221fe6"
+          }
+        },
+        {
+          "itemLabel": "Nho khô",
+          "itemPrice": 15000,
+          "itemRecipe": {
+            "$oid": "673c473e0ccc06a6d0220929"
+          },
+          "_id": {
+            "$oid": "673c5b3d0ccc06a6d0221fe7"
+          }
+        },
+        {
+          "itemLabel": "Kiwi khô",
+          "itemPrice": 18000,
+          "itemRecipe": {
+            "$oid": "673c473e0ccc06a6d022092a"
+          },
+          "_id": {
+            "$oid": "673c5b3d0ccc06a6d0221fe8"
+          }
+        },
+        {
+          "itemLabel": "Dâu tây khô",
+          "itemPrice": 20000,
+          "itemRecipe": {
+            "$oid": "673c473e0ccc06a6d022092b"
+          },
+          "_id": {
+            "$oid": "673c5b3d0ccc06a6d0221fe9"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "673c5b3d0ccc06a6d0221fe4"
+      }
+    },
+    {
+      "variantLabel": "Hạt",
+      "variantItems": [
+        {
+          "itemLabel": "Dẻ",
+          "itemPrice": 10000,
+          "itemRecipe": {
+            "$oid": "673c473e0ccc06a6d022092d"
+          },
+          "_id": {
+            "$oid": "673c5b3d0ccc06a6d0221feb"
+          }
+        },
+        {
+          "itemLabel": "Điều",
+          "itemPrice": 8000,
+          "itemRecipe": {
+            "$oid": "673c473e0ccc06a6d022092e"
+          },
+          "_id": {
+            "$oid": "673c5b3d0ccc06a6d0221fec"
+          }
+        },
+        {
+          "itemLabel": "Chia",
+          "itemPrice": 12000,
+          "itemRecipe": {
+            "$oid": "673c473e0ccc06a6d022092f"
+          },
+          "_id": {
+            "$oid": "673c5b3d0ccc06a6d0221fed"
+          }
+        },
+        {
+          "itemLabel": "Dẻ rang muối",
+          "itemPrice": 15000,
+          "itemRecipe": {
+            "$oid": "673c473e0ccc06a6d0220930"
+          },
+          "_id": {
+            "$oid": "673c5b3d0ccc06a6d0221fee"
+          }
+        },
+        {
+          "itemLabel": "Hạnh nhân",
+          "itemPrice": 18000,
+          "itemRecipe": {
+            "$oid": "673c473e0ccc06a6d0220931"
+          },
+          "_id": {
+            "$oid": "673c5b3d0ccc06a6d0221fef"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "673c5b3d0ccc06a6d0221fea"
+      }
+    },
+    {
+      "variantLabel": "Trái cây",
+      "variantItems": [
+        {
+          "itemLabel": "Táo ",
+          "itemPrice": 5000,
+          "itemRecipe": {
+            "$oid": "673c473e0ccc06a6d0220933"
+          },
+          "_id": {
+            "$oid": "673c5b3d0ccc06a6d0221ff1"
+          }
+        },
+        {
+          "itemLabel": "Lê",
+          "itemPrice": 8000,
+          "itemRecipe": {
+            "$oid": "673c473e0ccc06a6d0220934"
+          },
+          "_id": {
+            "$oid": "673c5b3d0ccc06a6d0221ff2"
+          }
+        },
+        {
+          "itemLabel": "Nho",
+          "itemPrice": 11000,
+          "itemRecipe": {
+            "$oid": "673c473e0ccc06a6d0220935"
+          },
+          "_id": {
+            "$oid": "673c5b3d0ccc06a6d0221ff3"
+          }
+        },
+        {
+          "itemLabel": "Kiwi",
+          "itemPrice": 15000,
+          "itemRecipe": {
+            "$oid": "673c473e0ccc06a6d0220936"
+          },
+          "_id": {
+            "$oid": "673c5b3d0ccc06a6d0221ff4"
+          }
+        },
+        {
+          "itemLabel": "Đào",
+          "itemPrice": 17000,
+          "itemRecipe": {
+            "$oid": "673c473e0ccc06a6d0220937"
+          },
+          "_id": {
+            "$oid": "673c5b3d0ccc06a6d0221ff5"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "673c5b3d0ccc06a6d0221ff0"
+      }
+    }
+  ],
+  "cakeProperties": [
+    {
+      "propertyKey": "Hướng dẫn",
+      "propertyValue": "Ngon hơn khi dùng lạnh",
+      "_id": {
+        "$oid": "673c5b3d0ccc06a6d0221ff6"
+      }
+    },
+    {
+      "propertyKey": "Hạn sử dụng",
+      "propertyValue": "3 ngày kể từ ngày sản xuất",
+      "_id": {
+        "$oid": "673c5b3d0ccc06a6d0221ff7"
+      }
+    }
+  ],
+  "cakeRecipe": {
+    "$oid": "673c473e0ccc06a6d0220919"
+  },
+  "discountPercents": 8,
+  "views": 48,
+  "soldCount": 0,
+  "isHide": false,
+  "creatorId": "ANB-NS",
+  "rates": [],
+  "createdAt": {
+    "$date": "2024-11-19T09:32:45.409Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T07:58:00.169Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673cd10fbd3e3d3e08c3eebf"
+  },
+  "cakeName": "Bánh kem Xoài",
+  "cakeCategory": "banh-sinh-nhat",
+  "cakeDescription": "Bánh Kem Xoài là loại bánh được làm từ cốt bánh bông lan mềm mịn, phủ bên trên lớp kem tươi mịn màng kết hợp với hương vị xoài ngọt thanh. Phần mặt bánh thường được trang trí bằng những lát xoài tươi vàng óng, tạo điểm nhấn tự nhiên và hấp dẫn. Hương vị chủ đạo của bánh là sự tươi mát và thơm ngon từ xoài, mang đến cảm giác nhẹ nhàng và dễ chịu khi thưởng thức. Đây là sự lựa chọn hoàn hảo cho những dịp đặc biệt, thể hiện sự tinh tế và giản dị.",
+  "cakeThumbnail": "1732038927059-0.png",
+  "cakeMedias": [
+    "1732038927059-0.png",
+    "1732038927059-1.png",
+    "1732038927059-2.png",
+    "1732038927059-3.png",
+    "1732038927059-4.png",
+    "1732038927058.png"
+  ],
+  "cakeDefaultPrice": 250000,
+  "cakeVariants": [],
+  "cakeProperties": [
+    {
+      "propertyKey": "Hướng dẫn",
+      "propertyValue": "Ăn ngay sau khi mua",
+      "_id": {
+        "$oid": "673cd10fbd3e3d3e08c3eec0"
+      }
+    },
+    {
+      "propertyKey": "Hạn sử dụng",
+      "propertyValue": "24 tiếng sau khi ra lò",
+      "_id": {
+        "$oid": "673cd10fbd3e3d3e08c3eec1"
+      }
+    }
+  ],
+  "cakeRecipe": {
+    "$oid": "673ccf58bd3e3d3e08c3eb53"
+  },
+  "discountPercents": 5,
+  "views": 14,
+  "soldCount": 0,
+  "isHide": false,
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "rates": [],
+  "createdAt": {
+    "$date": "2024-11-19T17:55:27.062Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T15:43:21.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673cd8c2bd3e3d3e08c401be"
+  },
+  "cakeName": "Bánh kem trái cây thập cẩm",
+  "cakeCategory": "banh-sinh-nhat",
+  "cakeDescription": "Bánh Kem Thập Cẩm là sự kết hợp hài hòa của nhiều hương vị, mang đến trải nghiệm phong phú và đa dạng. Bánh được làm từ cốt bánh bông lan mềm mịn, phủ lớp kem tươi mịn màng. Trên mặt bánh, các loại trái cây tươi như dâu tây, kiwi, nho, xoài được sắp xếp tinh tế, tạo nên một tổng thể vừa bắt mắt vừa hấp dẫn. Hương vị ngọt dịu từ kem hòa quyện cùng vị chua thanh của trái cây, mang đến sự cân bằng hoàn hảo. Đây là món bánh lý tưởng cho các dịp lễ hội, tiệc tùng hay họp mặt gia đình.",
+  "cakeThumbnail": "1732040898642-1.png",
+  "cakeMedias": [
+    "1732040898642-1.png",
+    "1732040898642-2.png",
+    "1732040898642-3.png",
+    "1732040898642-4.png",
+    "1732049428920-6.png",
+    "1732040898642.png",
+    "1732040898642-0.png"
+  ],
+  "cakeDefaultPrice": 260000,
+  "cakeVariants": [],
+  "cakeProperties": [
+    {
+      "propertyKey": "Hướng dẫn",
+      "propertyValue": "Ngon hơn khi dùng với trà",
+      "_id": {
+        "$oid": "673cd8c2bd3e3d3e08c401bf"
+      }
+    },
+    {
+      "propertyKey": "Hạn sử dụng",
+      "propertyValue": "Bảo quản tủ mát trong 24 giờ",
+      "_id": {
+        "$oid": "673cd8c2bd3e3d3e08c401c0"
+      }
+    }
+  ],
+  "cakeRecipe": {
+    "$oid": "673cd83bbd3e3d3e08c3fa6d"
+  },
+  "discountPercents": 5,
+  "views": 27,
+  "soldCount": 0,
+  "isHide": false,
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "rates": [],
+  "createdAt": {
+    "$date": "2024-11-19T18:28:18.644Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-11T15:53:01.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6740c0ca7c97727848cd4c6a"
+  },
+  "cakeName": "Bánh Sanwich",
+  "cakeCategory": "banh-sandwich",
+  "cakeDescription": "Bánh sandwich là một loại bánh phổ biến , được tạo ra bằng cách sử dụng các loại như nhân thịt, phô mai, rau và các loại sốt hoặc gia vị giữa hai lát bánh mì này là nhân kẹp, đây là một món ăn\t\t\t\t\t\nnhanh gọn, tiện lợi và rất phổ biến trong các bữa ăn sáng, trưa hoặc ăn nhẹ. Sandwich thường bao gồm hai lát bánh mì, có thể là bánh mì trắng, bánh mì nguyên cám, bánh mì đen và bánh mì\t\t\t\t\t\nnướng. Giữa hai lát bánh mì này là nhân kẹp, có thể bao gồm thịt nguội, gà, cá. trứng, phô mai, rau sống và các loại gia vị như mayounaise, mù tạt, hoặc sốt cà chua. Nhân sandwich rất đa dạng từ \t\t\t\t\t\ncác loại đơn giản như phô mai và dăm bông đến những loại phức tạp đã có thể tạo ra một hương vị bánh tuyệt vời.\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t",
+  "cakeThumbnail": "1732296906485.png",
+  "cakeMedias": [
+    "1732296906485-0.png",
+    "1732296906485-1.png",
+    "1732296906485-2.png",
+    "1732296906485-3.png",
+    "1732296906485-4.png",
+    "1732296906485.png"
+  ],
+  "cakeDefaultPrice": 25000,
+  "cakeVariants": [],
+  "cakeProperties": [
+    {
+      "propertyKey": "Hướng dẫn",
+      "propertyValue": "Ăn trong ngày",
+      "_id": {
+        "$oid": "6740c0ca7c97727848cd4c6b"
+      }
+    }
+  ],
+  "cakeRecipe": null,
+  "discountPercents": 5,
+  "views": 7,
+  "soldCount": 0,
+  "isHide": true,
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "rates": [],
+  "createdAt": {
+    "$date": "2024-11-22T17:35:06.494Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T07:57:49.012Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6740c3147c97727848cd6ac5"
+  },
+  "cakeName": "Bánh Mì",
+  "cakeCategory": "banh-mi",
+  "cakeDescription": "Bánh mì là một loại thực phẩm phổ biến và cơ bản được làm từ bột mì hoặc các loại bột ngủ cốc khác, trộn với nước và thường là men để tạo ra sự lên men. Sau đó\t\t\t\nhỗn hợp này được nướng chín để tạo thành bánh mì. Kết cấu và hương vị của bánh mì có thể thay đổi tùy theo loại bột, phương pháp nướng và các thành phần\t\t\t\nbổ sung khác. Bánh mì kết cấu từ mềm mịn đến giòn tùy thuộc vào loại bánh. Bánh mì ruột mềm, có các lỗ khó nhỏ do men tạo ra và lớp vỏ bên ngoài có thể giòn \t\t\t\nhoặc mềm. Bánh mì có vị ngọt nhẹ hoặc mặn tùy vào công thức với hương thơm đặc trưng của bột mì và men.Một số loại bánh mì có thể thêm các thành phần như mặt ong  và\t\t\t\nbơ hoặc các loại hạt để thêm hương vị\t\t\t",
+  "cakeThumbnail": "1732297492327-0.png",
+  "cakeMedias": [
+    "1732297492327-0.png",
+    "1732297492327-1.png",
+    "1732297492327-2.png",
+    "1732297492327-3.png",
+    "1732297492327-4.png",
+    "1732297492327.png"
+  ],
+  "cakeDefaultPrice": 15000,
+  "cakeVariants": [],
+  "cakeProperties": [
+    {
+      "propertyKey": "Hướng dẫn",
+      "propertyValue": "Ăn sau khi ra lò",
+      "_id": {
+        "$oid": "6740c3147c97727848cd6ac6"
+      }
+    },
+    {
+      "propertyKey": "Hạn sử dụng",
+      "propertyValue": "Bảo quản 24 tiếng trong tủ mát",
+      "_id": {
+        "$oid": "6744c1325b9188aefe08de42"
+      }
+    }
+  ],
+  "cakeRecipe": {
+    "$oid": "6740c22d7c97727848cd636d"
+  },
+  "discountPercents": 2,
+  "views": 74,
+  "soldCount": 0,
+  "isHide": false,
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "rates": [],
+  "createdAt": {
+    "$date": "2024-11-22T17:44:52.332Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-11T15:20:13.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674eb7f68965e0fc37bde79e"
+  },
+  "cakeName": "Bánh mì thịt",
+  "cakeCategory": "banh-mi",
+  "cakeDescription": "Bánh mì là một loại thực phẩm phổ biến và cơ bản được làm từ bột mì hoặc các loại bột ngủ cốc khác, trộn với nước và thường là men để tạo ra sự lên men. Sau đó\thỗn hợp này được nướng chín để tạo thành bánh mì. Kết cấu và hương vị của bánh mì có thể thay đổi tùy theo loại bột, phương pháp nướng và các thành phần bổ sung khác. Bánh mì kết cấu từ mềm mịn đến giòn tùy thuộc vào loại bánh. Bánh mì ruột mềm, có các lỗ khó nhỏ do men tạo ra và lớp vỏ bên ngoài có thể giòn hoặc mềm. Bánh mì có vị ngọt nhẹ hoặc mặn tùy vào công thức với hương thơm đặc trưng của bột mì và men.Một số loại bánh mì có thể thêm các thành phần như mặt ong  và\tbơ hoặc các loại hạt để thêm hương vị\t\t\t",
+  "cakeThumbnail": "1733212150689-0.png",
+  "cakeMedias": [
+    "1733212150689-0.png",
+    "1733212150689-1.png",
+    "1733212150689-2.png",
+    "1733212150689-3.png",
+    "1733212150689-4.png",
+    "1733212150688.png"
+  ],
+  "cakeDefaultPrice": 27000,
+  "cakeVariants": [
+    {
+      "variantLabel": "Nhân thịt nướng",
+      "variantItems": [
+        {
+          "itemLabel": "Heo nướng",
+          "itemPrice": 10000,
+          "itemRecipe": {
+            "$oid": "674eb2408965e0fc37bdd2d5"
+          },
+          "_id": {
+            "$oid": "674eb7f68965e0fc37bde7a0"
+          }
+        },
+        {
+          "itemLabel": "Bò nướng",
+          "itemPrice": 15000,
+          "itemRecipe": {
+            "$oid": "674eb2408965e0fc37bdd2d6"
+          },
+          "_id": {
+            "$oid": "674eb7f68965e0fc37bde7a1"
+          }
+        },
+        {
+          "itemLabel": "Gà nướng",
+          "itemPrice": 11000,
+          "itemRecipe": {
+            "$oid": "674eb2408965e0fc37bdd2d7"
+          },
+          "_id": {
+            "$oid": "674eb7f68965e0fc37bde7a2"
+          }
+        },
+        {
+          "itemLabel": "Heo nướng sả",
+          "itemPrice": 13000,
+          "itemRecipe": {
+            "$oid": "674eb2408965e0fc37bdd2d8"
+          },
+          "_id": {
+            "$oid": "674eb7f68965e0fc37bde7a3"
+          }
+        },
+        {
+          "itemLabel": "Bò nướng sả",
+          "itemPrice": 16000,
+          "itemRecipe": {
+            "$oid": "674eb2408965e0fc37bdd2d9"
+          },
+          "_id": {
+            "$oid": "674eb7f68965e0fc37bde7a4"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674eb7f68965e0fc37bde79f"
+      }
+    },
+    {
+      "variantLabel": "Nhân thịt đặc biệt",
+      "variantItems": [
+        {
+          "itemLabel": "Heo xông khói",
+          "itemPrice": 10000,
+          "itemRecipe": {
+            "$oid": "674eb2408965e0fc37bdd2db"
+          },
+          "_id": {
+            "$oid": "674eb7f68965e0fc37bde7a6"
+          }
+        },
+        {
+          "itemLabel": "Bò hầm ",
+          "itemPrice": 15000,
+          "itemRecipe": {
+            "$oid": "674eb2408965e0fc37bdd2dc"
+          },
+          "_id": {
+            "$oid": "674eb7f68965e0fc37bde7a7"
+          }
+        },
+        {
+          "itemLabel": "Gà nướng mật ong",
+          "itemPrice": 17000,
+          "itemRecipe": {
+            "$oid": "674eb2408965e0fc37bdd2dd"
+          },
+          "_id": {
+            "$oid": "674eb7f68965e0fc37bde7a8"
+          }
+        },
+        {
+          "itemLabel": "Xíu mại",
+          "itemPrice": 19000,
+          "itemRecipe": {
+            "$oid": "674eb2408965e0fc37bdd2de"
+          },
+          "_id": {
+            "$oid": "674eb7f68965e0fc37bde7a9"
+          }
+        },
+        {
+          "itemLabel": "Heo nướng BBQ",
+          "itemPrice": 21000,
+          "itemRecipe": {
+            "$oid": "674eb2408965e0fc37bdd2df"
+          },
+          "_id": {
+            "$oid": "674eb7f68965e0fc37bde7aa"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674eb7f68965e0fc37bde7a5"
+      }
+    },
+    {
+      "variantLabel": "Topping",
+      "variantItems": [
+        {
+          "itemLabel": "Dưa leo",
+          "itemPrice": 5000,
+          "itemRecipe": {
+            "$oid": "674eb2408965e0fc37bdd2e1"
+          },
+          "_id": {
+            "$oid": "674eb7f68965e0fc37bde7ac"
+          }
+        },
+        {
+          "itemLabel": "Củ cải muối",
+          "itemPrice": 8000,
+          "itemRecipe": {
+            "$oid": "674eb2408965e0fc37bdd2e2"
+          },
+          "_id": {
+            "$oid": "674eb7f68965e0fc37bde7ad"
+          }
+        },
+        {
+          "itemLabel": "Ngò rí",
+          "itemPrice": 5000,
+          "itemRecipe": {
+            "$oid": "674eb2408965e0fc37bdd2e3"
+          },
+          "_id": {
+            "$oid": "674eb7f68965e0fc37bde7ae"
+          }
+        },
+        {
+          "itemLabel": "Chả lụa",
+          "itemPrice": 15000,
+          "itemRecipe": {
+            "$oid": "674eb2408965e0fc37bdd2e4"
+          },
+          "_id": {
+            "$oid": "674eb7f68965e0fc37bde7af"
+          }
+        },
+        {
+          "itemLabel": "Pate gan",
+          "itemPrice": 16000,
+          "itemRecipe": {
+            "$oid": "674eb2408965e0fc37bdd2e5"
+          },
+          "_id": {
+            "$oid": "674eb7f68965e0fc37bde7b0"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674eb7f68965e0fc37bde7ab"
+      }
+    },
+    {
+      "variantLabel": "Nhân thịt xào",
+      "variantItems": [
+        {
+          "itemLabel": "Bò xào hành tây",
+          "itemPrice": 15000,
+          "itemRecipe": {
+            "$oid": "674eb2408965e0fc37bdd2e7"
+          },
+          "_id": {
+            "$oid": "674eb7f68965e0fc37bde7b2"
+          }
+        },
+        {
+          "itemLabel": "Heo xào sả ớt",
+          "itemPrice": 16000,
+          "itemRecipe": {
+            "$oid": "674eb2408965e0fc37bdd2e8"
+          },
+          "_id": {
+            "$oid": "674eb7f68965e0fc37bde7b3"
+          }
+        },
+        {
+          "itemLabel": "Gà xào tói",
+          "itemPrice": 17000,
+          "itemRecipe": {
+            "$oid": "674eb2408965e0fc37bdd2e9"
+          },
+          "_id": {
+            "$oid": "674eb7f68965e0fc37bde7b4"
+          }
+        },
+        {
+          "itemLabel": "Bò xào",
+          "itemPrice": 18000,
+          "itemRecipe": {
+            "$oid": "674eb2408965e0fc37bdd2ea"
+          },
+          "_id": {
+            "$oid": "674eb7f68965e0fc37bde7b5"
+          }
+        },
+        {
+          "itemLabel": "Heo xào tỏi",
+          "itemPrice": 19000,
+          "itemRecipe": {
+            "$oid": "674eb2408965e0fc37bdd2eb"
+          },
+          "_id": {
+            "$oid": "674eb7f68965e0fc37bde7b6"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674eb7f68965e0fc37bde7b1"
+      }
+    },
+    {
+      "variantLabel": "Nhân bánh",
+      "variantItems": [
+        {
+          "itemLabel": "Heo nướng tiêu",
+          "itemPrice": 13000,
+          "itemRecipe": {
+            "$oid": "674eb2408965e0fc37bdd2ed"
+          },
+          "_id": {
+            "$oid": "674eb7f68965e0fc37bde7b8"
+          }
+        },
+        {
+          "itemLabel": "Bò nướng mật ong",
+          "itemPrice": 15000,
+          "itemRecipe": {
+            "$oid": "674eb2408965e0fc37bdd2ee"
+          },
+          "_id": {
+            "$oid": "674eb7f68965e0fc37bde7b9"
+          }
+        },
+        {
+          "itemLabel": "Gà nướng tỏi",
+          "itemPrice": 17000,
+          "itemRecipe": {
+            "$oid": "674eb2408965e0fc37bdd2ef"
+          },
+          "_id": {
+            "$oid": "674eb7f68965e0fc37bde7ba"
+          }
+        },
+        {
+          "itemLabel": "Heo quay mắc mật",
+          "itemPrice": 19000,
+          "itemRecipe": {
+            "$oid": "674eb2408965e0fc37bdd2f0"
+          },
+          "_id": {
+            "$oid": "674eb7f68965e0fc37bde7bb"
+          }
+        },
+        {
+          "itemLabel": "Bò hầm rượu vang",
+          "itemPrice": 21000,
+          "itemRecipe": {
+            "$oid": "674eb2408965e0fc37bdd2f1"
+          },
+          "_id": {
+            "$oid": "674eb7f68965e0fc37bde7bc"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674eb7f68965e0fc37bde7b7"
+      }
+    }
+  ],
+  "cakeProperties": [
+    {
+      "propertyKey": "Hướng dẫn",
+      "propertyValue": "Ăn ngay sau khi làm xong",
+      "_id": {
+        "$oid": "674eb7f68965e0fc37bde7bd"
+      }
+    },
+    {
+      "propertyKey": "Hạn sử dụng",
+      "propertyValue": "Bảo quản trong tủ mát  sử dụng trong 1 ngày",
+      "_id": {
+        "$oid": "674eb7f68965e0fc37bde7be"
+      }
+    }
+  ],
+  "cakeRecipe": {
+    "$oid": "674eb2408965e0fc37bdd2d3"
+  },
+  "discountPercents": 2,
+  "views": 28,
+  "soldCount": 0,
+  "isHide": true,
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "rates": [],
+  "createdAt": {
+    "$date": "2024-12-03T07:49:10.706Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-11T15:20:10.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751d1dbd0a71e436709bef5"
+  },
+  "cakeName": "Bánh mì thịt heo quay",
+  "cakeCategory": "banh-mi",
+  "cakeDescription": "Bánh mì là một loại thực phẩm phổ biến ở Việt Nam. Có rất nhiều loại bánh mì và cách sử dụng cũng khác nhau đi kèm với những nguyên liệu khác nhau, bánh mì có nhiều hình\t dạng và kích thước khác nha, từ ổ dài và mỏng baguette đến ổ tròn hoặc vuông như sandwich. Có nhiều loại bánh mì khắp thế giới chẳng hạn như bánh mì trắng và bánh mì đen\tnhưng bánh mì thịt Việt Nam vẫn là một thứ gì đó khác biệt với phần còn lại, bánh mì thịt có thể được ăn trực tiếp hoặc được dùng để làm sandwich, bánh mì kẹp, hay chấm với các loại súp, sốt. Bánh mì là một phần không thể thiếu trong nhiều nền văn hóa va là một nguồn cung cấp năng lượng quan trọng nhờ vào hàm lượng carbohydrate cao.\t\t\t\t",
+  "cakeThumbnail": "1733415387503-0.png",
+  "cakeMedias": [
+    "1733415387503-0.png",
+    "1733415387503-1.png",
+    "1733415387503-2.png",
+    "1733415387503-3.png",
+    "1733415387503.png"
+  ],
+  "cakeDefaultPrice": 30000,
+  "cakeVariants": [],
+  "cakeProperties": [
+    {
+      "propertyKey": "Hướng dẫn",
+      "propertyValue": "Ăn sau khi làm xong",
+      "_id": {
+        "$oid": "6751d1dbd0a71e436709bef6"
+      }
+    },
+    {
+      "propertyKey": "Hạn sử dụng",
+      "propertyValue": "Thời gian sử dụng sẽ dao động từ 1 đến 2 ngày",
+      "_id": {
+        "$oid": "6751d1dbd0a71e436709bef7"
+      }
+    }
+  ],
+  "cakeRecipe": {
+    "$oid": "6740c22d7c97727848cd636d"
+  },
+  "discountPercents": 3,
+  "views": 6,
+  "soldCount": 0,
+  "isHide": true,
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "rates": [],
+  "createdAt": {
+    "$date": "2024-12-05T16:16:27.507Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-11T15:22:12.542Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751e458d0a71e43670a0707"
+  },
+  "cakeName": "Bánh Cupcake",
+  "cakeCategory": "banh-cupcake",
+  "cakeDescription": "Bánh cupcake là một bánh nhỏ, thường dành cho một người ăn, được nướng trong một khuôn nhỏ giống như cốc, do đó có tên gọi là \"Cupcake\". Đây là một loại bánh ngọt phổ biến trong các bữa tiệc\tlễ kỉ niệm và làm món tráng miệng hàng ngày, nhờ vào sự dễ làm dễ trang trí và kích thước vừa phải\t\t\t\t\nCupcake thường có kích thước nhỏ, khoảng bằng lòng bàn tay và thường được nướng trong khuôn muffin hoặc khuôn cupcake chuyên dụng. Điều này giúp bánh dễ dàng mang theo và thưởng thức mà không cần cắt ra từng miếng\t\t\t\t\nBánh cupcake có cốt bánh mềm mịn, xốp và có thể được làm từ nhiều loại bột khác nhau như bột mì trắng, bột nguyên cám, bột hạnh nhân. Hương vị cốt bánh rất đa dạng \t\t\t\t\ntừ vani, socola, đến các loại trái cây như dâu tây, cam, hoặc chanh.\t\t\t\t",
+  "cakeThumbnail": "1733420120433-0.png",
+  "cakeMedias": [
+    "1733420120433-0.png",
+    "1733420120433-1.png",
+    "1733420120433-2.png",
+    "1733420120433-3.png",
+    "1733420120433-4.png",
+    "1733420120433.png"
+  ],
+  "cakeDefaultPrice": 27000,
+  "cakeVariants": [],
+  "cakeProperties": [
+    {
+      "propertyKey": "Hướng dẫn",
+      "propertyValue": "Ăn sau khi làm xong",
+      "_id": {
+        "$oid": "6751e458d0a71e43670a0708"
+      }
+    },
+    {
+      "propertyKey": "Hạn sử ",
+      "propertyValue": "3 ngày kể từ ngày sản xuất",
+      "_id": {
+        "$oid": "6751e458d0a71e43670a0709"
+      }
+    }
+  ],
+  "cakeRecipe": {
+    "$oid": "6751e3bfd0a71e43670a028f"
+  },
+  "discountPercents": 5,
+  "views": 17,
+  "soldCount": 0,
+  "isHide": true,
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "rates": [],
+  "createdAt": {
+    "$date": "2024-12-05T17:35:20.435Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-11T15:13:01.601Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6759bfeb70ec1f07a00a0eff"
+  },
+  "cakeName": "SẢN PHẨM DEMO",
+  "cakeCategory": "danh-muc-demo",
+  "cakeDescription": "MO TA SAN PHAM DEMO",
+  "cakeThumbnail": "1733935083347.png",
+  "cakeMedias": [
+    "1733935083347-0.png",
+    "1733935083347-1.png",
+    "1733935083347-2.png",
+    "1733935083347.png"
+  ],
+  "cakeDefaultPrice": 10000,
+  "cakeVariants": [
+    {
+      "variantLabel": "BIẾN THỂ BÁNH DEMO",
+      "variantItems": [
+        {
+          "itemLabel": "BIẾN THỂ CON",
+          "itemPrice": 0,
+          "itemRecipe": {
+            "$oid": "6759bf2570ec1f07a00a0ac6"
+          },
+          "_id": {
+            "$oid": "6759bfeb70ec1f07a00a0f01"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6759bfeb70ec1f07a00a0f00"
+      }
+    }
+  ],
+  "cakeProperties": [
+    {
+      "propertyKey": "HẠN SỬ DỤNG",
+      "propertyValue": "DÙNG 30 NGÀY",
+      "_id": {
+        "$oid": "6759bfeb70ec1f07a00a0f02"
+      }
+    }
+  ],
+  "cakeRecipe": {
+    "$oid": "6759bf2570ec1f07a00a0ac4"
+  },
+  "discountPercents": 10,
+  "views": 0,
+  "soldCount": 0,
+  "isHide": true,
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "rates": [],
+  "createdAt": {
+    "$date": "2024-12-11T16:38:03.351Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-11T16:38:03.351Z"
+  },
+  "__v": 0
+}]

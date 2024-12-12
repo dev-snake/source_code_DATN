@@ -1,0 +1,3198 @@
+[{
+  "_id": {
+    "$oid": "6739bd6813ab31dfbe1e15a4"
+  },
+  "recipeName": "Công thức làm Bánh kem Sữa",
+  "recipeDescription": "Trứng gà 4 Quả\nĐường trắng 90g\nBột mì đa dụng 200g\nBột nở 20g\nSữa tươi 50 ml\nSocola trắng 70g\nKem whipping 250 ml\nMuối 5g",
+  "recipeIngredients": [
+    {
+      "materialId": {
+        "$oid": "673998fa13ab31dfbe1e12fd"
+      },
+      "quantity": 4
+    },
+    {
+      "materialId": {
+        "$oid": "67399fe513ab31dfbe1e1383"
+      },
+      "quantity": 90
+    },
+    {
+      "materialId": {
+        "$oid": "673995f513ab31dfbe1e12d2"
+      },
+      "quantity": 200
+    },
+    {
+      "materialId": {
+        "$oid": "6739964513ab31dfbe1e12ef"
+      },
+      "quantity": 20
+    },
+    {
+      "materialId": {
+        "$oid": "6739990313ab31dfbe1e1304"
+      },
+      "quantity": 50
+    },
+    {
+      "materialId": {
+        "$oid": "6739b41113ab31dfbe1e1534"
+      },
+      "quantity": 70
+    },
+    {
+      "materialId": {
+        "$oid": "6739b72e13ab31dfbe1e1557"
+      },
+      "quantity": 250
+    },
+    {
+      "materialId": {
+        "$oid": "67399ce913ab31dfbe1e1345"
+      },
+      "quantity": 5
+    }
+  ],
+  "recipeInstructions": [
+    {
+      "step": 1,
+      "value": " 2 quả trứng gà đập ra tô, thêm 50gr đường trắng vào, dùng máy đánh trứng, đánh đều lên."
+    },
+    {
+      "step": 2,
+      "value": "Tiếp theo, cho lần lượt 60gr bột mì, 20gr bột bắp, 50ml sữa tươi, chocolate trắng đun cách thủy tan chảy vào, đánh cùng."
+    },
+    {
+      "step": 3,
+      "value": " Bật lò nướng trước 10 phút ở nhiệt độ 175 độ C. Cho bánh vào khuôn nướng bánh, đặt trong lò, nướng khoảng 25-30 phút."
+    },
+    {
+      "step": 4,
+      "value": " Phần kem: 2 quả trứng gà còn lại, tách lấy lòng trắng trứng, thêm 40gr đường trắng vào, đánh đều."
+    },
+    {
+      "step": 5,
+      "value": "Tiếp theo, cho kem whipping vào, đánh cùng đến khi kem đạt đến độ bông là được."
+    },
+    {
+      "step": 6,
+      "value": " Bánh chín, lấy ra, quyết đều 2/3 kem lên trên bề mặt bánh."
+    },
+    {
+      "step": 7,
+      "value": "1/3 kem còn lại, cho màu thực phẩm nâu, hồng vào, trộn đều, cho vào túi bóp kem."
+    },
+    {
+      "step": 8,
+      "value": "Cho bánh vào tủ lạnh để phần lớp kem trên cứng lại. Nặn kem có chứa màu thực phẩm lên trên tạo thành hình hoa, viết chữ."
+    },
+    {
+      "step": 9,
+      "value": "Bạn cũng có thể biến tấu theo kiểu bánh như này nhé!"
+    }
+  ],
+  "recipeVariants": [
+    {
+      "variantLabel": "Trái cây",
+      "variantItems": [
+        {
+          "itemLabel": "Táo",
+          "materialId": {
+            "$oid": "6739aaf713ab31dfbe1e13b5"
+          },
+          "quantity": 50,
+          "_id": {
+            "$oid": "6739bd6813ab31dfbe1e15a6"
+          }
+        },
+        {
+          "itemLabel": "Lê",
+          "materialId": {
+            "$oid": "6739aafc13ab31dfbe1e13bc"
+          },
+          "quantity": 20,
+          "_id": {
+            "$oid": "6739bd6813ab31dfbe1e15a7"
+          }
+        },
+        {
+          "itemLabel": "Nho",
+          "materialId": {
+            "$oid": "6739ab0c13ab31dfbe1e13ca"
+          },
+          "quantity": 30,
+          "_id": {
+            "$oid": "6739bd6813ab31dfbe1e15a8"
+          }
+        },
+        {
+          "itemLabel": "Kiwi",
+          "materialId": {
+            "$oid": "6739ab0113ab31dfbe1e13c3"
+          },
+          "quantity": 40,
+          "_id": {
+            "$oid": "6739bd6813ab31dfbe1e15a9"
+          }
+        },
+        {
+          "itemLabel": "Đào",
+          "materialId": {
+            "$oid": "6739ab1313ab31dfbe1e13d1"
+          },
+          "quantity": 60,
+          "_id": {
+            "$oid": "6739bd6813ab31dfbe1e15aa"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6739bd6813ab31dfbe1e15a5"
+      }
+    },
+    {
+      "variantLabel": "Vani",
+      "variantItems": [
+        {
+          "itemLabel": "Nguyên chất",
+          "materialId": {
+            "$oid": "6739aba313ab31dfbe1e13d8"
+          },
+          "quantity": 50,
+          "_id": {
+            "$oid": "6739bd6813ab31dfbe1e15ac"
+          }
+        },
+        {
+          "itemLabel": "Madagascar",
+          "materialId": {
+            "$oid": "6739aba313ab31dfbe1e13d8"
+          },
+          "quantity": 30,
+          "_id": {
+            "$oid": "6739bd6813ab31dfbe1e15ad"
+          }
+        },
+        {
+          "itemLabel": "Bột vanila",
+          "materialId": {
+            "$oid": "6739aba313ab31dfbe1e13d8"
+          },
+          "quantity": 40,
+          "_id": {
+            "$oid": "6739bd6813ab31dfbe1e15ae"
+          }
+        },
+        {
+          "itemLabel": "Vani tổng hợp",
+          "materialId": {
+            "$oid": "6739aba313ab31dfbe1e13d8"
+          },
+          "quantity": 25,
+          "_id": {
+            "$oid": "6739bd6813ab31dfbe1e15af"
+          }
+        },
+        {
+          "itemLabel": "Vani trà xanh",
+          "materialId": {
+            "$oid": "6739f7bd13ab31dfbe1e3af3"
+          },
+          "quantity": 60,
+          "_id": {
+            "$oid": "6739bd6813ab31dfbe1e15b0"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6739bd6813ab31dfbe1e15ab"
+      }
+    },
+    {
+      "variantLabel": "Trang trí",
+      "variantItems": [
+        {
+          "itemLabel": "Hình hoa",
+          "materialId": {
+            "$oid": "6739b72e13ab31dfbe1e1557"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "6739bd6813ab31dfbe1e15b2"
+          }
+        },
+        {
+          "itemLabel": "Hình thú",
+          "materialId": {
+            "$oid": "6739b72e13ab31dfbe1e1557"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "6739bd6813ab31dfbe1e15b3"
+          }
+        },
+        {
+          "itemLabel": "Họa tiết",
+          "materialId": {
+            "$oid": "6739b72e13ab31dfbe1e1557"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "6739bd6813ab31dfbe1e15b4"
+          }
+        },
+        {
+          "itemLabel": "Chữ viết",
+          "materialId": {
+            "$oid": "6739b72e13ab31dfbe1e1557"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "6739bd6813ab31dfbe1e15b5"
+          }
+        },
+        {
+          "itemLabel": "Nhân vật hoạt hình",
+          "materialId": {
+            "$oid": "6739b72e13ab31dfbe1e1557"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "6739bd6813ab31dfbe1e15b6"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6739bd6813ab31dfbe1e15b1"
+      }
+    },
+    {
+      "variantLabel": "Mứt trái cây",
+      "variantItems": [
+        {
+          "itemLabel": "Mứt dâu",
+          "materialId": {
+            "$oid": "6739adb613ab31dfbe1e13f5"
+          },
+          "quantity": 20,
+          "_id": {
+            "$oid": "6739bd6813ab31dfbe1e15b8"
+          }
+        },
+        {
+          "itemLabel": "Mứt mâm xôi",
+          "materialId": {
+            "$oid": "6739ae6413ab31dfbe1e143a"
+          },
+          "quantity": 25,
+          "_id": {
+            "$oid": "6739bd6813ab31dfbe1e15b9"
+          }
+        },
+        {
+          "itemLabel": "Mứt cam",
+          "materialId": {
+            "$oid": "6739ae6a13ab31dfbe1e1441"
+          },
+          "quantity": 30,
+          "_id": {
+            "$oid": "6739bd6813ab31dfbe1e15ba"
+          }
+        },
+        {
+          "itemLabel": "Mứt việt quất",
+          "materialId": {
+            "$oid": "6739ae7413ab31dfbe1e1448"
+          },
+          "quantity": 35,
+          "_id": {
+            "$oid": "6739bd6813ab31dfbe1e15bb"
+          }
+        },
+        {
+          "itemLabel": "Mứt chanh",
+          "materialId": {
+            "$oid": "6739ae7a13ab31dfbe1e144f"
+          },
+          "quantity": 40,
+          "_id": {
+            "$oid": "6739bd6813ab31dfbe1e15bc"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6739bd6813ab31dfbe1e15b7"
+      }
+    },
+    {
+      "variantLabel": "Kem tươi",
+      "variantItems": [
+        {
+          "itemLabel": "Vị caramel",
+          "materialId": {
+            "$oid": "6739ec9d13ab31dfbe1e1db3"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "6739bd6813ab31dfbe1e15be"
+          }
+        },
+        {
+          "itemLabel": "Vị trà xanh",
+          "materialId": {
+            "$oid": "6739f7bd13ab31dfbe1e3af3"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "6739bd6813ab31dfbe1e15bf"
+          }
+        },
+        {
+          "itemLabel": "Vị dâu tây",
+          "materialId": {
+            "$oid": "6739f77313ab31dfbe1e377c"
+          },
+          "quantity": 20,
+          "_id": {
+            "$oid": "6739bd6813ab31dfbe1e15c0"
+          }
+        },
+        {
+          "itemLabel": "Vị socola đen",
+          "materialId": {
+            "$oid": "6739b41713ab31dfbe1e153b"
+          },
+          "quantity": 20,
+          "_id": {
+            "$oid": "6739bd6813ab31dfbe1e15c1"
+          }
+        },
+        {
+          "itemLabel": "Vị mocha",
+          "materialId": {
+            "$oid": "6739b41713ab31dfbe1e153b"
+          },
+          "quantity": 40,
+          "_id": {
+            "$oid": "6739bd6813ab31dfbe1e15c2"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6739bd6813ab31dfbe1e15bd"
+      }
+    }
+  ],
+  "recipeServings": 3,
+  "cookTime": 30,
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T09:54:48.799Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T14:10:08.432Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739ebe713ab31dfbe1e1871"
+  },
+  "recipeName": "Công thức làm Bánh kem Socola",
+  "recipeDescription": "Bột cacao: 70 g\nTrứng gà: 4 quả\nBơ nhạt: 250 g\nBột mì đa dụng: 300 g\nBột nở: 20g\nĐường trắng 400 g\nVani: 1 ống\nDầu ăn: 50 ml\nPhần kem trang trí:\nBơ không muối: 150 g\nĐường bột: 300 g",
+  "recipeIngredients": [
+    {
+      "materialId": {
+        "$oid": "6739964b13ab31dfbe1e12f6"
+      },
+      "quantity": 70
+    },
+    {
+      "materialId": {
+        "$oid": "673998fa13ab31dfbe1e12fd"
+      },
+      "quantity": 4
+    },
+    {
+      "materialId": {
+        "$oid": "67399cdd13ab31dfbe1e133e"
+      },
+      "quantity": 250
+    },
+    {
+      "materialId": {
+        "$oid": "673995f513ab31dfbe1e12d2"
+      },
+      "quantity": 300
+    },
+    {
+      "materialId": {
+        "$oid": "6739964513ab31dfbe1e12ef"
+      },
+      "quantity": 20
+    },
+    {
+      "materialId": {
+        "$oid": "67399fe513ab31dfbe1e1383"
+      },
+      "quantity": 400
+    },
+    {
+      "materialId": {
+        "$oid": "6739bd9a13ab31dfbe1e164d"
+      },
+      "quantity": 50
+    },
+    {
+      "materialId": {
+        "$oid": "6739ed2513ab31dfbe1e233d"
+      },
+      "quantity": 1
+    }
+  ],
+  "recipeInstructions": [
+    {
+      "step": 1,
+      "value": "Bước đầu tiên, bạn rây kỹ phần bột vào một chiếc âu lớn để bột mịn và không bị vón cục."
+    },
+    {
+      "step": 2,
+      "value": "Trong 1 cái bát sạch, cho các nguyên liệu đã chuẩn bị là bơ lạt, đường, vani, 4 quả trứng gà và dầu ăn vào. Dùng máy trộn hoặc phới lồng cầm tay trộn cho hỗn hợp thật đều và hòa quyện vào nhau. Lưu ý ở bước này, phần bơ của bạn nên đun cách thủy cho tan chảy hoàn toàn trước nhé!"
+    },
+    {
+      "step": 3,
+      "value": "Đặt một chiếc nồi nhỏ lên bếp, cho bột ca cao và một chút nước vào khuấy đều, để lửa nhỏ cho tới khi hỗn hợp đặc sệt lại là có thể tắt bếp. Nhấc nồi xuống và để qua một bên cho nguội."
+    },
+    {
+      "step": 4,
+      "value": "Đổ phần hỗn hợp trứng ở bước hai vào âu bột và trộn thật đều tay cho bột tan hoàn toàn và thu được một hỗn hợp mịn mượt. Sau khi phần bột ca cao tan chảy nguội, bạn cho vào âu bột và tiếp tục trộn đều cho hòa quyện."
+    },
+    {
+      "step": 5,
+      "value": "Lót giấy nến vào hai chiếc khay đã chuẩn bị sau đó đổ hỗn hợp bột bánh vào khay rồi mang đi nướng. Để có một chiếc bánh kem socola thật ngon lành, bạn nên nưỡng bánh ở nhiệt độ là là 176 độ C trong vòng 20 phút. Sau khi bánh chín, bạn lấy ra và bảo quản trong ngăn mát tủ lạnh cho bánh nguội hẳn."
+    },
+    {
+      "step": 6,
+      "value": "Làm kem trang trí: Cho phần bơ vào một chiếc bát sạch, sau đó trộn cung với đường bột và vani đã chuẩn bị từ trước. Trộn cho thật đều tay cho tới khi thu được một hỗn hợp kem bơ đặc sệt, thơm mùi bơ."
+    },
+    {
+      "step": 7,
+      "value": "Dùng thìa gỗ quết kem bơ vào cho đều lên trên bề mặt một phần bánh socola đã để nguội, sau đó đặt thêm phần bánh còn lại lên trên. Rây một ít icing sugar lên bề mặt bánh để thêm phần bắt mắt."
+    }
+  ],
+  "recipeVariants": [
+    {
+      "variantLabel": "Socola đen",
+      "variantItems": [
+        {
+          "itemLabel": "70% cacao",
+          "materialId": {
+            "$oid": "6739964b13ab31dfbe1e12f6"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "6739ebe713ab31dfbe1e1873"
+          }
+        },
+        {
+          "itemLabel": "80% cacao",
+          "materialId": {
+            "$oid": "6739964b13ab31dfbe1e12f6"
+          },
+          "quantity": 15,
+          "_id": {
+            "$oid": "6739ebe713ab31dfbe1e1874"
+          }
+        },
+        {
+          "itemLabel": "90% cacao",
+          "materialId": {
+            "$oid": "6739964b13ab31dfbe1e12f6"
+          },
+          "quantity": 20,
+          "_id": {
+            "$oid": "6739ebe713ab31dfbe1e1875"
+          }
+        },
+        {
+          "itemLabel": "60% cacao",
+          "materialId": {
+            "$oid": "6739964b13ab31dfbe1e12f6"
+          },
+          "quantity": 25,
+          "_id": {
+            "$oid": "6739ebe713ab31dfbe1e1876"
+          }
+        },
+        {
+          "itemLabel": "50% cacao",
+          "materialId": {
+            "$oid": "6739964b13ab31dfbe1e12f6"
+          },
+          "quantity": 30,
+          "_id": {
+            "$oid": "6739ebe713ab31dfbe1e1877"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6739ebe713ab31dfbe1e1872"
+      }
+    },
+    {
+      "variantLabel": "Socola sữa",
+      "variantItems": [
+        {
+          "itemLabel": "50% cacao",
+          "materialId": {
+            "$oid": "6739964b13ab31dfbe1e12f6"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "6739ebe713ab31dfbe1e1879"
+          }
+        },
+        {
+          "itemLabel": "Caramel",
+          "materialId": {
+            "$oid": "6739ec9d13ab31dfbe1e1db3"
+          },
+          "quantity": 15,
+          "_id": {
+            "$oid": "6739ebe713ab31dfbe1e187a"
+          }
+        },
+        {
+          "itemLabel": "Hạt dẻ",
+          "materialId": {
+            "$oid": "6739ec0313ab31dfbe1e1b10"
+          },
+          "quantity": 14,
+          "_id": {
+            "$oid": "6739ebe713ab31dfbe1e187b"
+          }
+        },
+        {
+          "itemLabel": "Hạnh nhân",
+          "materialId": {
+            "$oid": "6739aac513ab31dfbe1e13a7"
+          },
+          "quantity": 18,
+          "_id": {
+            "$oid": "6739ebe713ab31dfbe1e187c"
+          }
+        },
+        {
+          "itemLabel": "Dừa",
+          "materialId": {
+            "$oid": "6739ecb313ab31dfbe1e1dba"
+          },
+          "quantity": 20,
+          "_id": {
+            "$oid": "6739ebe713ab31dfbe1e187d"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6739ebe713ab31dfbe1e1878"
+      }
+    },
+    {
+      "variantLabel": "Socola Trắng",
+      "variantItems": [
+        {
+          "itemLabel": "Nguyên chất",
+          "materialId": {
+            "$oid": "6739964b13ab31dfbe1e12f6"
+          },
+          "quantity": 5,
+          "_id": {
+            "$oid": "6739ebe713ab31dfbe1e187f"
+          }
+        },
+        {
+          "itemLabel": "Hạt chia",
+          "materialId": {
+            "$oid": "6739aaca13ab31dfbe1e13ae"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "6739ebe713ab31dfbe1e1880"
+          }
+        },
+        {
+          "itemLabel": "Với táo",
+          "materialId": {
+            "$oid": "6739aaf713ab31dfbe1e13b5"
+          },
+          "quantity": 15,
+          "_id": {
+            "$oid": "6739ebe713ab31dfbe1e1881"
+          }
+        },
+        {
+          "itemLabel": "Với lê",
+          "materialId": {
+            "$oid": "6739aafc13ab31dfbe1e13bc"
+          },
+          "quantity": 20,
+          "_id": {
+            "$oid": "6739ebe713ab31dfbe1e1882"
+          }
+        },
+        {
+          "itemLabel": "Với hạt dẻ",
+          "materialId": {
+            "$oid": "6739aac513ab31dfbe1e13a7"
+          },
+          "quantity": 25,
+          "_id": {
+            "$oid": "6739ebe713ab31dfbe1e1883"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6739ebe713ab31dfbe1e187e"
+      }
+    },
+    {
+      "variantLabel": "Hạt",
+      "variantItems": [
+        {
+          "itemLabel": "Hạnh nhân",
+          "materialId": {
+            "$oid": "6739aac513ab31dfbe1e13a7"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "6739ebe713ab31dfbe1e1885"
+          }
+        },
+        {
+          "itemLabel": "Hạt dẻ",
+          "materialId": {
+            "$oid": "6739ec0313ab31dfbe1e1b10"
+          },
+          "quantity": 15,
+          "_id": {
+            "$oid": "6739ebe713ab31dfbe1e1886"
+          }
+        },
+        {
+          "itemLabel": "Hạt điều",
+          "materialId": {
+            "$oid": "6739ec0f13ab31dfbe1e1b17"
+          },
+          "quantity": 20,
+          "_id": {
+            "$oid": "6739ebe713ab31dfbe1e1887"
+          }
+        },
+        {
+          "itemLabel": "Hạt dẻ rang muối",
+          "materialId": {
+            "$oid": "6739ec1b13ab31dfbe1e1b1e"
+          },
+          "quantity": 25,
+          "_id": {
+            "$oid": "6739ebe713ab31dfbe1e1888"
+          }
+        },
+        {
+          "itemLabel": "Hạt macca",
+          "materialId": {
+            "$oid": "6739ec2413ab31dfbe1e1b25"
+          },
+          "quantity": 30,
+          "_id": {
+            "$oid": "6739ebe713ab31dfbe1e1889"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6739ebe713ab31dfbe1e1884"
+      }
+    },
+    {
+      "variantLabel": "Socola đặc biệt",
+      "variantItems": [
+        {
+          "itemLabel": "Với rượu rum",
+          "materialId": {
+            "$oid": "67399fc313ab31dfbe1e137c"
+          },
+          "quantity": 5,
+          "_id": {
+            "$oid": "6739ebe713ab31dfbe1e188b"
+          }
+        },
+        {
+          "itemLabel": "Với rượu vang",
+          "materialId": {
+            "$oid": "6739ec3213ab31dfbe1e1b2c"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "6739ebe713ab31dfbe1e188c"
+          }
+        },
+        {
+          "itemLabel": "Với mứt cam",
+          "materialId": {
+            "$oid": "6739ae6a13ab31dfbe1e1441"
+          },
+          "quantity": 15,
+          "_id": {
+            "$oid": "6739ebe713ab31dfbe1e188d"
+          }
+        },
+        {
+          "itemLabel": "Với mứt mâm xôi",
+          "materialId": {
+            "$oid": "6739ae6413ab31dfbe1e143a"
+          },
+          "quantity": 18,
+          "_id": {
+            "$oid": "6739ebe713ab31dfbe1e188e"
+          }
+        },
+        {
+          "itemLabel": "Với mứt chanh",
+          "materialId": {
+            "$oid": "6739ae7a13ab31dfbe1e144f"
+          },
+          "quantity": 20,
+          "_id": {
+            "$oid": "6739ebe713ab31dfbe1e188f"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6739ebe713ab31dfbe1e188a"
+      }
+    }
+  ],
+  "recipeServings": 3,
+  "cookTime": 40,
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T13:13:11.103Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T14:09:41.575Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739f23713ab31dfbe1e25d0"
+  },
+  "recipeName": "Công thức làm Bánh kem Trái cây",
+  "recipeDescription": "Nguyên liệu:\n\n100gr trái táo\n\n60gr trái lê\n\n100ml rượu rum\n\n3 quả trứng gà \n\n135g bơ nhạt\n\n100gr đường trắng\n\n30gr bột cacao\n\n5g bột nở\n\n120g bột mì đa dụng\n\n5g muối\n\n1 ống tinh chất vani",
+  "recipeIngredients": [
+    {
+      "materialId": {
+        "$oid": "6739aaf713ab31dfbe1e13b5"
+      },
+      "quantity": 100
+    },
+    {
+      "materialId": {
+        "$oid": "6739aafc13ab31dfbe1e13bc"
+      },
+      "quantity": 60
+    },
+    {
+      "materialId": {
+        "$oid": "67399fc313ab31dfbe1e137c"
+      },
+      "quantity": 100
+    },
+    {
+      "materialId": {
+        "$oid": "673998fa13ab31dfbe1e12fd"
+      },
+      "quantity": 3
+    },
+    {
+      "materialId": {
+        "$oid": "67399cdd13ab31dfbe1e133e"
+      },
+      "quantity": 135
+    },
+    {
+      "materialId": {
+        "$oid": "67399fe513ab31dfbe1e1383"
+      },
+      "quantity": 100
+    },
+    {
+      "materialId": {
+        "$oid": "6739964b13ab31dfbe1e12f6"
+      },
+      "quantity": 30
+    },
+    {
+      "materialId": {
+        "$oid": "6739964513ab31dfbe1e12ef"
+      },
+      "quantity": 5
+    },
+    {
+      "materialId": {
+        "$oid": "673995f513ab31dfbe1e12d2"
+      },
+      "quantity": 120
+    },
+    {
+      "materialId": {
+        "$oid": "67399ce913ab31dfbe1e1345"
+      },
+      "quantity": 5
+    },
+    {
+      "materialId": {
+        "$oid": "6739ed2513ab31dfbe1e233d"
+      },
+      "quantity": 1
+    }
+  ],
+  "recipeInstructions": [
+    {
+      "step": 1,
+      "value": "Ngâm trái táo và lê với rượu rum qua đêm (khoảng 6-10 tiếng) Lọc bỏ phần nước"
+    },
+    {
+      "step": 2,
+      "value": "Tách riêng lòng đỏ và lòng trắng trứng gà Phần lòng trắng dùng máy đánh bông mềm lòng trắng, cho đến khi tạo thành lớp kem mịn."
+    },
+    {
+      "step": 3,
+      "value": "Ở 1 tô khác, dùng máy đánh bơ đã được làm mềm, cho đường và một chút xíu muối vào đánh chung. Lần lượt cho từng lòng đỏ trứng vào để đánh cùng cho đến khi thành hỗn hợp đồng nhất."
+    },
+    {
+      "step": 4,
+      "value": "Múc phần lòng trắng đã đánh bông ban nãy vào phần hỗn hợp bột, dùng kỹ thuật fold (vét bột từ dưới lên) để trộn 2 phần lại với nhau một cách khéo léo không làm vỡ bọt khí. Cho phần nho và trái cây đã ngâm rượu vào trộn chung."
+    },
+    {
+      "step": 5,
+      "value": "Lót giấy nến vào khuôn, từ từ múc bột vào khuôn, dùng phới dàn đều bề mặt bột. Làm nóng lò trước ở nhiệt độ 170 độ trong 15 phút. Sau đó cho bánh vào nướng 170 độ trong 50-60 phút."
+    }
+  ],
+  "recipeVariants": [
+    {
+      "variantLabel": "Trái cây tươi",
+      "variantItems": [
+        {
+          "itemLabel": "Táo",
+          "materialId": {
+            "$oid": "6739aaf713ab31dfbe1e13b5"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "6739f23713ab31dfbe1e25d2"
+          }
+        },
+        {
+          "itemLabel": "Lê",
+          "materialId": {
+            "$oid": "6739aafc13ab31dfbe1e13bc"
+          },
+          "quantity": 12,
+          "_id": {
+            "$oid": "6739f23713ab31dfbe1e25d3"
+          }
+        },
+        {
+          "itemLabel": "Nho",
+          "materialId": {
+            "$oid": "6739ab0c13ab31dfbe1e13ca"
+          },
+          "quantity": 14,
+          "_id": {
+            "$oid": "6739f23713ab31dfbe1e25d4"
+          }
+        },
+        {
+          "itemLabel": "Kiwi",
+          "materialId": {
+            "$oid": "6739ab0113ab31dfbe1e13c3"
+          },
+          "quantity": 16,
+          "_id": {
+            "$oid": "6739f23713ab31dfbe1e25d5"
+          }
+        },
+        {
+          "itemLabel": "Đào",
+          "materialId": {
+            "$oid": "6739ab1313ab31dfbe1e13d1"
+          },
+          "quantity": 18,
+          "_id": {
+            "$oid": "6739f23713ab31dfbe1e25d6"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6739f23713ab31dfbe1e25d1"
+      }
+    },
+    {
+      "variantLabel": "Trái cây nhiệt đới",
+      "variantItems": [
+        {
+          "itemLabel": "Dừa",
+          "materialId": {
+            "$oid": "6739ecb313ab31dfbe1e1dba"
+          },
+          "quantity": 7,
+          "_id": {
+            "$oid": "6739f23713ab31dfbe1e25d8"
+          }
+        },
+        {
+          "itemLabel": "Chuối",
+          "materialId": {
+            "$oid": "673a39db13ab31dfbe1e9c25"
+          },
+          "quantity": 9,
+          "_id": {
+            "$oid": "6739f23713ab31dfbe1e25d9"
+          }
+        },
+        {
+          "itemLabel": "Đu đủ",
+          "materialId": {
+            "$oid": "673a39e413ab31dfbe1e9c2c"
+          },
+          "quantity": 11,
+          "_id": {
+            "$oid": "6739f23713ab31dfbe1e25da"
+          }
+        },
+        {
+          "itemLabel": "Dưa hấu",
+          "materialId": {
+            "$oid": "673a39ef13ab31dfbe1e9c33"
+          },
+          "quantity": 13,
+          "_id": {
+            "$oid": "6739f23713ab31dfbe1e25db"
+          }
+        },
+        {
+          "itemLabel": "Mít",
+          "materialId": {
+            "$oid": "673a39f813ab31dfbe1e9c3a"
+          },
+          "quantity": 15,
+          "_id": {
+            "$oid": "6739f23713ab31dfbe1e25dc"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6739f23713ab31dfbe1e25d7"
+      }
+    },
+    {
+      "variantLabel": "Mứt trái cây",
+      "variantItems": [
+        {
+          "itemLabel": "Mứt dâu",
+          "materialId": {
+            "$oid": "6739adb613ab31dfbe1e13f5"
+          },
+          "quantity": 5,
+          "_id": {
+            "$oid": "6739f23713ab31dfbe1e25de"
+          }
+        },
+        {
+          "itemLabel": "Mứt mâm xôi",
+          "materialId": {
+            "$oid": "6739ae6413ab31dfbe1e143a"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "6739f23713ab31dfbe1e25df"
+          }
+        },
+        {
+          "itemLabel": "Mứt cam",
+          "materialId": {
+            "$oid": "6739ae6a13ab31dfbe1e1441"
+          },
+          "quantity": 15,
+          "_id": {
+            "$oid": "6739f23713ab31dfbe1e25e0"
+          }
+        },
+        {
+          "itemLabel": "Mứt việt quất",
+          "materialId": {
+            "$oid": "6739ae7413ab31dfbe1e1448"
+          },
+          "quantity": 20,
+          "_id": {
+            "$oid": "6739f23713ab31dfbe1e25e1"
+          }
+        },
+        {
+          "itemLabel": "Mứt chanh",
+          "materialId": {
+            "$oid": "6739ae7a13ab31dfbe1e144f"
+          },
+          "quantity": 25,
+          "_id": {
+            "$oid": "6739f23713ab31dfbe1e25e2"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6739f23713ab31dfbe1e25dd"
+      }
+    },
+    {
+      "variantLabel": "Trái cây khô",
+      "variantItems": [
+        {
+          "itemLabel": "Táo khô",
+          "materialId": {
+            "$oid": "673a3a0313ab31dfbe1e9c41"
+          },
+          "quantity": 5,
+          "_id": {
+            "$oid": "6739f23713ab31dfbe1e25e4"
+          }
+        },
+        {
+          "itemLabel": "Lê khô",
+          "materialId": {
+            "$oid": "673a3a0a13ab31dfbe1e9c48"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "6739f23713ab31dfbe1e25e5"
+          }
+        },
+        {
+          "itemLabel": "Nho khô",
+          "materialId": {
+            "$oid": "673a3a1613ab31dfbe1e9c4f"
+          },
+          "quantity": 15,
+          "_id": {
+            "$oid": "6739f23713ab31dfbe1e25e6"
+          }
+        },
+        {
+          "itemLabel": "Kiwi khô",
+          "materialId": null,
+          "quantity": 20,
+          "_id": {
+            "$oid": "6739f23713ab31dfbe1e25e7"
+          }
+        },
+        {
+          "itemLabel": "Dâu tây khô",
+          "materialId": {
+            "$oid": "673a3b5313ab31dfbe1eabd0"
+          },
+          "quantity": 25,
+          "_id": {
+            "$oid": "6739f23713ab31dfbe1e25e8"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6739f23713ab31dfbe1e25e3"
+      }
+    },
+    {
+      "variantLabel": "Nước sốt trái cây",
+      "variantItems": [
+        {
+          "itemLabel": "Vị mâm xôi",
+          "materialId": {
+            "$oid": "673c9e030ccc06a6d02254dc"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "6739f23713ab31dfbe1e25ea"
+          }
+        },
+        {
+          "itemLabel": "Vị cam",
+          "materialId": {
+            "$oid": "673c9e0b0ccc06a6d02254e2"
+          },
+          "quantity": 12,
+          "_id": {
+            "$oid": "6739f23713ab31dfbe1e25eb"
+          }
+        },
+        {
+          "itemLabel": "Vị việt quất",
+          "materialId": {
+            "$oid": "673c9df60ccc06a6d02254d6"
+          },
+          "quantity": 14,
+          "_id": {
+            "$oid": "6739f23713ab31dfbe1e25ec"
+          }
+        },
+        {
+          "itemLabel": "Vị táo",
+          "materialId": {
+            "$oid": "673c9e180ccc06a6d02254e8"
+          },
+          "quantity": 16,
+          "_id": {
+            "$oid": "6739f23713ab31dfbe1e25ed"
+          }
+        },
+        {
+          "itemLabel": "Vị đào",
+          "materialId": {
+            "$oid": "673c9e210ccc06a6d02254ee"
+          },
+          "quantity": 18,
+          "_id": {
+            "$oid": "6739f23713ab31dfbe1e25ee"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6739f23713ab31dfbe1e25e9"
+      }
+    }
+  ],
+  "recipeServings": 5,
+  "cookTime": 60,
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-17T13:40:07.354Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T14:45:02.255Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c473e0ccc06a6d0220919"
+  },
+  "recipeName": "Công thức làm bánh Kem Dâu",
+  "recipeDescription": "Phần Cốt Bánh\nBột mì đa dụng: 200 g\nBột nở: 35 g\nBơ nhạt: 20 g\nĐường trắng: 70 g\nSữa tươi không đường: 10 ml\t\nTinh chất Vani: 5 ml\nTrứng gà: 3 quả\t\nMuối: 5g\nPhần Mousse Dâu Tây\nTrái Dâu tây: 400 gram\t\nGelatin: 6 lá (12g)\nKem tươi (whipping cream): 300 ml\nĐường cát trắng: 50g",
+  "recipeIngredients": [
+    {
+      "materialId": {
+        "$oid": "673995f513ab31dfbe1e12d2"
+      },
+      "quantity": 200
+    },
+    {
+      "materialId": {
+        "$oid": "6739964513ab31dfbe1e12ef"
+      },
+      "quantity": 35
+    },
+    {
+      "materialId": {
+        "$oid": "67399cdd13ab31dfbe1e133e"
+      },
+      "quantity": 20
+    },
+    {
+      "materialId": {
+        "$oid": "67399fe513ab31dfbe1e1383"
+      },
+      "quantity": 70
+    },
+    {
+      "materialId": {
+        "$oid": "6739990c13ab31dfbe1e130b"
+      },
+      "quantity": 10
+    },
+    {
+      "materialId": {
+        "$oid": "6739ed2513ab31dfbe1e233d"
+      },
+      "quantity": 5
+    },
+    {
+      "materialId": {
+        "$oid": "673998fa13ab31dfbe1e12fd"
+      },
+      "quantity": 3
+    },
+    {
+      "materialId": {
+        "$oid": "6739f77313ab31dfbe1e377c"
+      },
+      "quantity": 400
+    },
+    {
+      "materialId": {
+        "$oid": "6739a2dd13ab31dfbe1e139c"
+      },
+      "quantity": 12
+    },
+    {
+      "materialId": {
+        "$oid": "6739b72e13ab31dfbe1e1557"
+      },
+      "quantity": 300
+    },
+    {
+      "materialId": {
+        "$oid": "6739a12d13ab31dfbe1e1395"
+      },
+      "quantity": 50
+    }
+  ],
+  "recipeInstructions": [
+    {
+      "step": 1,
+      "value": "Rửa sạch dâu tây, bỏ cuống. Ngâm dâu với nước muối pha loãng khoảng 15 phút. Cho dâuvào máy xay sinh tố cùng 200 gram đường, xay nhuyễn mịn. Chừa lại một vài quả để trang trí.  Lựa một vài trái dâu tây đem thái hạt lựu.  Lấy 4 lá gelatin ngâm trong nước lạnh đến khi nở mềm.."
+    },
+    {
+      "step": 2,
+      "value": "Phết lên thành và đáy khuôn một lớp bơ mỏng, vừa xoay khuôn vừa rắc bột mì sao cho lòng khuôn được phủ kín. Sau đó úp ngược khuôn xuống để bột mì rơi hết.  Lần lượt rây bột mì và bột ngô vào trong âu, trộn đều bằng phới lồng. Tiếp theo, làm tan chảy bơ trong nồi rồi nhấc xuống bếp, đổ sữa vào khuấy, bọc kín lại để giữ ấm."
+    },
+    {
+      "step": 3,
+      "value": "Trộn trứng với muối và đường, bắc lên bếp đun cách thủy. Lưu ý: Âu không được chạm vào nước. Dùng phới lồng khuấy hỗn hợp liên tục đến khi ấm nóng (đạt từ 40 – 50 độ C) thì nhấc âu ra."
+    },
+    {
+      "step": 4,
+      "value": "Đánh hỗn hợp ở tốc độ cao cho đến khi nó đặc, bông mịn và không còn chứa bọt khí. Nếu bạn nhấc que đánh lên và hỗn hợp không chảy ra dòng, nghĩa là đã đạt được độ đánh vừa đủ.  Sau đó, thêm một phần hỗn hợp trứng vào nồi chứa bơ và vani, khuấy đều cho tất cả các thành phần hòa quyện với nhau."
+    },
+    {
+      "step": 5,
+      "value": "Bột mì và bột ngô được chia thành 3 phần, và bơ cũng được chia thành 3 phần tương ứng. Tiếp theo, từng phần bột được rây vào âu trứng, sau đó thêm một phần bơ và trộn đều."
+    },
+    {
+      "step": 6,
+      "value": "Sau khi chuẩn bị xong hỗn hợp bánh bông lan, đổ đều vào khuôn và dùng tay gõ nhẹ để bột phân bố đều, đồng thời giảm thiểu bọt khí."
+    },
+    {
+      "step": 7,
+      "value": "Tiếp theo, đặt lò nướng ở chế độ 2 lửa, 175 độ C, đặt khuôn giữa lò và nướng trong khoảng thời gian từ 30 đến 35 phút. Để kiểm tra xem bánh đã chín chưa, có thể dùng tăm xiên để xuyên qua bánh và kiểm tra xem tăm có dính bột hay không."
+    },
+    {
+      "step": 8,
+      "value": "Sau khi bánh đã chín, lấy bánh ra khỏi lò và sử dụng dao cắt quanh thành của bánh, rồi lật ngược khuôn lại để lấy bánh ra."
+    },
+    {
+      "step": 9,
+      "value": "Đưa kem tươi (whipping cream) vào một bát to, sử dụng máy đánh trứng để đánh đều kem cho đến khi nó trở nên bông mịn."
+    },
+    {
+      "step": 10,
+      "value": "Sau khi lá gelatin được ngâm nở mềm, đổ nó vào một chén sứ chịu nhiệt và đem chưng theo phương pháp cách thủy. Trộn đều gelatin trong khi đang chưng cho đến khi nó tan hoàn toàn."
+    },
+    {
+      "step": 11,
+      "value": "Đổ phần gelatin vừa trộn vào whipping cream đã đánh đều và trộn đều hỗn hợp. Tiếp theo, thêm syrup dâu vào hỗn hợp và trộn đến khi tất cả các thành phần hòa quyện hoàn toàn."
+    },
+    {
+      "step": 12,
+      "value": "Chuẩn bị một khuôn bánh tròn và đặt một lớp cốt bánh mỏng vào khuôn, sau đó lót giấy nến xung quanh thành khuôn. Tiếp theo, đổ hỗn hợp whipping cream lên phần cốt bánh."
+    },
+    {
+      "step": 13,
+      "value": "Dàn đều để phần kem phủ đều mặt bánh, sau đó cho bánh vào tủ lạnh và để nguội cho đến khi hoàn toàn đông lại."
+    }
+  ],
+  "recipeVariants": [
+    {
+      "variantLabel": "Kem vị trái cây",
+      "variantItems": [
+        {
+          "itemLabel": "Dâu tây",
+          "materialId": {
+            "$oid": "673c3e750ccc06a6d02205d7"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "673c473e0ccc06a6d022091b"
+          }
+        },
+        {
+          "itemLabel": "Mâm xôi",
+          "materialId": {
+            "$oid": "673c3e7d0ccc06a6d02205de"
+          },
+          "quantity": 12,
+          "_id": {
+            "$oid": "673c473e0ccc06a6d022091c"
+          }
+        },
+        {
+          "itemLabel": "Cam",
+          "materialId": {
+            "$oid": "673c3e920ccc06a6d02205e5"
+          },
+          "quantity": 14,
+          "_id": {
+            "$oid": "673c473e0ccc06a6d022091d"
+          }
+        },
+        {
+          "itemLabel": "Việt quất",
+          "materialId": {
+            "$oid": "673c3e980ccc06a6d02205ec"
+          },
+          "quantity": 16,
+          "_id": {
+            "$oid": "673c473e0ccc06a6d022091e"
+          }
+        },
+        {
+          "itemLabel": "Chanh dây",
+          "materialId": {
+            "$oid": "673c3e9f0ccc06a6d02205f3"
+          },
+          "quantity": 18,
+          "_id": {
+            "$oid": "673c473e0ccc06a6d022091f"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "673c473e0ccc06a6d022091a"
+      }
+    },
+    {
+      "variantLabel": "Topping",
+      "variantItems": [
+        {
+          "itemLabel": "Hạnh nhân lát",
+          "materialId": {
+            "$oid": "673c474b0ccc06a6d0220b2a"
+          },
+          "quantity": 5,
+          "_id": {
+            "$oid": "673c473e0ccc06a6d0220921"
+          }
+        },
+        {
+          "itemLabel": "Nước sốt vị táo",
+          "materialId": {
+            "$oid": "673a387f13ab31dfbe1e8959"
+          },
+          "quantity": 8,
+          "_id": {
+            "$oid": "673c473e0ccc06a6d0220922"
+          }
+        },
+        {
+          "itemLabel": "Kẹo đường",
+          "materialId": {
+            "$oid": "673c3ecd0ccc06a6d02205fe"
+          },
+          "quantity": 11,
+          "_id": {
+            "$oid": "673c473e0ccc06a6d0220923"
+          }
+        },
+        {
+          "itemLabel": "Mứt dâu",
+          "materialId": {
+            "$oid": "6739adb613ab31dfbe1e13f5"
+          },
+          "quantity": 14,
+          "_id": {
+            "$oid": "673c473e0ccc06a6d0220924"
+          }
+        },
+        {
+          "itemLabel": "Mứt cam",
+          "materialId": {
+            "$oid": "6739ae6a13ab31dfbe1e1441"
+          },
+          "quantity": 17,
+          "_id": {
+            "$oid": "673c473e0ccc06a6d0220925"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "673c473e0ccc06a6d0220920"
+      }
+    },
+    {
+      "variantLabel": "Trang trí",
+      "variantItems": [
+        {
+          "itemLabel": "Lá bạc hà tươi",
+          "materialId": {
+            "$oid": "673c3e150ccc06a6d02204f7"
+          },
+          "quantity": 5,
+          "_id": {
+            "$oid": "673c473e0ccc06a6d0220927"
+          }
+        },
+        {
+          "itemLabel": "Hoa Pansy",
+          "materialId": {
+            "$oid": "673c3e390ccc06a6d02205d0"
+          },
+          "quantity": 7,
+          "_id": {
+            "$oid": "673c473e0ccc06a6d0220928"
+          }
+        },
+        {
+          "itemLabel": "Nho khô",
+          "materialId": {
+            "$oid": "673a3a1613ab31dfbe1e9c4f"
+          },
+          "quantity": 9,
+          "_id": {
+            "$oid": "673c473e0ccc06a6d0220929"
+          }
+        },
+        {
+          "itemLabel": "Kiwi khô",
+          "materialId": {
+            "$oid": "673a3b4b13ab31dfbe1eabc9"
+          },
+          "quantity": 11,
+          "_id": {
+            "$oid": "673c473e0ccc06a6d022092a"
+          }
+        },
+        {
+          "itemLabel": "Dâu tây khô",
+          "materialId": {
+            "$oid": "673a3b5313ab31dfbe1eabd0"
+          },
+          "quantity": 13,
+          "_id": {
+            "$oid": "673c473e0ccc06a6d022092b"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "673c473e0ccc06a6d0220926"
+      }
+    },
+    {
+      "variantLabel": "Hạt",
+      "variantItems": [
+        {
+          "itemLabel": "Dẻ",
+          "materialId": {
+            "$oid": "6739ec0313ab31dfbe1e1b10"
+          },
+          "quantity": 4,
+          "_id": {
+            "$oid": "673c473e0ccc06a6d022092d"
+          }
+        },
+        {
+          "itemLabel": "Điều",
+          "materialId": {
+            "$oid": "6739ec0f13ab31dfbe1e1b17"
+          },
+          "quantity": 6,
+          "_id": {
+            "$oid": "673c473e0ccc06a6d022092e"
+          }
+        },
+        {
+          "itemLabel": "Chia",
+          "materialId": {
+            "$oid": "6739aaca13ab31dfbe1e13ae"
+          },
+          "quantity": 8,
+          "_id": {
+            "$oid": "673c473e0ccc06a6d022092f"
+          }
+        },
+        {
+          "itemLabel": "Dẻ rang muối",
+          "materialId": {
+            "$oid": "6739ec1b13ab31dfbe1e1b1e"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "673c473e0ccc06a6d0220930"
+          }
+        },
+        {
+          "itemLabel": "Hạnh nhân",
+          "materialId": {
+            "$oid": "6739aac513ab31dfbe1e13a7"
+          },
+          "quantity": 12,
+          "_id": {
+            "$oid": "673c473e0ccc06a6d0220931"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "673c473e0ccc06a6d022092c"
+      }
+    },
+    {
+      "variantLabel": "Trái cây",
+      "variantItems": [
+        {
+          "itemLabel": "Táo",
+          "materialId": {
+            "$oid": "6739aaf713ab31dfbe1e13b5"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "673c473e0ccc06a6d0220933"
+          }
+        },
+        {
+          "itemLabel": "Lê",
+          "materialId": {
+            "$oid": "6739aafc13ab31dfbe1e13bc"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "673c473e0ccc06a6d0220934"
+          }
+        },
+        {
+          "itemLabel": "Nho",
+          "materialId": {
+            "$oid": "6739ab0c13ab31dfbe1e13ca"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "673c473e0ccc06a6d0220935"
+          }
+        },
+        {
+          "itemLabel": "Kiwi",
+          "materialId": {
+            "$oid": "6739ab0113ab31dfbe1e13c3"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "673c473e0ccc06a6d0220936"
+          }
+        },
+        {
+          "itemLabel": "Đào",
+          "materialId": {
+            "$oid": "6739ab1313ab31dfbe1e13d1"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "673c473e0ccc06a6d0220937"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "673c473e0ccc06a6d0220932"
+      }
+    }
+  ],
+  "recipeServings": 3,
+  "cookTime": 60,
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-19T08:07:26.177Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T08:20:29.531Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673ccf58bd3e3d3e08c3eb53"
+  },
+  "recipeName": "Công thức bánh kem Xoài",
+  "recipeDescription": "Phần cốt bánh bông lan:\nBột mì đa dụng: 200g\nĐường bột: 150g\nTrứng gà: 4 quả\nBơ nhạt: 100g\nSữa tươi không đường: 50ml\nBột nở: 10g\nMuối: 5g\nTinh chất Vani: 3 ống\nPhần kem phủ:\nKem tươi (whipping cream): 300ml\nĐường cát trắng: 50g\nPhần trang trí và nhân:\nXoài chín (cắt nhỏ): 300g (chia 200g làm nhân và 100g trang trí)\nNước xoài (hoặc nước ép xoài): 50ml (dùng để thấm bánh).",
+  "recipeIngredients": [
+    {
+      "materialId": {
+        "$oid": "673995f513ab31dfbe1e12d2"
+      },
+      "quantity": 200
+    },
+    {
+      "materialId": {
+        "$oid": "6739a02e13ab31dfbe1e138e"
+      },
+      "quantity": 150
+    },
+    {
+      "materialId": {
+        "$oid": "673998fa13ab31dfbe1e12fd"
+      },
+      "quantity": 4
+    },
+    {
+      "materialId": {
+        "$oid": "67399cdd13ab31dfbe1e133e"
+      },
+      "quantity": 100
+    },
+    {
+      "materialId": {
+        "$oid": "6739990c13ab31dfbe1e130b"
+      },
+      "quantity": 50
+    },
+    {
+      "materialId": {
+        "$oid": "6739964513ab31dfbe1e12ef"
+      },
+      "quantity": 10
+    },
+    {
+      "materialId": {
+        "$oid": "67399ce913ab31dfbe1e1345"
+      },
+      "quantity": 5
+    },
+    {
+      "materialId": {
+        "$oid": "6739ed2513ab31dfbe1e233d"
+      },
+      "quantity": 3
+    },
+    {
+      "materialId": {
+        "$oid": "6739b72e13ab31dfbe1e1557"
+      },
+      "quantity": 300
+    },
+    {
+      "materialId": {
+        "$oid": "6739a12d13ab31dfbe1e1395"
+      },
+      "quantity": 50
+    },
+    {
+      "materialId": {
+        "$oid": "673cb034b5a55c1d3061c076"
+      },
+      "quantity": 300
+    },
+    {
+      "materialId": {
+        "$oid": "673cb050b5a55c1d3061c07c"
+      },
+      "quantity": 50
+    }
+  ],
+  "recipeInstructions": [
+    {
+      "step": 1,
+      "value": "- Làm cốt bánh bông lan:\nChuẩn bị:\nLàm nóng lò ở 170°C.\nLót giấy nến vào đáy khuôn."
+    },
+    {
+      "step": 2,
+      "value": "- Đánh trứng và đường:\nĐánh bông trứng với đường cho đến khi hỗn hợp chuyển màu vàng nhạt và bông mịn."
+    },
+    {
+      "step": 3,
+      "value": "- Trộn bột:\nRây bột mì, bột nở và muối.\nCho từ từ hỗn hợp bột vào trứng, khuấy nhẹ tay để giữ độ bông."
+    },
+    {
+      "step": 4,
+      "value": "- Thêm chất lỏng:\nTrộn bơ đã làm mềm, sữa tươi và vani vào hỗn hợp bột."
+    },
+    {
+      "step": 5,
+      "value": "- Nướng bánh:\nĐổ bột vào khuôn, nướng 30-35 phút.\nKiểm tra bánh chín bằng cách xiên tăm, nếu rút ra tăm khô là bánh đã chín."
+    },
+    {
+      "step": 6,
+      "value": "- Làm kem xoài:\nĐánh bông whipping cream với đường bột đến khi đạt độ cứng vừa phải.\nTrộn 50g xoài nghiền nhuyễn vào 1/2 phần kem, giữ lại phần kem còn lại để phủ bánh."
+    }
+  ],
+  "recipeServings": 6,
+  "cookTime": 50,
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "recipeVariants": [],
+  "createdAt": {
+    "$date": "2024-11-19T17:48:08.746Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T18:32:36.695Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673cd83bbd3e3d3e08c3fa6d"
+  },
+  "recipeName": "Công thức làm bánh kem trái cây thập cẩm",
+  "recipeDescription": "Nguyên liệu\nPhần cốt bánh bông lan:\nBột mì đa dụng: 200g\nĐường trắng: 180g\nTrứng gà: 5 quả\nBơ nhạt: 120g\nSữa tươi không đường: 50ml\nBột nở: 15g\nMuối: 5g\nVani: 5 ống\nPhần kem phủ:\nKem tươi (whipping cream): 400ml\nĐường bột: 60g\nPhần nhân và trang trí:\nDâu tây : 100g (cắt nhỏ làm nhân và trang trí).\nKiwi : 100g (cắt lát).\nXoài : 100g (cắt miếng nhỏ).\nNho: 50g.\nĐào: 100g (thái lát mỏng).\nMít: 50g (xé nhỏ).\nCam: 50g (dùng cho nhân).\nNước: 50ml",
+  "recipeIngredients": [
+    {
+      "materialId": {
+        "$oid": "673995f513ab31dfbe1e12d2"
+      },
+      "quantity": 200
+    },
+    {
+      "materialId": {
+        "$oid": "67399fe513ab31dfbe1e1383"
+      },
+      "quantity": 180
+    },
+    {
+      "materialId": {
+        "$oid": "673998fa13ab31dfbe1e12fd"
+      },
+      "quantity": 5
+    },
+    {
+      "materialId": {
+        "$oid": "67399cdd13ab31dfbe1e133e"
+      },
+      "quantity": 120
+    },
+    {
+      "materialId": {
+        "$oid": "6739990c13ab31dfbe1e130b"
+      },
+      "quantity": 50
+    },
+    {
+      "materialId": {
+        "$oid": "6739964513ab31dfbe1e12ef"
+      },
+      "quantity": 15
+    },
+    {
+      "materialId": {
+        "$oid": "67399ce913ab31dfbe1e1345"
+      },
+      "quantity": 5
+    },
+    {
+      "materialId": {
+        "$oid": "6739ed2513ab31dfbe1e233d"
+      },
+      "quantity": 5
+    },
+    {
+      "materialId": {
+        "$oid": "6739b72e13ab31dfbe1e1557"
+      },
+      "quantity": 400
+    },
+    {
+      "materialId": {
+        "$oid": "6739a02e13ab31dfbe1e138e"
+      },
+      "quantity": 60
+    },
+    {
+      "materialId": {
+        "$oid": "6739f77313ab31dfbe1e377c"
+      },
+      "quantity": 100
+    },
+    {
+      "materialId": {
+        "$oid": "6739ab0113ab31dfbe1e13c3"
+      },
+      "quantity": 100
+    },
+    {
+      "materialId": {
+        "$oid": "673cb034b5a55c1d3061c076"
+      },
+      "quantity": 100
+    },
+    {
+      "materialId": {
+        "$oid": "6739ab0c13ab31dfbe1e13ca"
+      },
+      "quantity": 50
+    },
+    {
+      "materialId": {
+        "$oid": "6739ab1313ab31dfbe1e13d1"
+      },
+      "quantity": 100
+    },
+    {
+      "materialId": {
+        "$oid": "673a39f813ab31dfbe1e9c3a"
+      },
+      "quantity": 50
+    },
+    {
+      "materialId": {
+        "$oid": "6739f31313ab31dfbe1e2c74"
+      },
+      "quantity": 50
+    },
+    {
+      "materialId": {
+        "$oid": "673cd84ebd3e3d3e08c3fc5b"
+      },
+      "quantity": 50
+    }
+  ],
+  "recipeInstructions": [
+    {
+      "step": 1,
+      "value": "- Làm cốt bánh bông lan:\nChuẩn bị:\nLàm nóng lò ở 170°C.\nLót giấy nến vào đáy khuôn."
+    },
+    {
+      "step": 2,
+      "value": "- Đánh trứng và đường:\nĐánh bông trứng với đường đến khi hỗn hợp chuyển màu vàng nhạt và bông mịn."
+    },
+    {
+      "step": 3,
+      "value": "- Trộn bột:\nRây bột mì, bột nở và muối.\nTừ từ trộn bột vào hỗn hợp trứng, khuấy nhẹ tay để giữ độ bông."
+    },
+    {
+      "step": 4,
+      "value": "- Thêm nước:\nTrộn bơ đã làm mềm, sữa tươi và vani vào hỗn hợp bột."
+    },
+    {
+      "step": 5,
+      "value": "- Nướng bánh:\nĐổ bột vào khuôn, nướng trong 35-40 phút.\nKiểm tra bánh chín bằng cách xiên tăm, nếu rút ra tăm khô là bánh đã chín."
+    },
+    {
+      "step": 6,
+      "value": "- Chuẩn bị kem tươi:\nĐánh bông kem tươi với đường bột đến khi đạt độ cứng vừa phải."
+    }
+  ],
+  "recipeServings": 5,
+  "cookTime": 60,
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "recipeVariants": [],
+  "createdAt": {
+    "$date": "2024-11-19T18:26:03.395Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T20:36:24.911Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6740bd9f7c97727848cd3f2c"
+  },
+  "recipeName": "Công thức làm bánh sandwich",
+  "recipeDescription": "Bột mì đa dụng: 300g\nSữa tươi không đường (hơi ấm): 200ml\nĐường trắng: 25g\nBột nở: 5g\nMuối: 3g\nBơ nhạt (để mềm ở nhiệt độ phòng): 20g\nTrứng gà: 1 quả\nTinh chất vani: 1",
+  "recipeIngredients": [
+    {
+      "materialId": {
+        "$oid": "673995f513ab31dfbe1e12d2"
+      },
+      "quantity": 300
+    },
+    {
+      "materialId": {
+        "$oid": "6739964513ab31dfbe1e12ef"
+      },
+      "quantity": 130
+    },
+    {
+      "materialId": {
+        "$oid": "673998fa13ab31dfbe1e12fd"
+      },
+      "quantity": 1
+    },
+    {
+      "materialId": {
+        "$oid": "67399cdd13ab31dfbe1e133e"
+      },
+      "quantity": 20
+    },
+    {
+      "materialId": {
+        "$oid": "6739ed2513ab31dfbe1e233d"
+      },
+      "quantity": 1
+    },
+    {
+      "materialId": {
+        "$oid": "67399fe513ab31dfbe1e1383"
+      },
+      "quantity": 25
+    },
+    {
+      "materialId": {
+        "$oid": "67399ce913ab31dfbe1e1345"
+      },
+      "quantity": 25
+    },
+    {
+      "materialId": {
+        "$oid": "6739990c13ab31dfbe1e130b"
+      },
+      "quantity": 200
+    }
+  ],
+  "recipeInstructions": [
+    {
+      "step": 1,
+      "value": "Trong một tô lớn, trộn bột mì, men nở, đường và muối (tránh để muối tiếp xúc trực tiếp với men).\nTạo một lỗ nhỏ giữa hỗn hợp bột, cho trứng gà và sữa tươi vào từ từ.\nNhào bột đến khi bột kết thành khối dẻo mịn, không dính tay.."
+    },
+    {
+      "step": 2,
+      "value": "Thêm bơ nhạt vào bột và tiếp tục nhào đến khi bơ hòa quyện hoàn toàn vào bột, khối bột trở nên mịn và đàn hồi.\nKiểm tra bột bằng cách kéo một màng mỏng (windowpane test)."
+    },
+    {
+      "step": 3,
+      "value": "Ủ bột:\nĐặt bột vào tô lớn, đậy kín bằng khăn ẩm hoặc màng bọc thực phẩm.\nỦ bột ở nơi ấm áp trong khoảng 1-1.5 giờ, hoặc đến khi bột nở gấp đôi."
+    },
+    {
+      "step": 4,
+      "value": "Tạo hình bánh:\nLấy bột ra khỏi tô, nhào nhẹ để loại bỏ bọt khí.\nCán bột thành hình chữ nhật với độ dày đều, sau đó cuộn lại thành khối dài.\nĐặt bột vào khuôn bánh sandwich đã được chống dính (bằng bơ hoặc giấy nướng)."
+    },
+    {
+      "step": 5,
+      "value": " Ủ lần hai:\nỦ bột lần hai trong khuôn khoảng 40-60 phút, hoặc đến khi bột nở gần gấp đôi và chạm mép khuôn."
+    },
+    {
+      "step": 6,
+      "value": "Nướng bánh:\nLàm nóng lò ở nhiệt độ 180°C (lửa trên và dưới).\nNướng bánh trong khoảng 25-30 phút, đến khi mặt bánh vàng đều và có mùi thơm."
+    },
+    {
+      "step": 7,
+      "value": " Hoàn thiện:\nSau khi nướng xong, lấy bánh ra khỏi khuôn và để nguội trên rack.\nCắt bánh thành lát và thưởng thức."
+    }
+  ],
+  "recipeVariants": [],
+  "recipeServings": 2,
+  "cookTime": 30,
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-22T17:21:35.550Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T07:30:23.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6740c22d7c97727848cd636d"
+  },
+  "recipeName": "Công thức bánh mì",
+  "recipeDescription": "Bánh mì: 1 ổ\nTrứng gà: 2 quả\nĐường bột: 20g\nMuối: 5g\nNước: 100ml\nDưa leo: 2 quả\nChả lụa: 50g\nNgò rí: 15g\nCủ cải muối: 10g\nCà rốt muối: 10g\nTương ớt: 10g\nỚt tươi thái lát: 5g",
+  "recipeIngredients": [
+    {
+      "materialId": {
+        "$oid": "673998fa13ab31dfbe1e12fd"
+      },
+      "quantity": 2
+    },
+    {
+      "materialId": {
+        "$oid": "6739a02e13ab31dfbe1e138e"
+      },
+      "quantity": 20
+    },
+    {
+      "materialId": {
+        "$oid": "67399ce913ab31dfbe1e1345"
+      },
+      "quantity": 5
+    },
+    {
+      "materialId": {
+        "$oid": "673d0418bd3e3d3e08c4a071"
+      },
+      "quantity": 2
+    },
+    {
+      "materialId": {
+        "$oid": "673cd84ebd3e3d3e08c3fc5b"
+      },
+      "quantity": 100
+    },
+    {
+      "materialId": {
+        "$oid": "673d0a5ebd3e3d3e08c4a6ba"
+      },
+      "quantity": 2
+    },
+    {
+      "materialId": {
+        "$oid": "673d09aabd3e3d3e08c4a6a8"
+      },
+      "quantity": 15
+    },
+    {
+      "materialId": {
+        "$oid": "673d04b9bd3e3d3e08c4a382"
+      },
+      "quantity": 5
+    },
+    {
+      "materialId": {
+        "$oid": "673d09e9bd3e3d3e08c4a6ae"
+      },
+      "quantity": 50
+    },
+    {
+      "materialId": {
+        "$oid": "673d0969bd3e3d3e08c4a3a8"
+      },
+      "quantity": 10
+    },
+    {
+      "materialId": {
+        "$oid": "673d0962bd3e3d3e08c4a3a2"
+      },
+      "quantity": 10
+    }
+  ],
+  "recipeInstructions": [
+    {
+      "step": 1,
+      "value": "Chuẩn bị rau củ ngâm chua:\nBào sợi cà rốt và củ cải trắng.\nTrộn 2 muỗng canh giấm, 1 muỗng canh đường, và 1/4 muỗng cà phê muối vào 50ml nước ấm.\nNgâm cà rốt và củ cải trong hỗn hợp trên khoảng 30 phút. Sau đó vớt ra để ráo."
+    },
+    {
+      "step": 2,
+      "value": "Chế biến thịt:\nƯớp thịt với nước mắm, dầu hào, mật ong, tiêu, ngũ vị hương và tỏi băm. Để khoảng 20–30 phút cho thấm gia vị.\nLàm nóng chảo, cho một chút dầu ăn. Xào thịt trên lửa vừa đến khi thịt chín vàng, thơm."
+    },
+    {
+      "step": 3,
+      "value": " Làm nước sốt:\nTrộn mayonnaise và tương ớt (hoặc sốt cà chua) với nhau để tạo sốt phết cho bánh mì."
+    },
+    {
+      "step": 4,
+      "value": "Lắp ráp bánh mì:\nRạch ổ bánh mì dọc theo chiều dài.\nPhết nước sốt đều hai mặt bên trong ổ bánh.\nXếp thịt xào, dưa leo, rau củ ngâm chua, và rau mùi vào ổ bánh.\nThêm ớt tươi hoặc tương ớt nếu thích cay."
+    }
+  ],
+  "recipeServings": 2,
+  "cookTime": 20,
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "recipeVariants": [],
+  "createdAt": {
+    "$date": "2024-11-22T17:41:01.969Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T16:08:41.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674eb2408965e0fc37bdd2d3"
+  },
+  "recipeName": "Công thức làm bánh mì 2",
+  "recipeDescription": "Phần bánh mì:\nBột mì đa dụng: 500g\nNước : 300ml\nĐường trắng: 20g\nBột nở: 50g\nMuối: 5g\nDầu ăn: 20ml\nPhần nhân thịt:\nThịt heo: 300g\nHành tím băm: 1 củ\nTỏi băm: 3 củ\nNước mắm: 20ml\nĐường  bột: 30g\nTiêu: 20g\nDầu ăn: 20ml\nPhần rau và phụ liệu:\nDưa leo: 1 quả (thái lát mỏng)\nCà rốt: 1 củ (bào sợi, ngâm giấm đường)\nRau ngò: 5g\nTương ớt và mayonnaise: 10g",
+  "recipeIngredients": [
+    {
+      "materialId": {
+        "$oid": "673995f513ab31dfbe1e12d2"
+      },
+      "quantity": 500
+    },
+    {
+      "materialId": {
+        "$oid": "673cd84ebd3e3d3e08c3fc5b"
+      },
+      "quantity": 300
+    },
+    {
+      "materialId": {
+        "$oid": "67399fe513ab31dfbe1e1383"
+      },
+      "quantity": 20
+    },
+    {
+      "materialId": {
+        "$oid": "6739964513ab31dfbe1e12ef"
+      },
+      "quantity": 50
+    },
+    {
+      "materialId": {
+        "$oid": "67399ce913ab31dfbe1e1345"
+      },
+      "quantity": 5
+    },
+    {
+      "materialId": {
+        "$oid": "6739bd9a13ab31dfbe1e164d"
+      },
+      "quantity": 20
+    },
+    {
+      "materialId": {
+        "$oid": "674d899f349340624f1075c6"
+      },
+      "quantity": 1
+    },
+    {
+      "materialId": {
+        "$oid": "674d8999349340624f1075c0"
+      },
+      "quantity": 3
+    },
+    {
+      "materialId": {
+        "$oid": "673d09aabd3e3d3e08c4a6a8"
+      },
+      "quantity": 5
+    },
+    {
+      "materialId": {
+        "$oid": "673d0565bd3e3d3e08c4a38e"
+      },
+      "quantity": 10
+    },
+    {
+      "materialId": {
+        "$oid": "673d055fbd3e3d3e08c4a388"
+      },
+      "quantity": 10
+    },
+    {
+      "materialId": {
+        "$oid": "674eb25a8965e0fc37bdd55d"
+      },
+      "quantity": 300
+    },
+    {
+      "materialId": {
+        "$oid": "674eb2558965e0fc37bdd557"
+      },
+      "quantity": 20
+    }
+  ],
+  "recipeInstructions": [
+    {
+      "step": 1,
+      "value": "Trộn bột mì, đường, bột nở và muối trong một tô lớn."
+    },
+    {
+      "step": 2,
+      "value": "Từ từ cho nước ấm vào, nhào bột đến khi mịn và không dính tay. Thêm dầu ăn và nhào tiếp khoảng 10 phút."
+    },
+    {
+      "step": 3,
+      "value": "Ủ bột trong tô đậy kín, để nơi ấm trong 1-1.5 giờ hoặc đến khi bột nở gấp đôi."
+    },
+    {
+      "step": 4,
+      "value": "Sau khi bột nở, chia bột thành các phần nhỏ, tạo hình bánh mì (hình thuôn dài)."
+    },
+    {
+      "step": 5,
+      "value": "Đặt bánh lên khay nướng, ủ thêm 20 phút."
+    },
+    {
+      "step": 6,
+      "value": "Dùng dao rạch nhẹ trên mặt bánh, xịt một ít nước để bánh không khô."
+    },
+    {
+      "step": 7,
+      "value": "Nướng bánh ở 200°C trong 20-25 phút đến khi vỏ bánh vàng đều."
+    }
+  ],
+  "recipeVariants": [
+    {
+      "variantLabel": "Thịt nướng",
+      "variantItems": [
+        {
+          "itemLabel": "Heo nướng",
+          "materialId": {
+            "$oid": "674d83b8349340624f10731a"
+          },
+          "quantity": 20,
+          "_id": {
+            "$oid": "674eb2408965e0fc37bdd2d5"
+          }
+        },
+        {
+          "itemLabel": "Bò nướng",
+          "materialId": {
+            "$oid": "674d83c1349340624f107320"
+          },
+          "quantity": 20,
+          "_id": {
+            "$oid": "674eb2408965e0fc37bdd2d6"
+          }
+        },
+        {
+          "itemLabel": "Gà nướng",
+          "materialId": {
+            "$oid": "674d83c9349340624f107326"
+          },
+          "quantity": 20,
+          "_id": {
+            "$oid": "674eb2408965e0fc37bdd2d7"
+          }
+        },
+        {
+          "itemLabel": "Heo nướng sả",
+          "materialId": {
+            "$oid": "674d8463349340624f10732c"
+          },
+          "quantity": 20,
+          "_id": {
+            "$oid": "674eb2408965e0fc37bdd2d8"
+          }
+        },
+        {
+          "itemLabel": "Bò nướng sả",
+          "materialId": {
+            "$oid": "674d846e349340624f107332"
+          },
+          "quantity": 20,
+          "_id": {
+            "$oid": "674eb2408965e0fc37bdd2d9"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674eb2408965e0fc37bdd2d4"
+      }
+    },
+    {
+      "variantLabel": "Nhân thịt đặc biệt",
+      "variantItems": [
+        {
+          "itemLabel": "Heo xông khói",
+          "materialId": {
+            "$oid": "674d847e349340624f107338"
+          },
+          "quantity": 12,
+          "_id": {
+            "$oid": "674eb2408965e0fc37bdd2db"
+          }
+        },
+        {
+          "itemLabel": "Bò hầm",
+          "materialId": {
+            "$oid": "674d8484349340624f10733e"
+          },
+          "quantity": 13,
+          "_id": {
+            "$oid": "674eb2408965e0fc37bdd2dc"
+          }
+        },
+        {
+          "itemLabel": "Gà nướng mật ong",
+          "materialId": {
+            "$oid": "674d848e349340624f107344"
+          },
+          "quantity": 14,
+          "_id": {
+            "$oid": "674eb2408965e0fc37bdd2dd"
+          }
+        },
+        {
+          "itemLabel": "Xíu mại",
+          "materialId": {
+            "$oid": "674d85c7349340624f10734a"
+          },
+          "quantity": 15,
+          "_id": {
+            "$oid": "674eb2408965e0fc37bdd2de"
+          }
+        },
+        {
+          "itemLabel": "Heo nướng BBQ",
+          "materialId": {
+            "$oid": "674d860b349340624f107350"
+          },
+          "quantity": 16,
+          "_id": {
+            "$oid": "674eb2408965e0fc37bdd2df"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674eb2408965e0fc37bdd2da"
+      }
+    },
+    {
+      "variantLabel": "Topping",
+      "variantItems": [
+        {
+          "itemLabel": "Dưa leo",
+          "materialId": {
+            "$oid": "673d0418bd3e3d3e08c4a071"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "674eb2408965e0fc37bdd2e1"
+          }
+        },
+        {
+          "itemLabel": "Cà chua",
+          "materialId": {
+            "$oid": "673d045dbd3e3d3e08c4a077"
+          },
+          "quantity": 12,
+          "_id": {
+            "$oid": "674eb2408965e0fc37bdd2e2"
+          }
+        },
+        {
+          "itemLabel": "Ngò rí",
+          "materialId": {
+            "$oid": "673d09aabd3e3d3e08c4a6a8"
+          },
+          "quantity": 15,
+          "_id": {
+            "$oid": "674eb2408965e0fc37bdd2e3"
+          }
+        },
+        {
+          "itemLabel": "Chả lụa",
+          "materialId": {
+            "$oid": "673d09e9bd3e3d3e08c4a6ae"
+          },
+          "quantity": 19,
+          "_id": {
+            "$oid": "674eb2408965e0fc37bdd2e4"
+          }
+        },
+        {
+          "itemLabel": "Pate gan",
+          "materialId": {
+            "$oid": "673d09f2bd3e3d3e08c4a6b4"
+          },
+          "quantity": 22,
+          "_id": {
+            "$oid": "674eb2408965e0fc37bdd2e5"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674eb2408965e0fc37bdd2e0"
+      }
+    },
+    {
+      "variantLabel": "Nhân thịt xào",
+      "variantItems": [
+        {
+          "itemLabel": "Bò xào hành tây",
+          "materialId": {
+            "$oid": "674d862a349340624f107356"
+          },
+          "quantity": 13,
+          "_id": {
+            "$oid": "674eb2408965e0fc37bdd2e7"
+          }
+        },
+        {
+          "itemLabel": "Heo xào sả ớt",
+          "materialId": {
+            "$oid": "674d8647349340624f10735c"
+          },
+          "quantity": 16,
+          "_id": {
+            "$oid": "674eb2408965e0fc37bdd2e8"
+          }
+        },
+        {
+          "itemLabel": "Gà xào tói",
+          "materialId": {
+            "$oid": "674d86f1349340624f107372"
+          },
+          "quantity": 19,
+          "_id": {
+            "$oid": "674eb2408965e0fc37bdd2e9"
+          }
+        },
+        {
+          "itemLabel": "Bò xào",
+          "materialId": {
+            "$oid": "674d86fc349340624f107378"
+          },
+          "quantity": 22,
+          "_id": {
+            "$oid": "674eb2408965e0fc37bdd2ea"
+          }
+        },
+        {
+          "itemLabel": "Heo xào tỏi",
+          "materialId": {
+            "$oid": "674d8708349340624f10737e"
+          },
+          "quantity": 25,
+          "_id": {
+            "$oid": "674eb2408965e0fc37bdd2eb"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674eb2408965e0fc37bdd2e6"
+      }
+    },
+    {
+      "variantLabel": "Nhân bánh",
+      "variantItems": [
+        {
+          "itemLabel": "Heo nướng tiêu",
+          "materialId": {
+            "$oid": "674d8716349340624f107384"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "674eb2408965e0fc37bdd2ed"
+          }
+        },
+        {
+          "itemLabel": "Bò nướng mật ong",
+          "materialId": {
+            "$oid": "674d8757349340624f10738a"
+          },
+          "quantity": 12,
+          "_id": {
+            "$oid": "674eb2408965e0fc37bdd2ee"
+          }
+        },
+        {
+          "itemLabel": "Gà nướng tỏi",
+          "materialId": {
+            "$oid": "674d8765349340624f107390"
+          },
+          "quantity": 14,
+          "_id": {
+            "$oid": "674eb2408965e0fc37bdd2ef"
+          }
+        },
+        {
+          "itemLabel": "Heo quay mắc mật",
+          "materialId": {
+            "$oid": "674d876b349340624f107396"
+          },
+          "quantity": 16,
+          "_id": {
+            "$oid": "674eb2408965e0fc37bdd2f0"
+          }
+        },
+        {
+          "itemLabel": "Bò hầm rượu vang",
+          "materialId": {
+            "$oid": "674d8776349340624f10739c"
+          },
+          "quantity": 18,
+          "_id": {
+            "$oid": "674eb2408965e0fc37bdd2f1"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674eb2408965e0fc37bdd2ec"
+      }
+    }
+  ],
+  "recipeServings": 2,
+  "cookTime": 20,
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-03T07:24:48.988Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T07:49:44.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674ebbeb8965e0fc37be0f35"
+  },
+  "recipeName": "Công thức bánh sandwich 2",
+  "recipeDescription": "Nguyên liệu:\nBột mì đa dụng\nSữa tươi không đường (hơi ấm): 200ml\nĐường trắng: 25g\nBột nở: 5g\nMuối: 3g\nBơ nhạt (để mềm ở nhiệt độ phòng): 20g\nTrứng gà: 1 quả\nDưa leo: 1 quả (thái lát mỏng)\nCà chua: 1 quả (thái lát mỏng)\nHành tây: 1 củ",
+  "recipeIngredients": [
+    {
+      "materialId": {
+        "$oid": "673995f513ab31dfbe1e12d2"
+      },
+      "quantity": 300
+    },
+    {
+      "materialId": {
+        "$oid": "6739990c13ab31dfbe1e130b"
+      },
+      "quantity": 200
+    },
+    {
+      "materialId": {
+        "$oid": "67399fe513ab31dfbe1e1383"
+      },
+      "quantity": 25
+    },
+    {
+      "materialId": {
+        "$oid": "6739964513ab31dfbe1e12ef"
+      },
+      "quantity": 5
+    },
+    {
+      "materialId": {
+        "$oid": "67399ce913ab31dfbe1e1345"
+      },
+      "quantity": 3
+    },
+    {
+      "materialId": {
+        "$oid": "67399cdd13ab31dfbe1e133e"
+      },
+      "quantity": 20
+    },
+    {
+      "materialId": {
+        "$oid": "673998fa13ab31dfbe1e12fd"
+      },
+      "quantity": 1
+    },
+    {
+      "materialId": {
+        "$oid": "673d0418bd3e3d3e08c4a071"
+      },
+      "quantity": 1
+    },
+    {
+      "materialId": {
+        "$oid": "673d045dbd3e3d3e08c4a077"
+      },
+      "quantity": 1
+    },
+    {
+      "materialId": {
+        "$oid": "673d04a3bd3e3d3e08c4a37c"
+      },
+      "quantity": 1
+    }
+  ],
+  "recipeInstructions": [
+    {
+      "step": 1,
+      "value": "Trộn bột: Trộn các nguyên liệu khô (bột mì, đường, men nở, muối) trong tô lớn. Thêm trứng gà và sữa tươi, nhào bột đến khi thành khối."
+    },
+    {
+      "step": 2,
+      "value": "Thêm bơ: Nhào bơ vào bột đến khi bột mịn, đàn hồi và không dính tay."
+    },
+    {
+      "step": 3,
+      "value": "Ủ bột: Ủ bột lần 1 trong khoảng 1-1.5 giờ, đến khi bột nở gấp đôi."
+    },
+    {
+      "step": 4,
+      "value": "Tạo hình: Cán bột thành hình chữ nhật, cuộn lại và đặt vào khuôn chống dính. Ủ lần 2 khoảng 40-60 phút."
+    },
+    {
+      "step": 5,
+      "value": "Nướng: Nướng ở 180°C trong 25-30 phút, lấy bánh ra để nguội."
+    }
+  ],
+  "recipeServings": 2,
+  "cookTime": 30,
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "recipeVariants": [],
+  "createdAt": {
+    "$date": "2024-12-03T08:06:03.744Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T08:29:43.261Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751d6bfd0a71e436709d063"
+  },
+  "recipeName": "Công thức bánh mì thịt đặc biệt",
+  "recipeDescription": "Nguyên liệu chính:\nBánh mì baguette: 1 ổ\nThịt heo: 200g \nRau xà lách: 10g\nSốt mayonnaise: 10g\nTương ớt: 10g\nDưa leo: 2\nGia vị ướp thịt:\n1 củ tỏi\n1 củ hành tím\n10ml nước mắm\n15g: đường\n5g tiêu\n10ml dầu ăn",
+  "recipeIngredients": [
+    {
+      "materialId": {
+        "$oid": "674eb25a8965e0fc37bdd55d"
+      },
+      "quantity": 200
+    },
+    {
+      "materialId": {
+        "$oid": "673d05a0bd3e3d3e08c4a394"
+      },
+      "quantity": 10
+    },
+    {
+      "materialId": {
+        "$oid": "673d055fbd3e3d3e08c4a388"
+      },
+      "quantity": 10
+    },
+    {
+      "materialId": {
+        "$oid": "673d0565bd3e3d3e08c4a38e"
+      },
+      "quantity": 10
+    },
+    {
+      "materialId": {
+        "$oid": "673d0418bd3e3d3e08c4a071"
+      },
+      "quantity": 2
+    },
+    {
+      "materialId": {
+        "$oid": "674d8999349340624f1075c0"
+      },
+      "quantity": 1
+    },
+    {
+      "materialId": {
+        "$oid": "674d899f349340624f1075c6"
+      },
+      "quantity": 1
+    },
+    {
+      "materialId": {
+        "$oid": "674eb2558965e0fc37bdd557"
+      },
+      "quantity": 10
+    },
+    {
+      "materialId": {
+        "$oid": "67399fe513ab31dfbe1e1383"
+      },
+      "quantity": 15
+    },
+    {
+      "materialId": {
+        "$oid": "674d89cb349340624f1075cc"
+      },
+      "quantity": 5
+    },
+    {
+      "materialId": {
+        "$oid": "6739bd9a13ab31dfbe1e164d"
+      },
+      "quantity": 10
+    },
+    {
+      "materialId": {
+        "$oid": "673d0a5ebd3e3d3e08c4a6ba"
+      },
+      "quantity": 1
+    }
+  ],
+  "recipeInstructions": [
+    {
+      "step": 1,
+      "value": "Ướp thịt:\n\nThịt (he, bò, gà) thái lát mỏng. Nếu dùng thịt heo ba chỉ, bạn có thể xắt lát mỏng hoặc để nguyên miếng rồi chế biến.\nTrộn đều thịt với tỏi băm, hành băm, nước mắm, đường, tiêu, dầu ăn và bột ngọt (nếu dùng).\nĐể thịt ngấm gia vị trong khoảng 15-20 phút."
+    },
+    {
+      "step": 2,
+      "value": "Chế biến thịt:\n\nBạn có thể nướng thịt trên bếp than hoặc trong lò nướng để tạo độ giòn cho miếng thịt (nếu dùng thịt ba chỉ).\nNếu dùng thịt nạc hoặc thịt bò, bạn có thể xào thịt trên chảo với một ít dầu ăn cho đến khi thịt chín đều.\nThịt gà có thể nướng hoặc chiên."
+    },
+    {
+      "step": 3,
+      "value": "Chuẩn bị rau và gia vị:\n\nRau sống như xà lách, ngò rí, rau mùi, và dưa leo rửa sạch, cắt thành lát mỏng.\nNếu dùng dưa chua (cà rốt, củ cải ngâm), chuẩn bị sẵn."
+    },
+    {
+      "step": 4,
+      "value": "Lắp ráp bánh mì:\n\nCắt bánh mì thành 2 nửa theo chiều dọc.\nXếp rau sống vào một bên bánh mì.\nĐặt thịt đã chế biến lên trên rau sống.\nRưới sốt mayonnaise, tương ớt hoặc tương đen lên trên.\nThêm dưa chua và một ít tiêu hoặc gia vị tùy ý."
+    },
+    {
+      "step": 5,
+      "value": "Hoàn thiện:\n\nĐóng lại bánh mì và thưởng thức.\n"
+    }
+  ],
+  "recipeServings": 2,
+  "cookTime": 20,
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "recipeVariants": [
+    {
+      "variantLabel": "Thịt nguội",
+      "variantItems": [
+        {
+          "itemLabel": "Heo xông khói",
+          "materialId": {
+            "$oid": "674d847e349340624f107338"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "6751e039d0a71e436709d79e"
+          }
+        },
+        {
+          "itemLabel": "Bò",
+          "materialId": {
+            "$oid": "6751d6e0d0a71e436709d291"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "6751e039d0a71e436709d79f"
+          }
+        },
+        {
+          "itemLabel": "Gà",
+          "materialId": {
+            "$oid": "6751d6ebd0a71e436709d29d"
+          },
+          "quantity": 12,
+          "_id": {
+            "$oid": "6751e039d0a71e436709d7a0"
+          }
+        },
+        {
+          "itemLabel": "Heo tiêu đen",
+          "materialId": {
+            "$oid": "6751d6fcd0a71e436709d2a3"
+          },
+          "quantity": 14,
+          "_id": {
+            "$oid": "6751e039d0a71e436709d7a1"
+          }
+        },
+        {
+          "itemLabel": "Heo",
+          "materialId": {
+            "$oid": "6751d6e6d0a71e436709d297"
+          },
+          "quantity": 16,
+          "_id": {
+            "$oid": "6751e039d0a71e436709d7a2"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6751e039d0a71e436709d79d"
+      }
+    },
+    {
+      "variantLabel": "Thịt",
+      "variantItems": [
+        {
+          "itemLabel": "Heo xào hành tây",
+          "materialId": {
+            "$oid": "6751d804d0a71e436709d2a9"
+          },
+          "quantity": 5,
+          "_id": {
+            "$oid": "6751e039d0a71e436709d7a4"
+          }
+        },
+        {
+          "itemLabel": "Bò xào cần tây",
+          "materialId": {
+            "$oid": "6751d80dd0a71e436709d2af"
+          },
+          "quantity": 6,
+          "_id": {
+            "$oid": "6751e039d0a71e436709d7a5"
+          }
+        },
+        {
+          "itemLabel": "Gà xào nấm",
+          "materialId": {
+            "$oid": "6751d818d0a71e436709d2b9"
+          },
+          "quantity": 7,
+          "_id": {
+            "$oid": "6751e039d0a71e436709d7a6"
+          }
+        },
+        {
+          "itemLabel": "Heo xào tỏi",
+          "materialId": {
+            "$oid": "674d8708349340624f10737e"
+          },
+          "quantity": 8,
+          "_id": {
+            "$oid": "6751e039d0a71e436709d7a7"
+          }
+        },
+        {
+          "itemLabel": "Bò xào sả ớt",
+          "materialId": {
+            "$oid": "6751d829d0a71e436709d2c3"
+          },
+          "quantity": 9,
+          "_id": {
+            "$oid": "6751e039d0a71e436709d7a8"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6751e039d0a71e436709d7a3"
+      }
+    },
+    {
+      "variantLabel": "Thịt nướng",
+      "variantItems": [
+        {
+          "itemLabel": "Heo nướng sả",
+          "materialId": {
+            "$oid": "674d8463349340624f10732c"
+          },
+          "quantity": 10,
+          "_id": {
+            "$oid": "6751e039d0a71e436709d7aa"
+          }
+        },
+        {
+          "itemLabel": "Bò nướng mật ong",
+          "materialId": {
+            "$oid": "674d8757349340624f10738a"
+          },
+          "quantity": 12,
+          "_id": {
+            "$oid": "6751e039d0a71e436709d7ab"
+          }
+        },
+        {
+          "itemLabel": "Gà nướng sả",
+          "materialId": {
+            "$oid": "6751d83dd0a71e436709d2c9"
+          },
+          "quantity": 14,
+          "_id": {
+            "$oid": "6751e039d0a71e436709d7ac"
+          }
+        },
+        {
+          "itemLabel": "Heo nướng BBQ",
+          "materialId": {
+            "$oid": "674d860b349340624f107350"
+          },
+          "quantity": 16,
+          "_id": {
+            "$oid": "6751e039d0a71e436709d7ad"
+          }
+        },
+        {
+          "itemLabel": "Bò nướng tiêu",
+          "materialId": {
+            "$oid": "6751d87dd0a71e436709d2ff"
+          },
+          "quantity": 18,
+          "_id": {
+            "$oid": "6751e039d0a71e436709d7ae"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6751e039d0a71e436709d7a9"
+      }
+    },
+    {
+      "variantLabel": "Thịt kẹp sốt đặc biệt",
+      "variantItems": [
+        {
+          "itemLabel": "Heo sốt BBQ",
+          "materialId": {
+            "$oid": "6751d8fcd0a71e436709d305"
+          },
+          "quantity": 15,
+          "_id": {
+            "$oid": "6751e039d0a71e436709d7b0"
+          }
+        },
+        {
+          "itemLabel": "Bò nướng tiêu xanh",
+          "materialId": {
+            "$oid": "6751d909d0a71e436709d30b"
+          },
+          "quantity": 15,
+          "_id": {
+            "$oid": "6751e039d0a71e436709d7b1"
+          }
+        },
+        {
+          "itemLabel": "Gà kẹp",
+          "materialId": {
+            "$oid": "6751d91cd0a71e436709d319"
+          },
+          "quantity": 15,
+          "_id": {
+            "$oid": "6751e039d0a71e436709d7b2"
+          }
+        },
+        {
+          "itemLabel": "Heo kẹp sốt mật ong",
+          "materialId": {
+            "$oid": "6751d924d0a71e436709d31f"
+          },
+          "quantity": 15,
+          "_id": {
+            "$oid": "6751e039d0a71e436709d7b3"
+          }
+        },
+        {
+          "itemLabel": "Bò kẹp sốt phô mai",
+          "materialId": {
+            "$oid": "6751da32d0a71e436709d325"
+          },
+          "quantity": 15,
+          "_id": {
+            "$oid": "6751e039d0a71e436709d7b4"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6751e039d0a71e436709d7af"
+      }
+    },
+    {
+      "variantLabel": "Thịt nướng tẩm gia vị",
+      "variantItems": [
+        {
+          "itemLabel": "Heo tẩm mật ong",
+          "materialId": {
+            "$oid": "6751da3ad0a71e436709d32b"
+          },
+          "quantity": 20,
+          "_id": {
+            "$oid": "6751e039d0a71e436709d7b6"
+          }
+        },
+        {
+          "itemLabel": "Bò tẩm mật ong",
+          "materialId": {
+            "$oid": "6751da43d0a71e436709d331"
+          },
+          "quantity": 20,
+          "_id": {
+            "$oid": "6751e039d0a71e436709d7b7"
+          }
+        },
+        {
+          "itemLabel": "Gà tắm chanh",
+          "materialId": {
+            "$oid": "6751db48d0a71e436709d33b"
+          },
+          "quantity": 20,
+          "_id": {
+            "$oid": "6751e039d0a71e436709d7b8"
+          }
+        },
+        {
+          "itemLabel": "Heo nướng mọi",
+          "materialId": {
+            "$oid": "6751db5dd0a71e436709d341"
+          },
+          "quantity": 20,
+          "_id": {
+            "$oid": "6751e039d0a71e436709d7b9"
+          }
+        },
+        {
+          "itemLabel": "Heo quay mắc mật",
+          "materialId": {
+            "$oid": "674d876b349340624f107396"
+          },
+          "quantity": 20,
+          "_id": {
+            "$oid": "6751e039d0a71e436709d7ba"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6751e039d0a71e436709d7b5"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-05T16:37:19.090Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T17:25:45.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751e3bfd0a71e43670a028f"
+  },
+  "recipeName": "Công thức làm bánh cupcake",
+  "recipeDescription": "Nguyên Liệu:\nBột mì đa dụng: 120g\nBột nở: 50g\nĐường trắng: 100g\nTrứng gà: 3 quả\nSữa tươi không đường: 30ml\nDầu ăn: 30ml\nVani: 10ml\nMuối: 5g",
+  "recipeIngredients": [
+    {
+      "materialId": {
+        "$oid": "673995f513ab31dfbe1e12d2"
+      },
+      "quantity": 120
+    },
+    {
+      "materialId": {
+        "$oid": "6739964513ab31dfbe1e12ef"
+      },
+      "quantity": 50
+    },
+    {
+      "materialId": {
+        "$oid": "67399fe513ab31dfbe1e1383"
+      },
+      "quantity": 100
+    },
+    {
+      "materialId": {
+        "$oid": "673998fa13ab31dfbe1e12fd"
+      },
+      "quantity": 3
+    },
+    {
+      "materialId": {
+        "$oid": "6739990c13ab31dfbe1e130b"
+      },
+      "quantity": 30
+    },
+    {
+      "materialId": {
+        "$oid": "6739bd9a13ab31dfbe1e164d"
+      },
+      "quantity": 30
+    },
+    {
+      "materialId": {
+        "$oid": "6739ed2513ab31dfbe1e233d"
+      },
+      "quantity": 10
+    },
+    {
+      "materialId": {
+        "$oid": "67399ce913ab31dfbe1e1345"
+      },
+      "quantity": 5
+    }
+  ],
+  "recipeInstructions": [
+    {
+      "step": 1,
+      "value": "Chuẩn Bị Nguyên Liệu\nLàm nóng lò nướng: Trước khi bắt đầu, hãy làm nóng lò nướng ở nhiệt độ 170°C (340°F) trong khoảng 10 phút để lò có nhiệt độ ổn định.\nLót khuôn cupcake: Dùng giấy lót khuôn cupcake hoặc bôi một lớp dầu ăn mỏng vào khuôn cupcake."
+    },
+    {
+      "step": 2,
+      "value": "Trộn Các Nguyên Liệu Khô\nTrong một tô lớn, rây bột mì đa dụng và bột bắp vào chung một tô.\nThêm muối và đường vào tô bột, khuấy đều để các thành phần khô hòa quyện với nhau."
+    },
+    {
+      "step": 3,
+      "value": " Trộn Các Nguyên Liệu Ướt\nTrong một tô khác, đánh trứng bằng máy đánh trứng hoặc phới lồng cho đến khi trứng bông lên và có màu sáng.\nTiếp theo, thêm sữa tươi, dầu ăn và vani vào tô trứng, đánh đều."
+    },
+    {
+      "step": 4,
+      "value": " Kết Hợp Các Nguyên Liệu\nChia phần bột khô thành 2-3 phần nhỏ, sau đó từ từ cho bột vào tô hỗn hợp trứng, sữa, dầu, và vani.\nDùng phới lồng hoặc máy đánh trứng ở tốc độ thấp để trộn đều. Lưu ý không khuấy quá lâu, chỉ trộn đủ để các nguyên liệu hòa quyện lại với nhau."
+    },
+    {
+      "step": 5,
+      "value": "Nướng Bánh\nĐổ hỗn hợp bột vào khuôn cupcake sao cho mỗi khuôn đầy khoảng 2/3.\nĐặt khuôn vào lò nướng đã được làm nóng trước đó. Nướng trong khoảng 18-20 phút hoặc cho đến khi bánh chín (thử bằng cách cắm một chiếc tăm vào giữa bánh, nếu rút ra tăm sạch thì bánh đã chín).\nSau khi bánh chín, lấy khuôn ra khỏi lò và để bánh nguội trong khuôn khoảng 5 phút. Sau đó, lấy bánh ra ngoài và để nguội hoàn toàn trên giá."
+    },
+    {
+      "step": 6,
+      "value": "Thưởng Thức\nKhi bánh nguội, bạn có thể trang trí bánh cupcake với kem bơ, chocolate, hoặc trái cây tùy theo sở thích."
+    }
+  ],
+  "recipeServings": 2,
+  "cookTime": 60,
+  "creatorId": "ANB-NS",
+  "isDeleted": false,
+  "recipeVariants": [],
+  "createdAt": {
+    "$date": "2024-12-05T17:32:47.747Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T17:32:47.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6759bf2570ec1f07a00a0ac4"
+  },
+  "recipeName": "CÔNG THỨC BÁNH DEMO",
+  "recipeDescription": "MO TẢ DEMO",
+  "recipeIngredients": [
+    {
+      "materialId": {
+        "$oid": "6759be0570ec1f07a00a0850"
+      },
+      "quantity": 100
+    },
+    {
+      "materialId": {
+        "$oid": "6759be1c70ec1f07a00a0856"
+      },
+      "quantity": 100
+    },
+    {
+      "materialId": {
+        "$oid": "6751da43d0a71e436709d331"
+      },
+      "quantity": 100
+    }
+  ],
+  "recipeInstructions": [
+    {
+      "step": 1,
+      "value": "BƯỚC 1 LÀM BÁNH"
+    },
+    {
+      "step": 2,
+      "value": "BƯỚC 2 ..."
+    }
+  ],
+  "recipeVariants": [
+    {
+      "variantLabel": "BIẾN THỂ DEMO",
+      "variantItems": [
+        {
+          "itemLabel": "TÊN BIẾN THỂ DEMO",
+          "materialId": {
+            "$oid": "6759be0570ec1f07a00a0850"
+          },
+          "quantity": 100,
+          "_id": {
+            "$oid": "6759bf2570ec1f07a00a0ac6"
+          }
+        },
+        {
+          "itemLabel": "TÊN BIẾN THỂ DEMO 2",
+          "materialId": {
+            "$oid": "6759be1c70ec1f07a00a0856"
+          },
+          "quantity": 100,
+          "_id": {
+            "$oid": "6759bf2570ec1f07a00a0ac7"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6759bf2570ec1f07a00a0ac5"
+      }
+    }
+  ],
+  "recipeServings": 2,
+  "cookTime": 30,
+  "creatorId": "ANB-FE",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-12-11T16:34:45.210Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-11T16:34:45.210Z"
+  },
+  "__v": 0
+}]

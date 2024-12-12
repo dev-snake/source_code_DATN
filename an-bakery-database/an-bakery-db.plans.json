@@ -1,0 +1,981 @@
+[{
+  "_id": {
+    "$oid": "6735c1d57c30bb273d70a855"
+  },
+  "branchId": {
+    "$oid": "6731a435048b7632fdd89415"
+  },
+  "orderId": [
+    {
+      "$oid": "673618f31e111a6e674a8d54"
+    },
+    {
+      "$oid": "6736d83f8e4266c6ca050c3b"
+    }
+  ],
+  "planName": "lm banh",
+  "planDescription": "f",
+  "planType": "day",
+  "planStatus": "completed",
+  "planActivated": {
+    "startDate": {
+      "$date": "2024-11-14T09:24:29.762Z"
+    },
+    "endDate": {
+      "$date": "2024-11-15T09:24:29.762Z"
+    }
+  },
+  "creatorId": "ANB-DVH2",
+  "planDetails": [
+    {
+      "cakeId": {
+        "$oid": "673210f0cd2d4189e12a3afe"
+      },
+      "selectedVariants": [],
+      "orderCount": 1,
+      "orderAmount": 1,
+      "currentInventory": 0,
+      "plannedProduction": 1,
+      "totalMaterials": [
+        {
+          "materialId": {
+            "$oid": "672f19358d2702050209b3da"
+          },
+          "quantity": 150
+        },
+        {
+          "materialId": {
+            "$oid": "672f1d3f8d2702050209b438"
+          },
+          "quantity": 150
+        },
+        {
+          "materialId": {
+            "$oid": "672f1edb8d2702050209b46c"
+          },
+          "quantity": 200
+        },
+        {
+          "materialId": {
+            "$oid": "672f19f88d2702050209b3e8"
+          },
+          "quantity": 160
+        },
+        {
+          "materialId": {
+            "$oid": "672f1ebd8d2702050209b45b"
+          },
+          "quantity": 60
+        },
+        {
+          "materialId": {
+            "$oid": "672f1a188d2702050209b3ef"
+          },
+          "quantity": 5
+        },
+        {
+          "materialId": {
+            "$oid": "672f1ee18d2702050209b473"
+          },
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "cakeId": {
+        "$oid": "673210f0cd2d4189e12a3afe"
+      },
+      "selectedVariants": [
+        {
+          "variantKey": {
+            "$oid": "673431236a49b303fdb1902b"
+          },
+          "itemKey": {
+            "$oid": "673431236a49b303fdb1902c"
+          }
+        },
+        {
+          "variantKey": {
+            "$oid": "673431236a49b303fdb19029"
+          },
+          "itemKey": {
+            "$oid": "673431236a49b303fdb1902a"
+          }
+        }
+      ],
+      "orderCount": 1,
+      "orderAmount": 1,
+      "currentInventory": 0,
+      "plannedProduction": 1,
+      "totalMaterials": [
+        {
+          "materialId": {
+            "$oid": "672f19358d2702050209b3da"
+          },
+          "quantity": 150
+        },
+        {
+          "materialId": {
+            "$oid": "672f1d3f8d2702050209b438"
+          },
+          "quantity": 150
+        },
+        {
+          "materialId": {
+            "$oid": "672f1edb8d2702050209b46c"
+          },
+          "quantity": 200
+        },
+        {
+          "materialId": {
+            "$oid": "672f19f88d2702050209b3e8"
+          },
+          "quantity": 160
+        },
+        {
+          "materialId": {
+            "$oid": "672f1ebd8d2702050209b45b"
+          },
+          "quantity": 60
+        },
+        {
+          "materialId": {
+            "$oid": "672f1a188d2702050209b3ef"
+          },
+          "quantity": 5
+        },
+        {
+          "materialId": {
+            "$oid": "672f1ee18d2702050209b473"
+          },
+          "quantity": 1
+        },
+        {
+          "materialId": {
+            "$oid": "672f256a8d2702050209b5ce"
+          },
+          "quantity": 50
+        },
+        {
+          "materialId": {
+            "$oid": "672f25b98d2702050209b606"
+          },
+          "quantity": 50
+        }
+      ]
+    },
+    {
+      "cakeId": {
+        "$oid": "673210f0cd2d4189e12a3afe"
+      },
+      "selectedVariants": [
+        {
+          "variantKey": {
+            "$oid": "673431236a49b303fdb19029"
+          },
+          "itemKey": {
+            "$oid": "673431236a49b303fdb1902a"
+          }
+        }
+      ],
+      "orderCount": 1,
+      "orderAmount": 1,
+      "currentInventory": 0,
+      "plannedProduction": 1,
+      "totalMaterials": [
+        {
+          "materialId": {
+            "$oid": "672f19358d2702050209b3da"
+          },
+          "quantity": 150
+        },
+        {
+          "materialId": {
+            "$oid": "672f1d3f8d2702050209b438"
+          },
+          "quantity": 150
+        },
+        {
+          "materialId": {
+            "$oid": "672f1edb8d2702050209b46c"
+          },
+          "quantity": 200
+        },
+        {
+          "materialId": {
+            "$oid": "672f19f88d2702050209b3e8"
+          },
+          "quantity": 160
+        },
+        {
+          "materialId": {
+            "$oid": "672f1ebd8d2702050209b45b"
+          },
+          "quantity": 60
+        },
+        {
+          "materialId": {
+            "$oid": "672f1a188d2702050209b3ef"
+          },
+          "quantity": 5
+        },
+        {
+          "materialId": {
+            "$oid": "672f1ee18d2702050209b473"
+          },
+          "quantity": 1
+        },
+        {
+          "materialId": {
+            "$oid": "672f256a8d2702050209b5ce"
+          },
+          "quantity": 50
+        }
+      ]
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-11-14T09:24:37.979Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-15T05:24:13.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6736dc04a83f9479b4045bfe"
+  },
+  "branchId": {
+    "$oid": "6731a435048b7632fdd89415"
+  },
+  "orderId": [
+    {
+      "$oid": "6736dbe6a83f9479b4045b89"
+    }
+  ],
+  "planName": "lm banh 2",
+  "planDescription": "d",
+  "planType": "day",
+  "planStatus": "completed",
+  "planActivated": {
+    "startDate": {
+      "$date": "2024-11-15T05:28:27.982Z"
+    },
+    "endDate": {
+      "$date": "2024-11-16T05:28:27.982Z"
+    }
+  },
+  "creatorId": "ANB-DVH2",
+  "planDetails": [
+    {
+      "cakeId": {
+        "$oid": "673210f0cd2d4189e12a3afe"
+      },
+      "selectedVariants": [
+        {
+          "variantKey": {
+            "$oid": "673431236a49b303fdb19029"
+          },
+          "itemKey": {
+            "$oid": "673431236a49b303fdb1902a"
+          }
+        }
+      ],
+      "orderCount": 1,
+      "orderAmount": 1,
+      "currentInventory": 0,
+      "plannedProduction": 1,
+      "totalMaterials": [
+        {
+          "materialId": {
+            "$oid": "672f19358d2702050209b3da"
+          },
+          "quantity": 150
+        },
+        {
+          "materialId": {
+            "$oid": "672f1d3f8d2702050209b438"
+          },
+          "quantity": 150
+        },
+        {
+          "materialId": {
+            "$oid": "672f1edb8d2702050209b46c"
+          },
+          "quantity": 200
+        },
+        {
+          "materialId": {
+            "$oid": "672f19f88d2702050209b3e8"
+          },
+          "quantity": 160
+        },
+        {
+          "materialId": {
+            "$oid": "672f1ebd8d2702050209b45b"
+          },
+          "quantity": 60
+        },
+        {
+          "materialId": {
+            "$oid": "672f1a188d2702050209b3ef"
+          },
+          "quantity": 5
+        },
+        {
+          "materialId": {
+            "$oid": "672f1ee18d2702050209b473"
+          },
+          "quantity": 1
+        },
+        {
+          "materialId": {
+            "$oid": "672f256a8d2702050209b5ce"
+          },
+          "quantity": 50
+        }
+      ]
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-11-15T05:28:36.209Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-15T05:29:03.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674dd63188dfeab11bfe1639"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "orderId": [
+    {
+      "$oid": "674f162c110caf55f948076a"
+    }
+  ],
+  "planName": "test",
+  "planDescription": "test",
+  "planType": "day",
+  "planStatus": "closed",
+  "planActivated": {
+    "startDate": {
+      "$date": "2024-12-02T15:45:47.369Z"
+    },
+    "endDate": {
+      "$date": "2024-12-03T15:45:47.369Z"
+    }
+  },
+  "creatorId": "ANB-TEST",
+  "planDetails": [
+    {
+      "cakeId": {
+        "$oid": "6739f6bd13ab31dfbe1e3050"
+      },
+      "selectedVariants": [],
+      "orderCount": 1,
+      "orderAmount": 1,
+      "currentInventory": 0,
+      "plannedProduction": 1,
+      "totalMaterials": [
+        {
+          "materialId": {
+            "$oid": "673998fa13ab31dfbe1e12fd"
+          },
+          "quantity": 4
+        },
+        {
+          "materialId": {
+            "$oid": "67399fe513ab31dfbe1e1383"
+          },
+          "quantity": 90
+        },
+        {
+          "materialId": {
+            "$oid": "673995f513ab31dfbe1e12d2"
+          },
+          "quantity": 200
+        },
+        {
+          "materialId": {
+            "$oid": "6739964513ab31dfbe1e12ef"
+          },
+          "quantity": 20
+        },
+        {
+          "materialId": {
+            "$oid": "6739990313ab31dfbe1e1304"
+          },
+          "quantity": 50
+        },
+        {
+          "materialId": {
+            "$oid": "6739b41113ab31dfbe1e1534"
+          },
+          "quantity": 70
+        },
+        {
+          "materialId": {
+            "$oid": "6739b72e13ab31dfbe1e1557"
+          },
+          "quantity": 250
+        },
+        {
+          "materialId": {
+            "$oid": "67399ce913ab31dfbe1e1345"
+          },
+          "quantity": 5
+        }
+      ]
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-02T15:45:53.176Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T14:33:12.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f2224110caf55f948328c"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "orderId": [
+    {
+      "$oid": "674f2204110caf55f94830b5"
+    },
+    {
+      "$oid": "674f24fd110caf55f9483d70"
+    }
+  ],
+  "planName": "Làm bánh",
+  "planDescription": "Làm bánh",
+  "planType": "day",
+  "planStatus": "closed",
+  "planActivated": {
+    "startDate": {
+      "$date": "2024-12-03T15:21:59.246Z"
+    },
+    "endDate": {
+      "$date": "2024-12-04T15:21:59.246Z"
+    }
+  },
+  "creatorId": "ANB-TEST",
+  "planDetails": [
+    {
+      "cakeId": {
+        "$oid": "6739f6bd13ab31dfbe1e3050"
+      },
+      "selectedVariants": [],
+      "orderCount": 2,
+      "orderAmount": 2,
+      "currentInventory": 0,
+      "plannedProduction": 2,
+      "totalMaterials": [
+        {
+          "materialId": {
+            "$oid": "673998fa13ab31dfbe1e12fd"
+          },
+          "quantity": 8
+        },
+        {
+          "materialId": {
+            "$oid": "67399fe513ab31dfbe1e1383"
+          },
+          "quantity": 180
+        },
+        {
+          "materialId": {
+            "$oid": "673995f513ab31dfbe1e12d2"
+          },
+          "quantity": 400
+        },
+        {
+          "materialId": {
+            "$oid": "6739964513ab31dfbe1e12ef"
+          },
+          "quantity": 40
+        },
+        {
+          "materialId": {
+            "$oid": "6739990313ab31dfbe1e1304"
+          },
+          "quantity": 100
+        },
+        {
+          "materialId": {
+            "$oid": "6739b41113ab31dfbe1e1534"
+          },
+          "quantity": 140
+        },
+        {
+          "materialId": {
+            "$oid": "6739b72e13ab31dfbe1e1557"
+          },
+          "quantity": 500
+        },
+        {
+          "materialId": {
+            "$oid": "67399ce913ab31dfbe1e1345"
+          },
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-03T15:22:12.722Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T15:36:16.207Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f266d110caf55f9484940"
+  },
+  "branchId": {
+    "$oid": "6731a435048b7632fdd89415"
+  },
+  "orderId": [
+    {
+      "$oid": "674f264c110caf55f948480f"
+    }
+  ],
+  "planName": "Làm bánh sinh nhật",
+  "planDescription": "Làm bánh sinh nhật",
+  "planType": "day",
+  "planStatus": "completed",
+  "planActivated": {
+    "startDate": {
+      "$date": "2024-12-03T15:40:19.715Z"
+    },
+    "endDate": {
+      "$date": "2024-12-04T15:40:19.715Z"
+    }
+  },
+  "creatorId": "ANB-DVH2",
+  "planDetails": [
+    {
+      "cakeId": {
+        "$oid": "6739f6bd13ab31dfbe1e3050"
+      },
+      "selectedVariants": [],
+      "orderCount": 1,
+      "orderAmount": 1,
+      "currentInventory": 0,
+      "plannedProduction": 1,
+      "totalMaterials": [
+        {
+          "materialId": {
+            "$oid": "673998fa13ab31dfbe1e12fd"
+          },
+          "quantity": 4
+        },
+        {
+          "materialId": {
+            "$oid": "67399fe513ab31dfbe1e1383"
+          },
+          "quantity": 90
+        },
+        {
+          "materialId": {
+            "$oid": "673995f513ab31dfbe1e12d2"
+          },
+          "quantity": 200
+        },
+        {
+          "materialId": {
+            "$oid": "6739964513ab31dfbe1e12ef"
+          },
+          "quantity": 20
+        },
+        {
+          "materialId": {
+            "$oid": "6739990313ab31dfbe1e1304"
+          },
+          "quantity": 50
+        },
+        {
+          "materialId": {
+            "$oid": "6739b41113ab31dfbe1e1534"
+          },
+          "quantity": 70
+        },
+        {
+          "materialId": {
+            "$oid": "6739b72e13ab31dfbe1e1557"
+          },
+          "quantity": 250
+        },
+        {
+          "materialId": {
+            "$oid": "67399ce913ab31dfbe1e1345"
+          },
+          "quantity": 5
+        }
+      ]
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-03T15:40:29.336Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T15:41:57.266Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f2988110caf55f9485daf"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "orderId": [
+    {
+      "$oid": "674f2965110caf55f9485c35"
+    }
+  ],
+  "planName": "Làm bánh sinh nhật Vip",
+  "planDescription": "Làm bánh sinh nhật Vip",
+  "planType": "day",
+  "planStatus": "closed",
+  "planActivated": {
+    "startDate": {
+      "$date": "2024-12-03T15:53:33.212Z"
+    },
+    "endDate": {
+      "$date": "2024-12-04T15:53:33.212Z"
+    }
+  },
+  "creatorId": "ANB-TEST",
+  "planDetails": [
+    {
+      "cakeId": {
+        "$oid": "6739f6bd13ab31dfbe1e3050"
+      },
+      "selectedVariants": [],
+      "orderCount": 1,
+      "orderAmount": 1,
+      "currentInventory": 0,
+      "plannedProduction": 1,
+      "totalMaterials": [
+        {
+          "materialId": {
+            "$oid": "673998fa13ab31dfbe1e12fd"
+          },
+          "quantity": 4
+        },
+        {
+          "materialId": {
+            "$oid": "67399fe513ab31dfbe1e1383"
+          },
+          "quantity": 90
+        },
+        {
+          "materialId": {
+            "$oid": "673995f513ab31dfbe1e12d2"
+          },
+          "quantity": 200
+        },
+        {
+          "materialId": {
+            "$oid": "6739964513ab31dfbe1e12ef"
+          },
+          "quantity": 20
+        },
+        {
+          "materialId": {
+            "$oid": "6739990313ab31dfbe1e1304"
+          },
+          "quantity": 50
+        },
+        {
+          "materialId": {
+            "$oid": "6739b41113ab31dfbe1e1534"
+          },
+          "quantity": 70
+        },
+        {
+          "materialId": {
+            "$oid": "6739b72e13ab31dfbe1e1557"
+          },
+          "quantity": 250
+        },
+        {
+          "materialId": {
+            "$oid": "67399ce913ab31dfbe1e1345"
+          },
+          "quantity": 5
+        }
+      ]
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-03T15:53:44.213Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-04T13:33:02.647Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67505a36c66376633a4561d8"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "orderId": [
+    {
+      "$oid": "67505a48c66376633a456468"
+    }
+  ],
+  "planName": "Bánh kem",
+  "planDescription": "Bánh kem",
+  "planType": "day",
+  "planStatus": "closed",
+  "planActivated": {
+    "startDate": {
+      "$date": "2024-12-04T13:33:31.614Z"
+    },
+    "endDate": {
+      "$date": "2024-12-05T13:33:31.614Z"
+    }
+  },
+  "creatorId": "ANB-TEST",
+  "planDetails": [
+    {
+      "cakeId": {
+        "$oid": "6739f6bd13ab31dfbe1e3050"
+      },
+      "selectedVariants": [],
+      "orderCount": 1,
+      "orderAmount": 1,
+      "currentInventory": 0,
+      "plannedProduction": 1,
+      "totalMaterials": [
+        {
+          "materialId": {
+            "$oid": "673998fa13ab31dfbe1e12fd"
+          },
+          "quantity": 4
+        },
+        {
+          "materialId": {
+            "$oid": "67399fe513ab31dfbe1e1383"
+          },
+          "quantity": 90
+        },
+        {
+          "materialId": {
+            "$oid": "673995f513ab31dfbe1e12d2"
+          },
+          "quantity": 200
+        },
+        {
+          "materialId": {
+            "$oid": "6739964513ab31dfbe1e12ef"
+          },
+          "quantity": 20
+        },
+        {
+          "materialId": {
+            "$oid": "6739990313ab31dfbe1e1304"
+          },
+          "quantity": 50
+        },
+        {
+          "materialId": {
+            "$oid": "6739b41113ab31dfbe1e1534"
+          },
+          "quantity": 70
+        },
+        {
+          "materialId": {
+            "$oid": "6739b72e13ab31dfbe1e1557"
+          },
+          "quantity": 250
+        },
+        {
+          "materialId": {
+            "$oid": "67399ce913ab31dfbe1e1345"
+          },
+          "quantity": 5
+        }
+      ]
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-04T13:33:42.331Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-04T13:34:22.581Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67528548752cdfa28c6d8517"
+  },
+  "branchId": {
+    "$oid": "67312a2ab2eac3d249fd0b4e"
+  },
+  "orderId": [
+    {
+      "$oid": "675282f5752cdfa28c6d6c34"
+    }
+  ],
+  "planName": "Test",
+  "planDescription": "213",
+  "planType": "day",
+  "planStatus": "completed",
+  "planActivated": {
+    "startDate": {
+      "$date": "2024-12-06T05:01:49.716Z"
+    },
+    "endDate": {
+      "$date": "2024-12-07T05:01:49.716Z"
+    }
+  },
+  "creatorId": "ANB-HIEU",
+  "planDetails": [
+    {
+      "cakeId": {
+        "$oid": "6739f6bd13ab31dfbe1e3050"
+      },
+      "selectedVariants": [],
+      "orderCount": 1,
+      "orderAmount": 1,
+      "currentInventory": 0,
+      "plannedProduction": 1,
+      "totalMaterials": [
+        {
+          "materialId": {
+            "$oid": "673998fa13ab31dfbe1e12fd"
+          },
+          "quantity": 4
+        },
+        {
+          "materialId": {
+            "$oid": "67399fe513ab31dfbe1e1383"
+          },
+          "quantity": 90
+        },
+        {
+          "materialId": {
+            "$oid": "673995f513ab31dfbe1e12d2"
+          },
+          "quantity": 200
+        },
+        {
+          "materialId": {
+            "$oid": "6739964513ab31dfbe1e12ef"
+          },
+          "quantity": 20
+        },
+        {
+          "materialId": {
+            "$oid": "6739990313ab31dfbe1e1304"
+          },
+          "quantity": 50
+        },
+        {
+          "materialId": {
+            "$oid": "6739b41113ab31dfbe1e1534"
+          },
+          "quantity": 70
+        },
+        {
+          "materialId": {
+            "$oid": "6739b72e13ab31dfbe1e1557"
+          },
+          "quantity": 250
+        },
+        {
+          "materialId": {
+            "$oid": "67399ce913ab31dfbe1e1345"
+          },
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "cakeId": {
+        "$oid": "6739ff1313ab31dfbe1e4661"
+      },
+      "selectedVariants": [],
+      "orderCount": 1,
+      "orderAmount": 1,
+      "currentInventory": 0,
+      "plannedProduction": 1,
+      "totalMaterials": [
+        {
+          "materialId": {
+            "$oid": "6739964b13ab31dfbe1e12f6"
+          },
+          "quantity": 70
+        },
+        {
+          "materialId": {
+            "$oid": "673998fa13ab31dfbe1e12fd"
+          },
+          "quantity": 4
+        },
+        {
+          "materialId": {
+            "$oid": "67399cdd13ab31dfbe1e133e"
+          },
+          "quantity": 250
+        },
+        {
+          "materialId": {
+            "$oid": "673995f513ab31dfbe1e12d2"
+          },
+          "quantity": 300
+        },
+        {
+          "materialId": {
+            "$oid": "6739964513ab31dfbe1e12ef"
+          },
+          "quantity": 20
+        },
+        {
+          "materialId": {
+            "$oid": "67399fe513ab31dfbe1e1383"
+          },
+          "quantity": 400
+        },
+        {
+          "materialId": {
+            "$oid": "6739bd9a13ab31dfbe1e164d"
+          },
+          "quantity": 50
+        },
+        {
+          "materialId": {
+            "$oid": "6739ed2513ab31dfbe1e233d"
+          },
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-06T05:02:00.505Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T17:48:59.143Z"
+  },
+  "__v": 0
+}]

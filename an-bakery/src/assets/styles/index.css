@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+  --primary-color: #fa748f;
+  --secondary-color: #6bd3d2;
+  --success-color: #9fd4a3;
+  --warning-color: #f5d400;
+  --danger-color: #cc293d;
+  --primary-flat: rgba(250, 116, 143, 0.2);
+  --secondary-flat: rgba(107, 211, 210, 0.2);
+  --success-flat: rgba(159, 212, 163, 0.2);
+  --warning-flat: rgba(245, 211, 0, 0.2);
+  --danger-flat: rgba(204, 41, 61, 0.2);
+  --dark-opacity-10: rgba(41, 41, 41, 0.1);
+}
+
+@layer utilities {
+  .w-scrollbar {
+    scrollbar-width: thin;
+    scrollbar-color: var(--primary-color) var(--dark-opacity-10);
+  }
+  .split-column {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  }
+}
+* {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  text-rendering: optimizeLegibility;
+  font-weight: 400;
+}
+
+.slick-slide > div {
+  margin: 20px 8px;
+}
+
+.title {
+  @apply text-8xl;
+}
+
+h1 {
+  @apply text-5xl;
+  font-weight: 800;
+}
+
+h2 {
+  @apply text-4xl;
+  font-weight: 700;
+}
+
+h3 {
+  @apply text-3xl;
+  font-weight: 700;
+}
+
+h4 {
+  @apply text-2xl;
+  font-weight: 600;
+}
+
+h5 {
+  @apply text-xl;
+  font-weight: 600;
+}
+
+h6 {
+  @apply text-lg;
+  font-weight: 500;
+}
+
+p {
+  @apply text-base;
+  font-weight: 400;
+}
+
+.small,
+p.small {
+  @apply text-sm;
+  font-weight: 400;
+}
+
+.tiny,
+p.tiny {
+  @apply text-xs;
+  font-weight: 400;
+}

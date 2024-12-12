@@ -1,0 +1,517 @@
+[{
+  "_id": {
+    "$oid": "672ee6b2c91a9dc421b11829"
+  },
+  "email": "dangvanhaufpt2019@gmail.com",
+  "password": "$2b$10$kLRlb4UrGrbLpP.X5mkCyuf2TaN58Sdxx81i.RlbjQtFzuqQrVifK",
+  "isActive": true,
+  "vipPoints": {
+    "currentPoint": 5010,
+    "historyPoints": [
+      {
+        "amount": 300,
+        "title": "Hoàn thành đơn hàng - 673618f31e111a6e674a8d52",
+        "_id": {
+          "$oid": "6736db54a83f9479b40459a4"
+        },
+        "createdAt": {
+          "$date": "2024-11-15T05:25:40.310Z"
+        },
+        "updatedAt": {
+          "$date": "2024-11-15T05:25:40.310Z"
+        }
+      },
+      {
+        "amount": 310,
+        "title": "Hoàn thành đơn hàng - 6736dbe6a83f9479b4045b87",
+        "_id": {
+          "$oid": "6736dc2aa83f9479b4045ce2"
+        },
+        "createdAt": {
+          "$date": "2024-11-15T05:29:14.908Z"
+        },
+        "updatedAt": {
+          "$date": "2024-11-15T05:29:14.908Z"
+        }
+      },
+      {
+        "amount": 1100,
+        "title": "Hoàn thành đơn hàng - 674f162c110caf55f9480768",
+        "_id": {
+          "$oid": "674f176f110caf55f9480e29"
+        },
+        "createdAt": {
+          "$date": "2024-12-03T14:36:31.488Z"
+        },
+        "updatedAt": {
+          "$date": "2024-12-03T14:36:31.488Z"
+        }
+      },
+      {
+        "amount": 1100,
+        "title": "Hoàn thành đơn hàng - 674f264c110caf55f948480d",
+        "_id": {
+          "$oid": "674f2722110caf55f9485095"
+        },
+        "createdAt": {
+          "$date": "2024-12-03T15:43:30.471Z"
+        },
+        "updatedAt": {
+          "$date": "2024-12-03T15:43:30.471Z"
+        }
+      },
+      {
+        "amount": 1100,
+        "title": "Hoàn thành đơn hàng - 67505a48c66376633a456466",
+        "_id": {
+          "$oid": "67505a6fc66376633a456a62"
+        },
+        "createdAt": {
+          "$date": "2024-12-04T13:34:39.333Z"
+        },
+        "updatedAt": {
+          "$date": "2024-12-04T13:34:39.333Z"
+        }
+      },
+      {
+        "amount": 1100,
+        "title": "Hoàn thành đơn hàng - 674f2965110caf55f9485c33",
+        "_id": {
+          "$oid": "67506c82c66376633a45980e"
+        },
+        "createdAt": {
+          "$date": "2024-12-04T14:51:46.258Z"
+        },
+        "updatedAt": {
+          "$date": "2024-12-04T14:51:46.258Z"
+        }
+      }
+    ]
+  },
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzJlZTZiMmM5MWE5ZGM0MjFiMTE4MjkiLCJpc1JlZnJlc2hUb2tlbiI6dHJ1ZSwiaWF0IjoxNzMzOTI2MzIzLCJleHAiOjE3MzY1MTgzMjN9.SyUCIYBP6_jneI-7ufp9XjCqf9zNY77IFlVGuL0SQdw",
+  "provider": "credentials",
+  "userName": "dev-snake",
+  "userCart": [
+    {
+      "branchId": "67312a2ab2eac3d249fd0b4e",
+      "cartItems": [
+        {
+          "cakeId": "673a376913ab31dfbe1e7e40",
+          "selectedVariants": [],
+          "quantity": 1,
+          "_id": {
+            "$oid": "6759b58170ec1f07a009ea8e"
+          }
+        },
+        {
+          "cakeId": "6739ff1313ab31dfbe1e4661",
+          "selectedVariants": [],
+          "quantity": 1,
+          "_id": {
+            "$oid": "6759b65070ec1f07a009fbc9"
+          }
+        }
+      ],
+      "branchVoucher": null,
+      "_id": {
+        "$oid": "6759b54170ec1f07a009e202"
+      }
+    }
+  ],
+  "userAddresses": [
+    {
+      "fullName": "Trần Ngọc Hiếu",
+      "email": "tnhieu@gmail.com",
+      "phoneNumber": "0399238234",
+      "fullAddress": "Cầu Ông Xuân,Xã Suối Tiên,Huyện Diên Khánh, Tỉnh Khánh Hòa",
+      "provinceId": "56",
+      "districtId": "574",
+      "wardId": "22705",
+      "_id": {
+        "$oid": "674af93647036160e9a36779"
+      }
+    }
+  ],
+  "blockHistory": [],
+  "createdAt": {
+    "$date": "2024-11-09T04:36:02.383Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-11T15:57:04.786Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67319742341c8f04a0acec4c"
+  },
+  "email": "hieutn.bedev@gmail.com",
+  "password": null,
+  "isActive": true,
+  "vipPoints": {
+    "currentPoint": 0,
+    "historyPoints": [
+      {
+        "amount": -12000,
+        "title": "Hoàn thành đặt hàng - 6742cefbc0203524e0a0fd9d",
+        "_id": {
+          "$oid": "6742cefbc0203524e0a0fd9f"
+        },
+        "createdAt": {
+          "$date": "2024-11-24T07:00:11.239Z"
+        },
+        "updatedAt": {
+          "$date": "2024-11-24T07:00:11.239Z"
+        }
+      }
+    ]
+  },
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzMxOTc0MjM0MWM4ZjA0YTBhY2VjNGMiLCJpc1JlZnJlc2hUb2tlbiI6dHJ1ZSwiaWF0IjoxNzMyMzgyNTg0LCJleHAiOjE3MzQ5NzQ1ODR9.zfRk16uYbA5jB5znJjtlTxmxXE7YL_YVDFwTmRvDN7Q",
+  "provider": "google",
+  "userName": "OYMwIh0q5j4h",
+  "userCart": [],
+  "userAddresses": [
+    {
+      "fullName": "Trần Ngọc Hiếu",
+      "email": "hieutn.bedev@gmail.com",
+      "phoneNumber": "0388504402",
+      "fullAddress": "Cầu Lùng -  Diên Khánh -  Khánh Hòa,Xã Suối Hiệp,Huyện Diên Khánh,Tỉnh Khánh Hòa",
+      "provinceId": "56",
+      "districtId": "574",
+      "wardId": "22702",
+      "_id": {
+        "$oid": "6732e6a19d94f96500110c79"
+      }
+    }
+  ],
+  "blockHistory": [],
+  "createdAt": {
+    "$date": "2024-11-11T05:33:54.230Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-29T06:01:22.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731a7edaa2c39972d7538d3"
+  },
+  "email": "demogamer0809@gmail.com",
+  "password": "$2b$10$YHboHXJrQVIXjvCj2C1/MOWyMz/E4YMCtOplUHG2LN8lyO6Tq/GWe",
+  "isActive": true,
+  "vipPoints": {
+    "currentPoint": 0
+  },
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzMxYTdlZGFhMmMzOTk3MmQ3NTM4ZDMiLCJpc1JlZnJlc2hUb2tlbiI6dHJ1ZSwiaWF0IjoxNzMyNDIyNDE3LCJleHAiOjE3MzUwMTQ0MTd9.ml2dA8KE-y3u1zNwOIyHnXppYbT0WrKDk1we4570P_Y",
+  "provider": "credentials",
+  "userName": "cgW9rcNSvgQ",
+  "userCart": [],
+  "userAddresses": [
+    {
+      "fullName": "Hoang Nguyen Thai Bao",
+      "email": "tbh@gmail.com",
+      "phoneNumber": "0989789876",
+      "fullAddress": "Dia chi 1,Xã Hạ Mỗ,Huyện Đan Phượng,Thành phố Hà Nội",
+      "provinceId": "01",
+      "districtId": "273",
+      "wardId": "09805",
+      "_id": {
+        "$oid": "6731a84faa2c39972d7539f3"
+      }
+    }
+  ],
+  "blockHistory": [],
+  "createdAt": {
+    "$date": "2024-11-11T06:45:01.780Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-24T04:26:57.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6735e966c68622120d9d9eb4"
+  },
+  "email": "dvh@gmail.com",
+  "password": "$2b$10$VBfo5IzWqr.SrgPoTBKezeQe77YH6EzZFLTZ/utBl5ni0EUrdmjo2",
+  "isActive": false,
+  "vipPoints": {
+    "currentPoint": 0,
+    "historyPoints": []
+  },
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzM1ZTk2NmM2ODYyMjEyMGQ5ZDllYjQiLCJpc1JlZnJlc2hUb2tlbiI6dHJ1ZSwiaWF0IjoxNzMxNTg2NDE1LCJleHAiOjE3MzQxNzg0MTV9.vV6GJFClIsGYTCEcrL1MzMabcXCg4B2qGhJ7RoQHT2w",
+  "provider": "credentials",
+  "userName": "acie1zy2dg",
+  "userCart": [
+    {
+      "branchId": "6731a435048b7632fdd89415",
+      "cartItems": [
+        {
+          "cakeId": "672fc2028d270205020a0a6d",
+          "selectedVariants": [],
+          "quantity": 1,
+          "_id": {
+            "$oid": "6735e977c68622120d9d9f92"
+          }
+        }
+      ],
+      "branchVoucher": null,
+      "_id": {
+        "$oid": "6735e977c68622120d9d9f91"
+      }
+    }
+  ],
+  "userAddresses": [
+    {
+      "fullName": "dvh",
+      "email": "d@gmail.com",
+      "phoneNumber": "0333333333",
+      "fullAddress": "sdfdsf,Phường Hòa Thọ Tây,Quận Cẩm Lệ,Thành phố Đà Nẵng",
+      "provinceId": "48",
+      "districtId": "495",
+      "wardId": "20311",
+      "_id": {
+        "$oid": "6735e990c68622120d9d9fa4"
+      }
+    }
+  ],
+  "blockHistory": [
+    {
+      "blockTime": {
+        "$date": "2024-11-19T15:13:39.170Z"
+      },
+      "blockReason": "huy hang\n",
+      "_id": {
+        "$oid": "673cab237cdc5035c0bad0cd"
+      }
+    },
+    {
+      "blockTime": {
+        "$date": "2024-11-21T08:27:04.709Z"
+      },
+      "blockReason": "test khoa 2",
+      "_id": {
+        "$oid": "673eeed8c473c4f0c02b0ef5"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-11-14T12:13:26.906Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T08:27:04.709Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6736b703d59b2f5c198a6e86"
+  },
+  "email": "hieuxeom.media.1@gmail.com",
+  "password": "$2b$10$YE0ie/JqTwlrh8ADwRXBfeQmdCzMMyDhtKQxXylj2whkL8uOupjyO",
+  "isActive": true,
+  "vipPoints": {
+    "currentPoint": 0,
+    "historyPoints": []
+  },
+  "refreshToken": null,
+  "provider": "credentials",
+  "userName": "hieuxeom 123",
+  "userCart": [
+    {
+      "branchId": "67312a2ab2eac3d249fd0b4e",
+      "cartItems": [
+        {
+          "cakeId": "6739ff1313ab31dfbe1e4661",
+          "selectedVariants": [],
+          "quantity": 1,
+          "_id": {
+            "$oid": "673ffc373b5fe3e54f429bf0"
+          }
+        }
+      ],
+      "branchVoucher": null,
+      "_id": {
+        "$oid": "673ffc373b5fe3e54f429bef"
+      }
+    }
+  ],
+  "userAddresses": [
+    {
+      "fullName": "Trần Ngọc Hiếu",
+      "email": "hieutn.bedev@gmail.com",
+      "phoneNumber": "0389439834",
+      "fullAddress": "123,Xã Đông Hiệp,Huyện Cờ Đỏ,Thành phố Cần Thơ",
+      "provinceId": "92",
+      "districtId": "925",
+      "wardId": "31273",
+      "_id": {
+        "$oid": "6738077db65c837a54e56afd"
+      }
+    }
+  ],
+  "blockHistory": [],
+  "createdAt": {
+    "$date": "2024-11-15T02:50:43.937Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T08:04:20.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737973be11a9cc0921db3ba"
+  },
+  "email": "testanalytics@gmail.com",
+  "password": "$2b$10$e0fxIx28d3VM8PxZ7nB2yeorGPp8lXKwaPjpHEkaCAoa/p7EOf8/2",
+  "isActive": true,
+  "vipPoints": {
+    "currentPoint": 0,
+    "historyPoints": []
+  },
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzM3OTczYmUxMWE5Y2MwOTIxZGIzYmEiLCJpc1JlZnJlc2hUb2tlbiI6dHJ1ZSwiaWF0IjoxNzMxNjk2NDQzLCJleHAiOjE3MzQyODg0NDN9.ZDUmylxP9a0Vsj7_fNFwfoRhAHmhAsH1hxaKITi_tKc",
+  "provider": "credentials",
+  "userName": "IzyicmCFLhr",
+  "userCart": [],
+  "userAddresses": [],
+  "blockHistory": [],
+  "createdAt": {
+    "$date": "2024-11-15T18:47:23.608Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-15T18:47:23.755Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673797d5e11a9cc0921db5b6"
+  },
+  "email": "testana2@gmail.com",
+  "password": "$2b$10$lModOqMPnf4p5NdMN8wNeuOFxMDbz9/bXsHglYKznMk8bTOQXWZrq",
+  "isActive": true,
+  "vipPoints": {
+    "currentPoint": 0,
+    "historyPoints": []
+  },
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzM3OTdkNWUxMWE5Y2MwOTIxZGI1YjYiLCJpc1JlZnJlc2hUb2tlbiI6dHJ1ZSwiaWF0IjoxNzMxNjk2NTk3LCJleHAiOjE3MzQyODg1OTd9.t_vxmISBg5QDWZISnIPobfvJig01rbPKOzqE8KV4Qf8",
+  "provider": "credentials",
+  "userName": "iwZiWNx19wR",
+  "userCart": [],
+  "userAddresses": [],
+  "blockHistory": [],
+  "createdAt": {
+    "$date": "2024-11-15T18:49:57.396Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-15T18:49:57.533Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67379886e11a9cc0921db6ef"
+  },
+  "email": "anb-hieu@gmail.com",
+  "password": "$2b$10$65NGshoQWRaDK1ykn1X78e/Y93qq.O3IakiVaXVZcV1ec8rFR/AAe",
+  "isActive": true,
+  "vipPoints": {
+    "currentPoint": 0,
+    "historyPoints": []
+  },
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzM3OTg4NmUxMWE5Y2MwOTIxZGI2ZWYiLCJpc1JlZnJlc2hUb2tlbiI6dHJ1ZSwiaWF0IjoxNzMxNjk2Nzc0LCJleHAiOjE3MzQyODg3NzR9.JbzRjtzWW3NvvHLbFGweYKGt50r0k_OWPffvNA-Nq34",
+  "provider": "credentials",
+  "userName": "TYUzYFc308ii",
+  "userCart": [],
+  "userAddresses": [],
+  "blockHistory": [],
+  "createdAt": {
+    "$date": "2024-11-15T18:52:54.656Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-15T18:52:54.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673a041b13ab31dfbe1e5cd8"
+  },
+  "email": "nguyensyson47165@gmail.com",
+  "password": null,
+  "isActive": true,
+  "vipPoints": {
+    "currentPoint": 0,
+    "historyPoints": []
+  },
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzNhMDQxYjEzYWIzMWRmYmUxZTVjZDgiLCJpc1JlZnJlc2hUb2tlbiI6dHJ1ZSwiaWF0IjoxNzMxODU1Mzg3LCJleHAiOjE3MzQ0NDczODd9.UqsRcwN4PBcIClfZxQejOtPZllMzvwfvJBMVIq-Ctao",
+  "provider": "google",
+  "userName": "opiHJPeYgfqv",
+  "userCart": [],
+  "userAddresses": [],
+  "blockHistory": [
+    {
+      "blockTime": {
+        "$date": "2024-11-29T06:12:09.526Z"
+      },
+      "blockReason": "Test chức năng khóa tài khoản",
+      "_id": {
+        "$oid": "67495b39ba43351f351ded09"
+      }
+    },
+    {
+      "blockTime": {
+        "$date": "2024-11-29T06:12:17.132Z"
+      },
+      "blockReason": "Test chức năng khóa tài khoản",
+      "_id": {
+        "$oid": "67495b41ba43351f351ded13"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-11-17T14:56:27.134Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-29T06:12:19.320Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67513ff95627430a4e54330d"
+  },
+  "email": "testblock@gmail.com",
+  "password": "$2b$10$fPa4GyEkqgqQ7UG1nShqJexyGe1kaRHGWABprCOBsjYz07.aVMaPe",
+  "isActive": true,
+  "vipPoints": {
+    "currentPoint": 0,
+    "historyPoints": []
+  },
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzUxM2ZmOTU2Mjc0MzBhNGU1NDMzMGQiLCJpc1JlZnJlc2hUb2tlbiI6dHJ1ZSwiaWF0IjoxNzMzMzc4MTU4LCJleHAiOjE3MzU5NzAxNTh9.grUysnUT2BhO1MUifzsQnOdx-LyZfVggXDsKYg8Zuhw",
+  "provider": "credentials",
+  "userName": "7vIZNXLnXIL",
+  "userCart": [],
+  "userAddresses": [],
+  "blockHistory": [
+    {
+      "blockTime": {
+        "$date": "2024-12-05T05:54:40.472Z"
+      },
+      "blockReason": "test khoa\n",
+      "_id": {
+        "$oid": "675140205627430a4e5433f8"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-05T05:54:01.054Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T05:55:58.813Z"
+  },
+  "__v": 0
+}]

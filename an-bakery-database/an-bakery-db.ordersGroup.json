@@ -1,0 +1,899 @@
+[{
+  "_id": {
+    "$oid": "673ca9a17cdc5035c0bacf14"
+  },
+  "subTotalPrice": 349600,
+  "totalPrice": 369600,
+  "reducedFee": 0,
+  "shippingFee": 20000,
+  "voucherCode": null,
+  "customerId": {
+    "$oid": "672ee6b2c91a9dc421b11829"
+  },
+  "customerInfo": {
+    "fullName": "Đặng Văn Hậu",
+    "phoneNumber": "0337171563",
+    "email": "dangvanhaufpt2019@gmail.com",
+    "fullAddress": "xom 4 thon my danh, Xã Tân Thới Nhì, Huyện Hóc Môn, Thành phố Hồ Chí Minh"
+  },
+  "paymentStatus": "cashOnDelivery",
+  "orderData": [
+    {
+      "branchId": {
+        "$oid": "6731a435048b7632fdd89415"
+      },
+      "orderItems": [
+        {
+          "cakeId": {
+            "$oid": "673c5b3d0ccc06a6d0221fd7"
+          },
+          "selectedVariants": [],
+          "quantity": 1,
+          "priceAtBuy": 349600
+        }
+      ],
+      "orderSummary": {
+        "subTotalPrice": 349600,
+        "totalPrice": 369600,
+        "reducedFee": 0,
+        "shippingFee": 20000
+      },
+      "orderNote": "",
+      "branchVoucher": null,
+      "orderOptions": {
+        "deliveryMethod": "toHouse",
+        "deliveryTime": {
+          "$date": "2024-11-19T15:07:13.473Z"
+        }
+      },
+      "orderUrgent": {
+        "isUrgent": false
+      }
+    }
+  ],
+  "orderType": "customerOrder",
+  "orderApplyPoint": 0,
+  "createdAt": {
+    "$date": "2024-11-19T15:07:13.482Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T15:07:13.482Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673eec92c473c4f0c02afff6"
+  },
+  "subTotalPrice": 354600,
+  "totalPrice": 374600,
+  "reducedFee": 0,
+  "shippingFee": 20000,
+  "voucherCode": null,
+  "customerId": {
+    "$oid": "6736b703d59b2f5c198a6e86"
+  },
+  "customerInfo": {
+    "fullName": "Trần Ngọc Hiếu",
+    "phoneNumber": "0389439834",
+    "email": "hieutn.bedev@gmail.com",
+    "fullAddress": "123,Xã Đông Hiệp,Huyện Cờ Đỏ,Thành phố Cần Thơ"
+  },
+  "paymentStatus": "cashOnDelivery",
+  "orderData": [
+    {
+      "branchId": {
+        "$oid": "6731a435048b7632fdd89415"
+      },
+      "orderItems": [
+        {
+          "cakeId": {
+            "$oid": "673c5b3d0ccc06a6d0221fd7"
+          },
+          "selectedVariants": [
+            {
+              "variantKey": {
+                "$oid": "673c5b3d0ccc06a6d0221fd8"
+              },
+              "itemKey": {
+                "$oid": "673c5b3d0ccc06a6d0221fd9"
+              }
+            }
+          ],
+          "quantity": 1,
+          "priceAtBuy": 349600
+        }
+      ],
+      "orderSummary": {
+        "subTotalPrice": 354600,
+        "totalPrice": 374600,
+        "reducedFee": 0,
+        "shippingFee": 20000
+      },
+      "orderNote": "",
+      "branchVoucher": null,
+      "orderOptions": {
+        "deliveryMethod": "toHouse",
+        "deliveryTime": {
+          "$date": "2024-11-21T08:17:22.066Z"
+        }
+      },
+      "orderUrgent": {
+        "isUrgent": false
+      }
+    }
+  ],
+  "orderType": "customerOrder",
+  "orderApplyPoint": 0,
+  "createdAt": {
+    "$date": "2024-11-21T08:17:22.075Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T08:17:22.075Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6742cefbc0203524e0a0fd9d"
+  },
+  "subTotalPrice": 95000,
+  "totalPrice": 103000,
+  "reducedFee": 0,
+  "shippingFee": 20000,
+  "voucherCode": null,
+  "customerId": {
+    "$oid": "67319742341c8f04a0acec4c"
+  },
+  "customerInfo": {
+    "fullName": "Trần Ngọc Hiếu",
+    "phoneNumber": "0388504402",
+    "email": "hieutn.bedev@gmail.com",
+    "fullAddress": "Cầu Lùng -  Diên Khánh -  Khánh Hòa,Xã Suối Hiệp,Huyện Diên Khánh,Tỉnh Khánh Hòa"
+  },
+  "paymentStatus": "failed",
+  "orderData": [
+    {
+      "branchId": {
+        "$oid": "67312a2ab2eac3d249fd0b4e"
+      },
+      "orderItems": [
+        {
+          "cakeId": {
+            "$oid": "6739f6bd13ab31dfbe1e3050"
+          },
+          "selectedVariants": [
+            {
+              "variantKey": {
+                "$oid": "6739f6bd13ab31dfbe1e3051"
+              },
+              "itemKey": {
+                "$oid": "6739f6bd13ab31dfbe1e3052"
+              }
+            }
+          ],
+          "quantity": 1,
+          "priceAtBuy": 90000
+        }
+      ],
+      "orderSummary": {
+        "subTotalPrice": 95000,
+        "totalPrice": 115000,
+        "reducedFee": 0,
+        "shippingFee": 20000
+      },
+      "orderNote": "",
+      "branchVoucher": null,
+      "orderOptions": {
+        "deliveryMethod": "toHouse",
+        "deliveryTime": {
+          "$date": "2024-11-24T07:00:11.156Z"
+        }
+      },
+      "orderUrgent": {
+        "isUrgent": false
+      }
+    }
+  ],
+  "orderType": "customerOrder",
+  "orderApplyPoint": 12000,
+  "createdAt": {
+    "$date": "2024-11-24T07:00:11.183Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-24T07:00:20.714Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674b0f3247036160e9a36a58"
+  },
+  "subTotalPrice": 14700,
+  "totalPrice": 34700,
+  "reducedFee": 0,
+  "shippingFee": 20000,
+  "voucherCode": null,
+  "customerId": {
+    "$oid": "672ee6b2c91a9dc421b11829"
+  },
+  "customerInfo": {
+    "fullName": "Trần Ngọc Hiếu",
+    "phoneNumber": "0399238234",
+    "email": "tnhieu@gmail.com",
+    "fullAddress": "Cầu Ông Xuân,Xã Suối Tiên,Huyện Diên Khánh, Tỉnh Khánh Hòa"
+  },
+  "paymentStatus": "cashOnDelivery",
+  "orderData": [
+    {
+      "branchId": {
+        "$oid": "67312a2ab2eac3d249fd0b4e"
+      },
+      "orderItems": [
+        {
+          "cakeId": {
+            "$oid": "6740c3147c97727848cd6ac5"
+          },
+          "selectedVariants": [],
+          "quantity": 1,
+          "priceAtBuy": 14700
+        }
+      ],
+      "orderSummary": {
+        "subTotalPrice": 14700,
+        "totalPrice": 34700,
+        "reducedFee": 0,
+        "shippingFee": 20000
+      },
+      "orderNote": "",
+      "branchVoucher": null,
+      "orderOptions": {
+        "deliveryMethod": "toHouse",
+        "deliveryTime": {
+          "$date": "2024-11-30T13:12:18.738Z"
+        }
+      },
+      "orderUrgent": {
+        "isUrgent": false
+      }
+    }
+  ],
+  "orderType": "customerOrder",
+  "orderApplyPoint": 0,
+  "createdAt": {
+    "$date": "2024-11-30T13:12:18.750Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-30T13:12:18.750Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674c3aa092561a19d7644ce8"
+  },
+  "subTotalPrice": 90000,
+  "totalPrice": 110000,
+  "reducedFee": 0,
+  "shippingFee": 20000,
+  "voucherCode": null,
+  "customerId": {
+    "$oid": "672ee6b2c91a9dc421b11829"
+  },
+  "customerInfo": {
+    "fullName": "Trần Ngọc Hiếu",
+    "phoneNumber": "0399238234",
+    "email": "tnhieu@gmail.com",
+    "fullAddress": "Cầu Ông Xuân,Xã Suối Tiên,Huyện Diên Khánh, Tỉnh Khánh Hòa"
+  },
+  "paymentStatus": "cashOnDelivery",
+  "orderData": [
+    {
+      "branchId": {
+        "$oid": "67312a2ab2eac3d249fd0b4e"
+      },
+      "orderItems": [
+        {
+          "cakeId": {
+            "$oid": "6739f6bd13ab31dfbe1e3050"
+          },
+          "selectedVariants": [],
+          "quantity": 1,
+          "priceAtBuy": 90000
+        }
+      ],
+      "orderSummary": {
+        "subTotalPrice": 90000,
+        "totalPrice": 110000,
+        "reducedFee": 0,
+        "shippingFee": 20000
+      },
+      "orderNote": "",
+      "branchVoucher": null,
+      "orderOptions": {
+        "deliveryMethod": "toHouse",
+        "deliveryTime": {
+          "$date": "2024-12-01T10:29:52.367Z"
+        }
+      },
+      "orderUrgent": {
+        "isUrgent": false
+      }
+    }
+  ],
+  "orderType": "customerOrder",
+  "orderApplyPoint": 0,
+  "createdAt": {
+    "$date": "2024-12-01T10:29:52.375Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-01T10:29:52.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674dd39288dfeab11bfe0808"
+  },
+  "subTotalPrice": 247000,
+  "totalPrice": 267000,
+  "reducedFee": 0,
+  "shippingFee": 20000,
+  "voucherCode": null,
+  "customerId": {
+    "$oid": "672ee6b2c91a9dc421b11829"
+  },
+  "customerInfo": {
+    "fullName": "Trần Ngọc Hiếu",
+    "phoneNumber": "0399238234",
+    "email": "tnhieu@gmail.com",
+    "fullAddress": "Cầu Ông Xuân,Xã Suối Tiên,Huyện Diên Khánh, Tỉnh Khánh Hòa"
+  },
+  "paymentStatus": "failed",
+  "orderData": [
+    {
+      "branchId": {
+        "$oid": "67312a2ab2eac3d249fd0b4e"
+      },
+      "orderItems": [
+        {
+          "cakeId": {
+            "$oid": "673cd8c2bd3e3d3e08c401be"
+          },
+          "selectedVariants": [],
+          "quantity": 1,
+          "priceAtBuy": 247000
+        }
+      ],
+      "orderSummary": {
+        "subTotalPrice": 247000,
+        "totalPrice": 267000,
+        "reducedFee": 0,
+        "shippingFee": 20000
+      },
+      "orderNote": "",
+      "branchVoucher": null,
+      "orderOptions": {
+        "deliveryMethod": "toHouse",
+        "deliveryTime": {
+          "$date": "2024-12-02T15:34:42.182Z"
+        }
+      },
+      "orderUrgent": {
+        "isUrgent": false
+      }
+    }
+  ],
+  "orderType": "customerOrder",
+  "orderApplyPoint": 0,
+  "createdAt": {
+    "$date": "2024-12-02T15:34:42.191Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T15:37:22.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f162c110caf55f9480768"
+  },
+  "subTotalPrice": 90000,
+  "totalPrice": 110000,
+  "reducedFee": 0,
+  "shippingFee": 20000,
+  "voucherCode": null,
+  "customerId": {
+    "$oid": "672ee6b2c91a9dc421b11829"
+  },
+  "customerInfo": {
+    "fullName": "Trần Ngọc Hiếu",
+    "phoneNumber": "0399238234",
+    "email": "tnhieu@gmail.com",
+    "fullAddress": "Cầu Ông Xuân,Xã Suối Tiên,Huyện Diên Khánh, Tỉnh Khánh Hòa"
+  },
+  "paymentStatus": "cashOnDelivery",
+  "orderData": [
+    {
+      "branchId": {
+        "$oid": "67312a2ab2eac3d249fd0b4e"
+      },
+      "orderItems": [
+        {
+          "cakeId": {
+            "$oid": "6739f6bd13ab31dfbe1e3050"
+          },
+          "selectedVariants": [],
+          "quantity": 1,
+          "priceAtBuy": 90000
+        }
+      ],
+      "orderSummary": {
+        "subTotalPrice": 90000,
+        "totalPrice": 110000,
+        "reducedFee": 0,
+        "shippingFee": 20000
+      },
+      "orderNote": "",
+      "branchVoucher": null,
+      "orderOptions": {
+        "deliveryMethod": "toHouse",
+        "deliveryTime": {
+          "$date": "2024-12-03T14:31:08.447Z"
+        }
+      },
+      "orderUrgent": {
+        "isUrgent": false
+      }
+    }
+  ],
+  "orderType": "customerOrder",
+  "orderApplyPoint": 0,
+  "createdAt": {
+    "$date": "2024-12-03T14:31:08.451Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T14:31:08.451Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f2204110caf55f94830b3"
+  },
+  "subTotalPrice": 90000,
+  "totalPrice": 110000,
+  "reducedFee": 0,
+  "shippingFee": 20000,
+  "voucherCode": null,
+  "customerId": {
+    "$oid": "672ee6b2c91a9dc421b11829"
+  },
+  "customerInfo": {
+    "fullName": "Trần Ngọc Hiếu",
+    "phoneNumber": "0399238234",
+    "email": "tnhieu@gmail.com",
+    "fullAddress": "Cầu Ông Xuân,Xã Suối Tiên,Huyện Diên Khánh, Tỉnh Khánh Hòa"
+  },
+  "paymentStatus": "cashOnDelivery",
+  "orderData": [
+    {
+      "branchId": {
+        "$oid": "67312a2ab2eac3d249fd0b4e"
+      },
+      "orderItems": [
+        {
+          "cakeId": {
+            "$oid": "6739f6bd13ab31dfbe1e3050"
+          },
+          "selectedVariants": [],
+          "quantity": 1,
+          "priceAtBuy": 90000
+        }
+      ],
+      "orderSummary": {
+        "subTotalPrice": 90000,
+        "totalPrice": 110000,
+        "reducedFee": 0,
+        "shippingFee": 20000
+      },
+      "orderNote": "",
+      "branchVoucher": null,
+      "orderOptions": {
+        "deliveryMethod": "toHouse",
+        "deliveryTime": {
+          "$date": "2024-12-03T15:21:40.048Z"
+        }
+      },
+      "orderUrgent": {
+        "isUrgent": false
+      }
+    }
+  ],
+  "orderType": "customerOrder",
+  "orderApplyPoint": 0,
+  "createdAt": {
+    "$date": "2024-12-03T15:21:40.051Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T15:21:40.051Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f24fd110caf55f9483d6e"
+  },
+  "subTotalPrice": 90000,
+  "totalPrice": 110000,
+  "reducedFee": 0,
+  "shippingFee": 20000,
+  "voucherCode": null,
+  "customerId": {
+    "$oid": "672ee6b2c91a9dc421b11829"
+  },
+  "customerInfo": {
+    "fullName": "Trần Ngọc Hiếu",
+    "phoneNumber": "0399238234",
+    "email": "tnhieu@gmail.com",
+    "fullAddress": "Cầu Ông Xuân,Xã Suối Tiên,Huyện Diên Khánh, Tỉnh Khánh Hòa"
+  },
+  "paymentStatus": "cashOnDelivery",
+  "orderData": [
+    {
+      "branchId": {
+        "$oid": "67312a2ab2eac3d249fd0b4e"
+      },
+      "orderItems": [
+        {
+          "cakeId": {
+            "$oid": "6739f6bd13ab31dfbe1e3050"
+          },
+          "selectedVariants": [],
+          "quantity": 1,
+          "priceAtBuy": 90000
+        }
+      ],
+      "orderSummary": {
+        "subTotalPrice": 90000,
+        "totalPrice": 110000,
+        "reducedFee": 0,
+        "shippingFee": 20000
+      },
+      "orderNote": "",
+      "branchVoucher": null,
+      "orderOptions": {
+        "deliveryMethod": "toHouse",
+        "deliveryTime": {
+          "$date": "2024-12-03T15:34:21.010Z"
+        }
+      },
+      "orderUrgent": {
+        "isUrgent": false
+      }
+    }
+  ],
+  "orderType": "customerOrder",
+  "orderApplyPoint": 0,
+  "createdAt": {
+    "$date": "2024-12-03T15:34:21.015Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T15:34:21.015Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f264c110caf55f948480d"
+  },
+  "subTotalPrice": 90000,
+  "totalPrice": 110000,
+  "reducedFee": 0,
+  "shippingFee": 20000,
+  "voucherCode": null,
+  "customerId": {
+    "$oid": "672ee6b2c91a9dc421b11829"
+  },
+  "customerInfo": {
+    "fullName": "Trần Ngọc Hiếu",
+    "phoneNumber": "0399238234",
+    "email": "tnhieu@gmail.com",
+    "fullAddress": "Cầu Ông Xuân,Xã Suối Tiên,Huyện Diên Khánh, Tỉnh Khánh Hòa"
+  },
+  "paymentStatus": "cashOnDelivery",
+  "orderData": [
+    {
+      "branchId": {
+        "$oid": "67312a2ab2eac3d249fd0b4e"
+      },
+      "orderItems": [
+        {
+          "cakeId": {
+            "$oid": "6739f6bd13ab31dfbe1e3050"
+          },
+          "selectedVariants": [],
+          "quantity": 1,
+          "priceAtBuy": 90000
+        }
+      ],
+      "orderSummary": {
+        "subTotalPrice": 90000,
+        "totalPrice": 110000,
+        "reducedFee": 0,
+        "shippingFee": 20000
+      },
+      "orderNote": "",
+      "branchVoucher": null,
+      "orderOptions": {
+        "deliveryMethod": "toHouse",
+        "deliveryTime": {
+          "$date": "2024-12-03T15:39:56.603Z"
+        }
+      },
+      "orderUrgent": {
+        "isUrgent": false
+      }
+    }
+  ],
+  "orderType": "customerOrder",
+  "orderApplyPoint": 0,
+  "createdAt": {
+    "$date": "2024-12-03T15:39:56.607Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T15:39:56.607Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f2965110caf55f9485c33"
+  },
+  "subTotalPrice": 90000,
+  "totalPrice": 110000,
+  "reducedFee": 0,
+  "shippingFee": 20000,
+  "voucherCode": null,
+  "customerId": {
+    "$oid": "672ee6b2c91a9dc421b11829"
+  },
+  "customerInfo": {
+    "fullName": "Trần Ngọc Hiếu",
+    "phoneNumber": "0399238234",
+    "email": "tnhieu@gmail.com",
+    "fullAddress": "Cầu Ông Xuân,Xã Suối Tiên,Huyện Diên Khánh, Tỉnh Khánh Hòa"
+  },
+  "paymentStatus": "cashOnDelivery",
+  "orderData": [
+    {
+      "branchId": {
+        "$oid": "67312a2ab2eac3d249fd0b4e"
+      },
+      "orderItems": [
+        {
+          "cakeId": {
+            "$oid": "6739f6bd13ab31dfbe1e3050"
+          },
+          "selectedVariants": [],
+          "quantity": 1,
+          "priceAtBuy": 90000
+        }
+      ],
+      "orderSummary": {
+        "subTotalPrice": 90000,
+        "totalPrice": 110000,
+        "reducedFee": 0,
+        "shippingFee": 20000
+      },
+      "orderNote": "",
+      "branchVoucher": null,
+      "orderOptions": {
+        "deliveryMethod": "toHouse",
+        "deliveryTime": {
+          "$date": "2024-12-03T15:53:09.336Z"
+        }
+      },
+      "orderUrgent": {
+        "isUrgent": false
+      }
+    }
+  ],
+  "orderType": "customerOrder",
+  "orderApplyPoint": 0,
+  "createdAt": {
+    "$date": "2024-12-03T15:53:09.338Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T15:53:09.338Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67505a48c66376633a456466"
+  },
+  "subTotalPrice": 90000,
+  "totalPrice": 110000,
+  "reducedFee": 0,
+  "shippingFee": 20000,
+  "voucherCode": null,
+  "customerId": {
+    "$oid": "672ee6b2c91a9dc421b11829"
+  },
+  "customerInfo": {
+    "fullName": "Trần Ngọc Hiếu",
+    "phoneNumber": "0399238234",
+    "email": "tnhieu@gmail.com",
+    "fullAddress": "Cầu Ông Xuân,Xã Suối Tiên,Huyện Diên Khánh, Tỉnh Khánh Hòa"
+  },
+  "paymentStatus": "cashOnDelivery",
+  "orderData": [
+    {
+      "branchId": {
+        "$oid": "67312a2ab2eac3d249fd0b4e"
+      },
+      "orderItems": [
+        {
+          "cakeId": {
+            "$oid": "6739f6bd13ab31dfbe1e3050"
+          },
+          "selectedVariants": [],
+          "quantity": 1,
+          "priceAtBuy": 90000
+        }
+      ],
+      "orderSummary": {
+        "subTotalPrice": 90000,
+        "totalPrice": 110000,
+        "reducedFee": 0,
+        "shippingFee": 20000
+      },
+      "orderNote": "",
+      "branchVoucher": null,
+      "orderOptions": {
+        "deliveryMethod": "toHouse",
+        "deliveryTime": {
+          "$date": "2024-12-04T13:34:00.789Z"
+        }
+      },
+      "orderUrgent": {
+        "isUrgent": false
+      }
+    }
+  ],
+  "orderType": "customerOrder",
+  "orderApplyPoint": 0,
+  "createdAt": {
+    "$date": "2024-12-04T13:34:00.797Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-04T13:34:00.797Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67506c5bc66376633a4592fe"
+  },
+  "subTotalPrice": 90000,
+  "totalPrice": 110000,
+  "reducedFee": 0,
+  "shippingFee": 20000,
+  "voucherCode": null,
+  "customerId": {
+    "$oid": "672ee6b2c91a9dc421b11829"
+  },
+  "customerInfo": {
+    "fullName": "Trần Ngọc Hiếu",
+    "phoneNumber": "0399238234",
+    "email": "tnhieu@gmail.com",
+    "fullAddress": "Cầu Ông Xuân,Xã Suối Tiên,Huyện Diên Khánh, Tỉnh Khánh Hòa"
+  },
+  "paymentStatus": "cashOnDelivery",
+  "orderData": [
+    {
+      "branchId": {
+        "$oid": "67312a2ab2eac3d249fd0b4e"
+      },
+      "orderItems": [
+        {
+          "cakeId": {
+            "$oid": "6739f6bd13ab31dfbe1e3050"
+          },
+          "selectedVariants": [],
+          "quantity": 1,
+          "priceAtBuy": 90000
+        }
+      ],
+      "orderSummary": {
+        "subTotalPrice": 90000,
+        "totalPrice": 110000,
+        "reducedFee": 0,
+        "shippingFee": 20000
+      },
+      "orderNote": "",
+      "branchVoucher": null,
+      "orderOptions": {
+        "deliveryMethod": "toHouse",
+        "deliveryTime": {
+          "$date": "2024-12-04T14:51:07.715Z"
+        }
+      },
+      "orderUrgent": {
+        "isUrgent": false
+      }
+    }
+  ],
+  "orderType": "customerOrder",
+  "orderApplyPoint": 0,
+  "createdAt": {
+    "$date": "2024-12-04T14:51:07.721Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-04T14:51:07.721Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675282f5752cdfa28c6d6c32"
+  },
+  "subTotalPrice": 250000,
+  "totalPrice": 250000,
+  "reducedFee": 0,
+  "shippingFee": 0,
+  "voucherCode": null,
+  "paymentStatus": "cashOnDelivery",
+  "orderData": [
+    {
+      "branchId": {
+        "$oid": "67312a2ab2eac3d249fd0b4e"
+      },
+      "orderItems": [
+        {
+          "cakeId": {
+            "$oid": "6739f6bd13ab31dfbe1e3050"
+          },
+          "selectedVariants": [],
+          "quantity": 1,
+          "priceAtBuy": 90000
+        },
+        {
+          "cakeId": {
+            "$oid": "6739ff1313ab31dfbe1e4661"
+          },
+          "selectedVariants": [],
+          "quantity": 1,
+          "priceAtBuy": 160000
+        }
+      ],
+      "orderSummary": {
+        "subTotalPrice": 250000,
+        "totalPrice": 250000,
+        "reducedFee": 0,
+        "shippingFee": 0
+      },
+      "orderNote": "",
+      "branchVoucher": null,
+      "orderOptions": {
+        "deliveryTime": {
+          "$date": "2024-12-06T04:52:05.920Z"
+        },
+        "deliveryMethod": "atStore"
+      },
+      "orderUrgent": {
+        "isUrgent": false
+      }
+    }
+  ],
+  "orderType": "selfOrder",
+  "orderApplyPoint": 0,
+  "createdAt": {
+    "$date": "2024-12-06T04:52:05.940Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-06T04:52:05.940Z"
+  },
+  "__v": 0
+}]
